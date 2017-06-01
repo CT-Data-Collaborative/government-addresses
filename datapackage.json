@@ -1,0 +1,150 @@
+{
+  "name": "government-addresses",
+  "datapackage_version": "1.0-beta.18",
+  "title": "Government Addresses",
+  "description": "Government Addresses contains contact information for the municipalities in Connecticut.",
+  "version": "1.0",
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "municipalities",
+    "web": ""
+  }],
+  "author":[{
+    "name": "Jenna Daly",
+    "email": "jdaly@ctdata.org",
+    "web": "http://ctdata.org"
+  }],
+  "contributor": [],
+  "resources": [{
+    "path": "data/government-addresses.csv",
+    "format": "csv",
+    "schema": {
+      "fields": [{
+          "name": "Town",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "FIPS",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Year",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Address 1",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Address 2",
+          "type": "string",
+          "dimension": false
+        }, {
+          "name": "Address 3",
+          "type": "string",
+          "dimension": false
+        }, {         
+          "name": "City",
+          "type": "string",
+          "dimension": false
+        }, {   
+          "name": "Zip",
+          "type": "string",
+          "dimension": false
+        }, {             
+          "name": "Telephone",
+          "type": "string",
+          "dimension": true
+        }]
+      }
+    }
+  ],
+  "last_modified": "06/01/2017",
+  "ckan_extras": {
+    "full_description": {
+      "ckan_name": "Full Description",
+      "value": "Government Addresses contains contact information for the municipalities in Connecticut.",
+      "type": "string"
+    },
+    "suppression": {
+      "ckan_name": "Suppression",
+      "value": "",
+      "type": "string"
+    },
+    "technical_notes": {
+      "ckan_name": "Technical Notes",
+      "value": "",
+      "type": "string"
+    },
+    "socrata": {
+      "ckan_name": "Socrata",
+      "value": "False",
+      "type": "string"
+    },
+    "socrata_url": {
+      "ckan_name": "Socrata Dataset URL",
+      "value": "",
+      "type": "string"
+    },
+    "domain": {
+      "ckan_name": "Domain",
+      "value": "",
+      "type": "string"
+    },
+    "subdomain": {
+      "ckan_name": "Subdomain",
+      "value": "",
+      "type": "string"
+    },
+    "geography": {
+      "ckan_name": "Geography",
+      "value": "Town",
+      "type": "string",
+      "constraints": {"enum": ["Town", "County", "Town/County", "District", "Other"]}
+    },
+    "frequency": {
+      "ckan_name": "Frequency",
+      "value": "Other",
+      "type": "string"
+    },
+    "years_in_catalog": {
+      "ckan_name": "Years in Catalog",
+      "value": [],
+      "type": "array"
+    },
+    "latest_year": {
+      "ckan_name": "Latest Year Available",
+      "value": "2016",
+      "type": "string"
+    },
+    "disabled_views": {
+      "ckan_name": "Disabled Views",
+      "value": [],
+      "type": "array",
+      "constraints": {"enum": ["map", "table", "bar", "line"]}
+    },
+    "units": {
+      "ckan_name": "Units",
+      "value": {
+        "Number": "",
+        "Percent": "%"
+      }
+    },
+    "default": {    
+      "ckan_name": "Default",
+      "value": {
+        "Town": "Hartford",
+        "Year": ["2011"],
+        "Zip": ["06103"]
+      },
+      "type": "object"
+    }
+  },
+  "spot_checks": [],
+  "dimension_groups": []
+}
