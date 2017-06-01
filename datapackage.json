@@ -114,7 +114,7 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": [],
+      "value": ["1996", "1999", "2002", "2006", "2011"],
       "type": "array"
     },
     "latest_year": {
@@ -135,6 +135,11 @@
         "Percent": "%"
       }
     },
+    "expected_number_of_geographies": {
+      "ckan_name": "Expected Number of Unique Geographies",
+      "value": 169,
+      "type": "string"
+    },      
     "default": {    
       "ckan_name": "Default",
       "value": {
@@ -146,5 +151,7 @@
     }
   },
   "spot_checks": [],
-  "dimension_groups": []
+  "dimension_groups": [
+    {}
+  ]
 }

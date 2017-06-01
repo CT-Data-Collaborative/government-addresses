@@ -1,7 +1,10 @@
 Government Addresses
 
 [![Build Status](https://travis-ci.org/CT-Data-Collaborative/government-addresses.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/government-addresses)
+
 Government Addresses contains contact information for the municipalities in Connecticut.
+
+Data Source: Municipalities
 
 ## License MIT
 
