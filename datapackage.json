@@ -119,7 +119,7 @@
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2016",
+      "value": "2011",
       "type": "string"
     },
     "disabled_views": {
