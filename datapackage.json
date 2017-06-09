@@ -144,8 +144,7 @@
       "ckan_name": "Default",
       "value": {
         "Town": "Hartford",
-        "Year": ["2011"],
-        "Zip": ["06103"]
+        "Year": ["2011"]
       },
       "type": "object"
     }
