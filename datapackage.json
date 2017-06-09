@@ -59,7 +59,7 @@
         }, {             
           "name": "Telephone",
           "type": "string",
-          "dimension": true
+          "dimension": false
         }]
       }
     }
