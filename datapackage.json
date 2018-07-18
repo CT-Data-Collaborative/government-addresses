@@ -60,11 +60,15 @@
           "name": "Telephone",
           "type": "string",
           "dimension": false
+        }, {             
+          "name": "Website",
+          "type": "string",
+          "dimension": false
         }]
       }
     }
   ],
-  "last_modified": "06/01/2017",
+  "last_modified": "07/18/2018",
   "ckan_extras": {
     "full_description": {
       "ckan_name": "Full Description",
@@ -114,12 +118,12 @@
     },
     "years_in_catalog": {
       "ckan_name": "Years in Catalog",
-      "value": ["1996", "1999", "2002", "2006", "2011"],
+      "value": ["1996", "1999", "2002", "2006", "2011", "2018"],
       "type": "array"
     },
     "latest_year": {
       "ckan_name": "Latest Year Available",
-      "value": "2011",
+      "value": "2018",
       "type": "string"
     },
     "disabled_views": {
@@ -144,7 +148,7 @@
       "ckan_name": "Default",
       "value": {
         "Town": "Hartford",
-        "Year": ["2011"]
+        "Year": ["2018"]
       },
       "type": "object"
     }

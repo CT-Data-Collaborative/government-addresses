@@ -1,846 +1,1015 @@
-Town,FIPS,Year,Address 1,Address 2,Address 3,City,Zip,Telephone
-Andover,901301080,1996,,"17 School Road, P.O. Box 328",,Andover,6232,(860) 742-7305
-Andover,901301080,1999,,"17 School Road, P.O. Box 328",,Andover,6232,(860) 742-7305
-Andover,901301080,2002,,"17 School Road, P.O. Box 328",,Andover,6232,(860) 742-7305
-Andover,901301080,2006,,"17 School Road, P.O. Box 328",,Andover,6232,(860) 742-7305
-Andover,901301080,2011,,"17 School Road, P.O. Box 328",,Andover,6232,(860) 742-7305
-Ansonia,900901220,1996,City Hall,253 Main Street,,Ansonia,6401,(203) 736-5900
-Ansonia,900901220,1999,City Hall,253 Main Street,,Ansonia,6401,(203) 736-5900
-Ansonia,900901220,2002,City Hall,253 Main Street,,Ansonia,6401,(203) 736-5900
-Ansonia,900901220,2006,City Hall,253 Main Street,,Ansonia,6401,(203) 736-5900
-Ansonia,900901220,2011,City Hall,253 Main Street,,Ansonia,6401,(203) 736-5900
-Ashford,901501430,1996,,"25 Pompey Hollow Road, Route 44",,Ashford,6278,(860) 429-2750
-Ashford,901501430,1999,,"25 Pompey Hollow Road, Route 44",,Ashford,6278,(860) 429-2750
-Ashford,901501430,2002,,"25 Pompey Hollow Road, Route 44",,Ashford,6278,(860) 429-2750
-Ashford,901501430,2006,,"25 Pompey Hollow Road, Route 44",,Ashford,6278,(860) 429-2750
-Ashford,901501430,2011,,"25 Pompey Hollow Road, Route 44",,Ashford,6278,(860) 429-2750
-Avon,900302060,1996,,69 West Main Street,,Avon,6001,(860) 409-4300
-Avon,900302060,1999,,69 West Main Street,,Avon,6001,(860) 409-4300
-Avon,900302060,2002,,69 West Main Street,,Avon,6001,(860) 409-4300
-Avon,900302060,2006,,69 West Main Street,,Avon,6001,(860) 409-4300
-Avon,900302060,2011,,69 West Main Street,,Avon,6001,(860) 409-4300
-Barkhamsted,900502760,1996,,P.O. Box 588,,Pleasant Valley,6063,(860) 379-8285
-Barkhamsted,900502760,1999,,P.O. Box 588,,Pleasant Valley,6063,(860) 379-8285
-Barkhamsted,900502760,2002,,P.O. Box 588,,Pleasant Valley,6063,(860) 379-8285
-Barkhamsted,900502760,2006,,P.O. Box 588,,Pleasant Valley,6063,(860) 379-8285
-Barkhamsted,900502760,2011,,P.O. Box 588,,Pleasant Valley,6063,(860) 379-8285
-Beacon Falls,900903250,1996,Town Hall,10 Maple Avenue,,Beacon Falls,6403,(203) 729-4340
-Beacon Falls,900903250,1999,Town Hall,10 Maple Avenue,,Beacon Falls,6403,(203) 729-4340
-Beacon Falls,900903250,2002,Town Hall,10 Maple Avenue,,Beacon Falls,6403,(203) 729-4340
-Beacon Falls,900903250,2006,Town Hall,10 Maple Avenue,,Beacon Falls,6403,(203) 729-4340
-Beacon Falls,900903250,2011,Town Hall,10 Maple Avenue,,Beacon Falls,6403,(203) 729-4340
-Berlin,900304300,1996,,240 Kensington Road,,Berlin,6037,(860) 828-7003
-Berlin,900304300,1999,,240 Kensington Road,,Berlin,6037,(860) 828-7003
-Berlin,900304300,2002,,240 Kensington Road,,Berlin,6037,(860) 828-7003
-Berlin,900304300,2006,,240 Kensington Road,,Berlin,6037,(860) 828-7003
-Berlin,900304300,2011,,240 Kensington Road,,Berlin,6037,(860) 828-7003
-Bethany,900904580,1996,Town Hall,40 Peck Road,,Bethany,6524,(203) 393-2100
-Bethany,900904580,1999,Town Hall,40 Peck Road,,Bethany,6524,(203) 393-2100
-Bethany,900904580,2002,Town Hall,40 Peck Road,,Bethany,6524,(203) 393-2100
-Bethany,900904580,2006,Town Hall,40 Peck Road,,Bethany,6524,(203) 393-2100
-Bethany,900904580,2011,Town Hall,40 Peck Road,,Bethany,6524,(203) 393-2100
-Bethel,900104720,1996,,5 Library Place,,Bethel,6801,(203) 794-8501
-Bethel,900104720,1999,,5 Library Place,,Bethel,6801,(203) 794-8501
-Bethel,900104720,2002,Clifford J. Hurgin Municipal Center,1 School Street,,Bethel,6801,(203) 794-8501
-Bethel,900104720,2006,Clifford J. Hurgin Municipal Center,1 School Street,,Bethel,6801,(203) 794-8501
-Bethel,900104720,2011,Clifford J. Hurgin Municipal Center,1 School Street,,Bethel,6801,(203) 794-8501
-Bethlehem,900504930,1996,,P.O. Box 160,,Bethlehem,6751,(203) 266-7677
-Bethlehem,900504930,1999,,P.O. Box 160,,Bethlehem,6751,(203) 266-7677
-Bethlehem,900504930,2002,,P.O. Box 160,,Bethlehem,6751,(203) 266-7677
-Bethlehem,900504930,2006,,P.O. Box 160,,Bethlehem,6751,(203) 266-7677
-Bethlehem,900504930,2011,,P.O. Box 160,,Bethlehem,6751,(203) 266-7677
-Bloomfield,900305910,1996,,P.O. Box 337,,Bloomfield,6002,(860) 769-3501
-Bloomfield,900305910,1999,,P.O. Box 337,,Bloomfield,6002,(860) 769-3501
-Bloomfield,900305910,2002,,P.O. Box 337,,Bloomfield,6002,(860) 769-3501
-Bloomfield,900305910,2006,,P.O. Box 337,,Bloomfield,6002,(860) 769-3501
-Bloomfield,900305910,2011,,P.O. Box 337,,Bloomfield,6002,(860) 769-3501
-Bolton,901306260,1996,,222 Bolton Center Road,,Bolton,6043,(860) 649-8066
-Bolton,901306260,1999,,222 Bolton Center Road,,Bolton,6043,(860) 649-8066
-Bolton,901306260,2002,,222 Bolton Center Road,,Bolton,6043,(860) 649-8066
-Bolton,901306260,2006,,222 Bolton Center Road,,Bolton,6043,(860) 649-8066
-Bolton,901306260,2011,,222 Bolton Center Road,,Bolton,6043,(860) 649-8066
-Bozrah,901106820,1996,,P.O. Box 158,,Bozrah,6334,(860) 889-2689
-Bozrah,901106820,1999,,P.O. Box 158,,Bozrah,6334,(860) 889-2689
-Bozrah,901106820,2002,,P.O. Box 158,,Bozrah,6334,(860) 889-2689
-Bozrah,901106820,2006,,1 River Rd,,Bozrah,6334,(860) 889-2689
-Bozrah,901106820,2011,,1 River Rd,,Bozrah,6334,(860) 889-2689
-Branford,900907310,1996,Town Hall,P.O. Box 150,,Branford,6405,(203) 488-8394
-Branford,900907310,1999,Town Hall,1019 Main Street,(or) P.O. Box 150,Branford,6405,(203) 488-8394
-Branford,900907310,2002,Town Hall,1019 Main Street,(or) P.O. Box 150,Branford,6405,(203) 488-8394
-Branford,900907310,2006,Town Hall,1019 Main Street,(or) P.O. Box 150,Branford,6405,(203) 488-8394
-Branford,900907310,2011,Town Hall,1019 Main Street,(or) P.O. Box 150,Branford,6405,(203) 488-8394
-Bridgeport,900108070,1996,City Hall,45 Lyon Terrace,,Bridgeport,6604,(203) 576-7201
-Bridgeport,900108070,1999,City Hall,45 Lyon Terrace,,Bridgeport,6604,(203) 576-7201
-Bridgeport,900108070,2002,City Hall,45 Lyon Terrace,,Bridgeport,6604,(203) 576-7201
-Bridgeport,900108070,2006,City Hall,45 Lyon Terrace,,Bridgeport,6604,(203) 576-7201
-Bridgeport,900108070,2011,City Hall,45 Lyon Terrace,,Bridgeport,6604,(203) 576-7201
-Bridgewater,900508210,1996,,P.O. Box 216,,Bridgewater,6752,(860) 354-5250
-Bridgewater,900508210,1999,,P.O. Box 216,,Bridgewater,6752,(860) 354-5250
-Bridgewater,900508210,2002,,P.O. Box 216,,Bridgewater,6752,(860) 354-5250
-Bridgewater,900508210,2006,,P.O. Box 216,,Bridgewater,6752,(860) 354-5250
-Bridgewater,900508210,2011,,P.O. Box 216,,Bridgewater,6752,(860) 354-5250
-Bristol,900308490,1996,,111 North Main Street,,Bristol,6010,(860) 584-7612
-Bristol,900308490,1999,,111 North Main Street,,Bristol,6010,(860) 584-7612
-Bristol,900308490,2002,,111 North Main Street,,Bristol,6010,(860) 584-7612
-Bristol,900308490,2006,,111 North Main Street,,Bristol,6010,(860) 584-7612
-Bristol,900308490,2011,,111 North Main Street,,Bristol,6010,(860) 584-7612
-Brookfield,900108980,1996,,P.O. Box 5106,,Brookfield,6804,(203) 775-7300
-Brookfield,900108980,1999,,P.O. Box 5106,,Brookfield,6804,(203) 775-7300
-Brookfield,900108980,2002,,P.O. Box 5106,,Brookfield,6804,(203) 775-7300
-Brookfield,900108980,2006,,P.O. Box 5106,,Brookfield,6804,(203) 775-7300
-Brookfield,900108980,2011,,P.O. Box 5106,,Brookfield,6804,(203) 775-7300
-Brooklyn,901509190,1996,,4 Wolf Den Road,,Brooklyn,6234,(860) 779-3411
-Brooklyn,901509190,1999,,4 Wolf Den Road,,Brooklyn,6234,(860) 779-3411
-Brooklyn,901509190,2002,,4 Wolf Den Road,,Brooklyn,6234,(860) 779-3411
-Brooklyn,901509190,2006,,4 Wolf Den Road,,Brooklyn,6234,(860) 779-3411
-Brooklyn,901509190,2011,,4 Wolf Den Road,,Brooklyn,6234,(860) 779-3411
-Burlington,900310100,1996,,200 Spielman Highway,,Burlington,6013,(860) 673-6789
-Burlington,900310100,1999,,200 Spielman Highway,,Burlington,6013,(860) 673-6789
-Burlington,900310100,2002,,200 Spielman Highway,,Burlington,6013,(860) 673-6789
-Burlington,900310100,2006,,200 Spielman Highway,,Burlington,6013,(860) 673-6789
-Burlington,900310100,2011,,200 Spielman Highway,,Burlington,6013,(860) 673-6789
-Canaan,900510940,1996,,"P.O. Box 47,  Falls Village",,Canaan,6031,(860) 824-0707
-Canaan,900510940,1999,,"P.O. Box 47,  Falls Village",,Canaan,6031,(860) 824-0707
-Canaan,900510940,2002,,"P.O. Box 47,  Falls Village",,Canaan,6031,(860) 824-0707
-Canaan,900510940,2006,,"P.O. Box 47,  Falls Village",,Canaan,6031,(860) 824-0707
-Canaan,900510940,2011,,"P.O. Box 47,  Falls Village",,Canaan,6031,(860) 824-0707
-Canterbury,901512130,1996,,P.O. Box 26,,Canterbury,6331,(860) 546-9693
-Canterbury,901512130,1999,,P.O. Box 26,,Canterbury,6331,(860) 546-9693
-Canterbury,901512130,2002,,P.O. Box 26,,Canterbury,6331,(860) 546-9693
-Canterbury,901512130,2006,,P.O. Box 26,,Canterbury,6331,(860) 546-9693
-Canterbury,901512130,2011,,P.O. Box 26,,Canterbury,6331,(860) 546-9693
-Canton,900312270,1996,,P.O. Box 168,,Canton,6022,(860) 693-7847
-Canton,900312270,1999,,P.O. Box 168,,Canton,6022,(860) 693-7847
-Canton,900312270,2002,,P.O. Box 168,,Canton,6022,(860) 693-7847
-Canton,900312270,2006,,P.O. Box 168,,Canton,6022,(860) 693-7847
-Canton,900312270,2011,,P.O. Box 168,,Canton,6022,(860) 693-7847
-Chaplin,901513810,1996,,P. O. Box 286,,Chaplin,6235,(860) 455-0073
-Chaplin,901513810,1999,,P. O. Box 286,,Chaplin,6235,(860) 455-0073
-Chaplin,901513810,2002,,P. O. Box 286,,Chaplin,6235,(860) 455-0073
-Chaplin,901513810,2006,,P. O. Box 286,,Chaplin,6235,(860) 455-0073
-Chaplin,901513810,2011,,P. O. Box 286,,Chaplin,6235,(860) 455-0073
-Cheshire,900914160,1996,,84 South Main Street,,Cheshire,6410,(203) 271-6660
-Cheshire,900914160,1999,,84 South Main Street,,Cheshire,6410,(203) 271-6660
-Cheshire,900914160,2002,,84 South Main Street,,Cheshire,6410,(203) 271-6660
-Cheshire,900914160,2006,,84 South Main Street,,Cheshire,6410,(203) 271-6660
-Cheshire,900914160,2011,,84 South Main Street,,Cheshire,6410,(203) 271-6660
-Chester,900714300,1996,,P.O. Box 218,,Chester,6412,(860) 526-0013
-Chester,900714300,1999,,P.O. Box 218,,Chester,6412,(860) 526-0013
-Chester,900714300,2002,,P.O. Box 218,,Chester,6412,(860) 526-0013
-Chester,900714300,2006,,P.O. Box 218,,Chester,6412,(860) 526-0013
-Chester,900714300,2011,,P.O. Box 218,,Chester,6412,(860) 526-0013
-Clinton,900715350,1996,,54 East Main Street,,Clinton,6413,(860) 669-9333
-Clinton,900715350,1999,,54 East Main Street,,Clinton,6413,(860) 669-9333
-Clinton,900715350,2002,,54 East Main Street,,Clinton,6413,(860) 669-9333
-Clinton,900715350,2006,,54 East Main Street,,Clinton,6413,(860) 669-9333
-Clinton,900715350,2011,,54 East Main Street,,Clinton,6413,(860) 669-9333
-Colchester,901115910,1996,,127 Norwich Avenue,,Colchester,6415,(860) 537-7220
-Colchester,901115910,1999,,127 Norwich Avenue,,Colchester,6415,(860) 537-7220
-Colchester,901115910,2002,,127 Norwich Avenue,,Colchester,6415,(860) 537-7220
-Colchester,901115910,2006,,127 Norwich Avenue,,Colchester,6415,(860) 537-7220
-Colchester,901115910,2011,,127 Norwich Avenue,,Colchester,6415,(860) 537-7220
-Colebrook,900516050,1996,,P.O. Box 5,,Colebrook,6021,(860) 379-3359
-Colebrook,900516050,1999,,P.O. Box 5,,Colebrook,6021,(860) 379-3359
-Colebrook,900516050,2002,,P.O. Box 5,,Colebrook,6021,(860) 379-3359
-Colebrook,900516050,2006,,P.O. Box 5,,Colebrook,6021,(860) 379-3359
-Colebrook,900516050,2011,,P.O. Box 5,,Colebrook,6021,(860) 379-3359
-Columbia,901316400,1996,,323 Jonathan Trumbull Highway,,Columbia,6237,(860) 228-0110
-Columbia,901316400,1999,,323 Jonathan Trumbull Highway,,Columbia,6237,(860) 228-0110
-Columbia,901316400,2002,,323 Jonathan Trumbull Highway,,Columbia,6237,(860) 228-0110
-Columbia,901316400,2006,,323 Jonathan Trumbull Highway,,Columbia,6237,(860) 228-0110
-Columbia,901316400,2011,,323 Jonathan Trumbull Highway,,Columbia,6237,(860) 228-0110
-Cornwall,900517240,1996,,P.O. Box 205,,Cornwall,6753,(860) 672-4959
-Cornwall,900517240,1999,,P.O. Box 205,,Cornwall,6753,(860) 672-4959
-Cornwall,900517240,2002,,P.O. Box 205,,Cornwall,6753,(860) 672-4959
-Cornwall,900517240,2006,,P.O. Box 205,,Cornwall,6753,(860) 672-4959
-Cornwall,900517240,2011,,P.O. Box 205,,Cornwall,6753,(860) 672-4959
-Coventry,901317800,1996,,P.O. Box 189,,Coventry,6238,(860) 742-6324
-Coventry,901317800,1999,,P.O. Box 189,,Coventry,6238,(860) 742-6324
-Coventry,901317800,2002,,P.O. Box 189,,Coventry,6238,(860) 742-6324
-Coventry,901317800,2006,,P.O. Box 189,,Coventry,6238,(860) 742-6324
-Coventry,901317800,2011,,P.O. Box 189,,Coventry,6238,(860) 742-6324
-Cromwell,900718080,1996,,41 West Street,,Cromwell,6416,(860) 632-3410
-Cromwell,900718080,1999,,41 West Street,,Cromwell,6416,(860) 632-3410
-Cromwell,900718080,2002,,41 West Street,,Cromwell,6416,(860) 632-3410
-Cromwell,900718080,2006,,41 West Street,,Cromwell,6416,(860) 632-3410
-Cromwell,900718080,2011,,41 West Street,,Cromwell,6416,(860) 632-3410
-Danbury,900118500,1996,,155 Deer Hill Avenue,,Danbury,6810,(203) 797-4511
-Danbury,900118500,1999,,155 Deer Hill Avenue,,Danbury,6810,(203) 797-4511
-Danbury,900118500,2002,,155 Deer Hill Avenue,,Danbury,6810,(203) 797-4511
-Danbury,900118500,2006,,155 Deer Hill Avenue,,Danbury,6810,(203) 797-4511
-Danbury,900118500,2011,,155 Deer Hill Avenue,,Danbury,6810,(203) 797-4511
-Darien,900118850,1996,,2 Renshaw Road,,Darien,6820,(203) 656-7338
-Darien,900118850,1999,,2 Renshaw Road,,Darien,6820,(203) 656-7338
-Darien,900118850,2002,,2 Renshaw Road,,Darien,6820,(203) 656-7338
-Darien,900118850,2006,,2 Renshaw Road,,Darien,6820,(203) 656-7338
-Darien,900118850,2011,,2 Renshaw Road,,Darien,6820,(203) 656-7338
-Deep River,900719130,1996,,174 Main Street,,Deep River,6417,(860) 526-6020
-Deep River,900719130,1999,,174 Main Street,,Deep River,6417,(860) 526-6020
-Deep River,900719130,2002,,174 Main Street,,Deep River,6417,(860) 526-6020
-Deep River,900719130,2006,,174 Main Street,,Deep River,6417,(860) 526-6020
-Deep River,900719130,2011,,174 Main Street,,Deep River,6417,(860) 526-6020
-Derby,900919550,1996,City Hall,35 Fifth Street,,Derby,6418,(203) 736-1450
-Derby,900919550,1999,City Hall,35 Fifth Street,,Derby,6418,(203) 736-1450
-Derby,900919550,2002,City Hall,35 Fifth Street,,Derby,6418,(203) 736-1450
-Derby,900919550,2006,City Hall,35 Fifth Street,,Derby,6418,(203) 736-1450
-Derby,900919550,2011,City Hall,35 Fifth Street,,Derby,6418,(203) 736-1450
-Durham,900720810,1996,,P.O. Box 428,,Durham,6422,(860) 349-3452
-Durham,900720810,1999,,P.O. Box 428,,Durham,6422,(860) 349-3452
-Durham,900720810,2002,,P.O. Box 428,,Durham,6422,(860) 349-3452
-Durham,900720810,2006,,P.O. Box 428,,Durham,6422,(860) 349-3452
-Durham,900720810,2011,,P.O. Box 428,,Durham,6422,(860) 349-3452
-East Granby,900322070,1996,,P.O. Box 1858,,East Granby,6026,(860) 653-2576
-East Granby,900322070,1999,,P.O. Box 1858,,East Granby,6026,(860) 653-2576
-East Granby,900322070,2002,,P.O. Box 1858,,East Granby,6026,(860) 653-2576
-East Granby,900322070,2006,,P.O. Box 1858,,East Granby,6026,(860) 653-2576
-East Granby,900322070,2011,,P.O. Box 1858,,East Granby,6026,(860) 653-2576
-East Haddam,900722280,1996,,P. O. Box K,,East Haddam,6423,(860) 873-5020
-East Haddam,900722280,1999,,P. O. Box K,,East Haddam,6423,(860) 873-5020
-East Haddam,900722280,2002,,P. O. Box K,,East Haddam,6423,(860) 873-5020
-East Haddam,900722280,2006,,P. O. Box K,,East Haddam,6423,(860) 873-5020
-East Haddam,900722280,2011,,P. O. Box K,,East Haddam,6423,(860) 873-5020
-East Hampton,900722490,1996,,20 East High Street,,East Hampton,6424,(860) 267-4468
-East Hampton,900722490,1999,,20 East High Street,,East Hampton,6424,(860) 267-4468
-East Hampton,900722490,2002,,20 East High Street,,East Hampton,6424,(860) 267-4468
-East Hampton,900722490,2006,,20 East High Street,,East Hampton,6424,(860) 267-4468
-East Hampton,900722490,2011,,20 East High Street,,East Hampton,6424,(860) 267-4468
-East Hartford,900322630,1996,,740 Main Street,,East Hartford,6108,(860 291-7200
-East Hartford,900322630,1999,,740 Main Street,,East Hartford,6108,(860 291-7200
-East Hartford,900322630,2002,,740 Main Street,,East Hartford,6108,(860 291-7200
-East Hartford,900322630,2006,,740 Main Street,,East Hartford,6108,(860 291-7300
-East Hartford,900322630,2011,,740 Main Street,,East Hartford,6108,(860 291-7300
-East Haven,900922910,1996,Town Hall,250 Main Street,,East Haven,6512,(203) 468-3204
-East Haven,900922910,1999,Town Hall,250 Main Street,,East Haven,6512,(203) 468-3204
-East Haven,900922910,2002,Town Hall,250 Main Street,,East Haven,6512,(203) 468-3204
-East Haven,900922910,2006,Town Hall,250 Main Street,,East Haven,6512,(203) 468-3204
-East Haven,900922910,2011,Town Hall,250 Main Street,,East Haven,6512,(203) 468-3204
-East Lyme,901123400,1996,,"P. O. Box 519, Niantic",,East Lyme,6357,(860) 739-6931
-East Lyme,901123400,1999,,"P. O. Box 519, Niantic",,East Lyme,6357,(860) 739-6931
-East Lyme,901123400,2002,,"P. O. Box 519, Niantic",,East Lyme,6357,(860) 739-6931
-East Lyme,901123400,2006,,"P. O. Box 519, Niantic",,East Lyme,6357,(860) 739-6931
-East Lyme,901123400,2011,,"P. O. Box 519, Niantic",,East Lyme,6357,(860) 739-6931
-East Windsor,900324800,1996,,11 Rye Street,,Broad Brook,6016,(860) 623-8122
-East Windsor,900324800,1999,,11 Rye Street,,Broad Brook,6016,(860) 623-8122
-East Windsor,900324800,2002,,11 Rye Street,,Broad Brook,6016,(860) 623-8122
-East Windsor,900324800,2006,,11 Rye Street,,Broad Brook,6016,(860) 623-8122
-East Windsor,900324800,2011,,11 Rye Street,,Broad Brook,6016,(860) 623-8122
-Eastford,901521860,1996,,P.O. Box 273,,Eastford,6242,(860) 974-0133
-Eastford,901521860,1999,,P.O. Box 273,,Eastford,6242,(860) 974-0133
-Eastford,901521860,2002,,P.O. Box 273,,Eastford,6242,(860) 974-0133
-Eastford,901521860,2006,,P.O. Box 273,,Eastford,6242,(860) 974-0133
-Eastford,901521860,2011,,P.O. Box 273,,Eastford,6242,(860) 974-0133
-Easton,900123890,1996,Town Hall,225 Center Road,,Easton,6612,(203) 268-6291
-Easton,900123890,1999,Town Hall,225 Center Road,,Easton,6612,(203) 268-6291
-Easton,900123890,2002,Town Hall,225 Center Road,,Easton,6612,(203) 268-6291
-Easton,900123890,2006,Town Hall,225 Center Road,,Easton,6612,(203) 268-6291
-Easton,900123890,2011,Town Hall,225 Center Road,,Easton,6612,(203) 268-6291
-Ellington,901325360,1996,,P.O. Box 187,,Ellington,6029,(860) 875-0787
-Ellington,901325360,1999,,P.O. Box 187,,Ellington,6029,(860) 875-0787
-Ellington,901325360,2002,,P.O. Box 187,,Ellington,6029,(860) 870-3100
-Ellington,901325360,2006,,P.O. Box 187,,Ellington,6029,(860) 870-3100
-Ellington,901325360,2011,,P.O. Box 187,,Ellington,6029,(860) 870-3100
-Enfield,900325990,1996,,820 Enfield Street,,Enfield,6082,(860) 253-6350
-Enfield,900325990,1999,,820 Enfield Street,,Enfield,6082,(860) 253-6350
-Enfield,900325990,2002,,820 Enfield Street,,Enfield,6082,(860) 253-6350
-Enfield,900325990,2006,,820 Enfield Street,,Enfield,6082,(860) 253-6350
-Enfield,900325990,2011,,820 Enfield Street,,Enfield,6082,(860) 253-6350
-Essex,900726270,1996,,P.O. Box 98,,Essex,6426,(860) 767-4340
-Essex,900726270,1999,,P.O. Box 98,,Essex,6426,(860) 767-4340
-Essex,900726270,2002,,P.O. Box 98,,Essex,6426,(860) 767-4340
-Essex,900726270,2006,,P.O. Box 98,,Essex,6426,(860) 767-4340
-Essex,900726270,2011,,P.O. Box 98,,Essex,6426,(860) 767-4340
-Fairfield,900126620,1996,Town Hall,611 Old Post Road,,Fairfield,6430,(203) 256-3030
-Fairfield,900126620,1999,Town Hall,611 Old Post Road,,Fairfield,6430,(203) 256-3030
-Fairfield,900126620,2002,Town Hall,611 Old Post Road,,Fairfield,6430,(203) 256-3030
-Fairfield,900126620,2006,Town Hall,611 Old Post Road,,Fairfield,6430,(203) 256-3030
-Fairfield,900126620,2011,Town Hall,611 Old Post Road,,Fairfield,6430,(203) 256-3030
-Farmington,900327600,1996,,1 Monteith Drive,,Farmington,6032,(860) 673-8219
-Farmington,900327600,1999,,1 Monteith Drive,,Farmington,6032,(860) 673-8219
-Farmington,900327600,2002,,1 Monteith Drive,,Farmington,6032,(860) 673-8219
-Farmington,900327600,2006,,1 Monteith Drive,,Farmington,6032,(860) 675-2350
-Farmington,900327600,2011,,1 Monteith Drive,,Farmington,6032,(860) 675-2350
-Franklin,901129910,1996,,7 Meetinghouse Hill,,Franklin,6254,(860) 642-6055
-Franklin,901129910,1999,,7 Meetinghouse Hill,,Franklin,6254,(860) 642-6055
-Franklin,901129910,2002,,7 Meetinghouse Hill,,Franklin,6254,(860) 642-6055
-Franklin,901129910,2006,,7 Meetinghouse Hill,,Franklin,6254,(860) 642-6055
-Franklin,901129910,2011,,7 Meetinghouse Hill,,Franklin,6254,(860) 642-6055
-Glastonbury,900331240,1996,,2155 Main Street,,Glastonbury,6033,(860) 652-7500
-Glastonbury,900331240,1999,,2155 Main Street,,Glastonbury,6033,(860) 652-7500
-Glastonbury,900331240,2002,,2155 Main Street,,Glastonbury,6033,(860) 652-7500
-Glastonbury,900331240,2006,,2155 Main Street,,Glastonbury,6033,(860) 652-7500
-Glastonbury,900331240,2011,,2155 Main Street,,Glastonbury,6033,(860) 652-7500
-Goshen,900532290,1996,,P.O. Box 187,,Goshen,6756,(860) 491-2308
-Goshen,900532290,1999,,P.O. Box 187,,Goshen,6756,(860) 491-2308
-Goshen,900532290,2002,,P.O. Box 187,,Goshen,6756,(860) 491-2308
-Goshen,900532290,2006,,P.O. Box 187,,Goshen,6756,(860) 491-2308
-Goshen,900532290,2011,,P.O. Box 187,,Goshen,6756,(860) 491-2308
-Granby,900332640,1996,,15 North Granby Road,,Granby,6035,(860) 653-8950
-Granby,900332640,1999,,15 North Granby Road,,Granby,6035,(860) 653-8950
-Granby,900332640,2002,,15 North Granby Road,,Granby,6035,(860) 653-8950
-Granby,900332640,2006,,15 North Granby Road,,Granby,6035,(860) 653-8950
-Granby,900332640,2011,,15 North Granby Road,,Granby,6035,(860) 653-8950
-Greenwich,900133620,1996,,P.O. Box 2540,,Greenwich,6830,(203) 622-7710
-Greenwich,900133620,1999,,P.O. Box 2540,,Greenwich,6830,(203) 622-7710
-Greenwich,900133620,2002,,P.O. Box 2540,,Greenwich,6830,(203) 622-7710
-Greenwich,900133620,2006,,P.O. Box 2540,,Greenwich,6830,(203) 622-7710
-Greenwich,900133620,2011,,P.O. Box 2540,,Greenwich,6830,(203) 622-7710
-Griswold,901133900,1996,,32 School Street,,Jewett City,6351,(860) 376-7061
-Griswold,901133900,1999,,32 School Street,,Jewett City,6351,(860) 376-7061
-Griswold,901133900,2002,,32 School Street,,Jewett City,6351,(860) 376-7061
-Griswold,901133900,2006,,32 School Street,,Jewett City,6351,(860) 376-7061
-Griswold,901133900,2011,,32 School Street,,Jewett City,6351,(860) 376-7061
-Groton,901134250,1996,,45 Fort Hill Road,,Groton,6340,(860) 441-6630
-Groton,901134250,1999,,45 Fort Hill Road,,Groton,6340,(860) 441-6630
-Groton,901134250,2002,,45 Fort Hill Road,,Groton,6340,(860) 441-6630
-Groton,901134250,2006,,45 Fort Hill Road,,Groton,6340,(860) 441-6630
-Groton,901134250,2011,,45 Fort Hill Road,,Groton,6340,(860) 441-6630
-Guilford,900934950,1996,Town Hall,31 Park Street,,Guilford,6437,(203) 453-8015
-Guilford,900934950,1999,Town Hall,31 Park Street,,Guilford,6437,(203) 453-8015
-Guilford,900934950,2002,Town Hall,31 Park Street,,Guilford,6437,(203) 453-8015
-Guilford,900934950,2006,Town Hall,31 Park Street,,Guilford,6437,(203) 453-8015
-Guilford,900934950,2011,Town Hall,31 Park Street,,Guilford,6437,(203) 453-8015
-Haddam,900735230,1996,,30 Field Park Drive,,Haddam,6438,(860) 345-8531
-Haddam,900735230,1999,,30 Field Park Drive,,Haddam,6438,(860) 345-8531
-Haddam,900735230,2002,,30 Field Park Drive,,Haddam,6438,(860) 345-8531
-Haddam,900735230,2006,,30 Field Park Drive,,Haddam,6438,(860) 345-8531
-Haddam,900735230,2011,,30 Field Park Drive,,Haddam,6438,(860) 345-8531
-Hamden,900935650,1996,Town Hall,2372 Whitney Avenue,,Hamden,6518,(203) 287-2650
-Hamden,900935650,1999,Town Hall,2372 Whitney Avenue,,Hamden,6518,(203) 287-2650
-Hamden,900935650,2002,Hamden Gov't Center,2750 Dixwell Avenue,,Hamden,6518,(203) 287-7100
-Hamden,900935650,2006,Hamden Gov't Center,2750 Dixwell Avenue,,Hamden,6518,(203) 287-7100
-Hamden,900935650,2011,Hamden Gov't Center,2750 Dixwell Avenue,,Hamden,6518,(203) 287-7100
-Hampton,901536000,1996,,P.O. Box 143,,Hampton,6247,(860) 455-9132 
-Hampton,901536000,1999,,P.O. Box 143,,Hampton,6247,(860) 455-9132 
-Hampton,901536000,2002,,P.O. Box 143,,Hampton,6247,(860) 455-9132 
-Hampton,901536000,2006,,P.O. Box 143,,Hampton,6247,(860) 455-9132 
-Hampton,901536000,2011,,P.O. Box 143,,Hampton,6247,(860) 455-9132 
-Hartford,900337070,1996,,550 Main Street,,Hartford,6103,(860) 543-8500
-Hartford,900337070,1999,,550 Main Street,,Hartford,6103,(860) 543-8500
-Hartford,900337070,2002,,550 Main Street,,Hartford,6103,(860) 543-8500
-Hartford,900337070,2006,,550 Main Street,,Hartford,6103,(860) 543-8500
-Hartford,900337070,2011,,550 Main Street,,Hartford,6103,(860) 543-8500
-Hartland,900337140,1996,,22 South Road,,East Hartland,6027,(860) 653-6800
-Hartland,900337140,1999,,22 South Road,,East Hartland,6027,(860) 653-6800
-Hartland,900337140,2002,,22 South Road,,East Hartland,6027,(860) 653-6800
-Hartland,900337140,2006,,22 South Road,,East Hartland,6027,(860) 653-6800
-Hartland,900337140,2011,,22 South Road,,East Hartland,6027,(860) 653-6800
-Harwinton,900537280,1996,,100 Bentley Drive,,Harwinton,6791,(860) 485-9051
-Harwinton,900537280,1999,,100 Bentley Drive,,Harwinton,6791,(860) 485-9051
-Harwinton,900537280,2002,,100 Bentley Drive,,Harwinton,6791,(860) 485-9051
-Harwinton,900537280,2006,,100 Bentley Drive,,Harwinton,6791,(860) 485-9051
-Harwinton,900537280,2011,,100 Bentley Drive,,Harwinton,6791,(860) 485-9051
-Hebron,901337910,1996,,P.O. Box 156,,Hebron,6248,(860) 228-5971 
-Hebron,901337910,1999,,P.O. Box 156,,Hebron,6248,(860) 228-5971 
-Hebron,901337910,2002,,P.O. Box 156,,Hebron,6248,(860) 228-5971 
-Hebron,901337910,2006,,P.O. Box 156,,Hebron,6248,(860) 228-5971 
-Hebron,901337910,2011,,P.O. Box 156,,Hebron,6248,(860) 228-5971 
-Kent,900540290,1996,,P.O. Box 678,,Kent,6757,(860) 927-4627
-Kent,900540290,1999,,P.O. Box 678,,Kent,6757,(860) 927-4627
-Kent,900540290,2002,,P.O. Box 678,,Kent,6757,(860) 927-4627
-Kent,900540290,2006,,P.O. Box 678,,Kent,6757,(860) 927-4627
-Kent,900540290,2011,,P.O. Box 678,,Kent,6757,(860) 927-4627
-Killingly,901540500,1996,,P.O. Box 6000,,Danielson,6239,(860) 779-5334
-Killingly,901540500,1999,,P.O. Box 6000,,Danielson,6239,(860) 779-5334
-Killingly,901540500,2002,,P.O. Box 6000,,Danielson,6239,(860) 779-5334
-Killingly,901540500,2006,,P.O. Box 6000,,Danielson,6239,(860) 779-5334
-Killingly,901540500,2011,,172 Main Street,,Killingly,6239,(860) 779-5334
-Killingworth,900740710,1996,,323 Route 81,,Killingworth,6419,(860) 663-1765
-Killingworth,900740710,1999,,323 Route 81,,Killingworth,6419,(860) 663-1765
-Killingworth,900740710,2002,,323 Route 81,,Killingworth,6419,(860) 663-1765
-Killingworth,900740710,2006,,323 Route 81,,Killingworth,6419,(860) 663-1765
-Killingworth,900740710,2011,,323 Route 81,,Killingworth,6419,(860) 663-1765
-Lebanon,901142390,1996,,579 Exeter Road,,Lebanon,6249,(860) 642-6100
-Lebanon,901142390,1999,,579 Exeter Road,,Lebanon,6249,(860) 642-6100
-Lebanon,901142390,2002,,579 Exeter Road,,Lebanon,6249,(860) 642-6100
-Lebanon,901142390,2006,,579 Exeter Road,,Lebanon,6249,(860) 642-6100
-Lebanon,901142390,2011,,579 Exeter Road,,Lebanon,6249,(860) 642-6100
-Ledyard,901142600,1996,,741 Colonel Street,,Ledyard,6339,(860) 464-8740 
-Ledyard,901142600,1999,,741 Colonel Street,,Ledyard,6339,(860) 464-8740 
-Ledyard,901142600,2002,,741 Colonel Street,,Ledyard,6339,(860) 464-8740 
-Ledyard,901142600,2006,,741 Colonel Street,,Ledyard,6339,(860) 464-8740 
-Ledyard,901142600,2011,,741 Colonel Street,,Ledyard,6339,(860) 464-8740 
-Lisbon,901143230,1996,,1 Newent Road,,Lisbon,6351,(860) 376-3400
-Lisbon,901143230,1999,,1 Newent Road,,Lisbon,6351,(860) 376-3400
-Lisbon,901143230,2002,,1 Newent Road,,Lisbon,6351,(860) 376-3400
-Lisbon,901143230,2006,,1 Newent Road,,Lisbon,6351,(860) 376-3400
-Lisbon,901143230,2011,,1 Newent Road,,Lisbon,6351,(860) 376-3400
-Litchfield,900543370,1996,,P.O. Box 488,,Litchfield,6759,(860) 567-7550
-Litchfield,900543370,1999,,P.O. Box 488,,Litchfield,6759,(860) 567-7550
-Litchfield,900543370,2002,,P.O. Box 488,,Litchfield,6759,(860) 567-7550
-Litchfield,900543370,2006,,P.O. Box 488,,Litchfield,6759,(860) 567-7550
-Litchfield,900543370,2011,,P.O. Box 488,,Litchfield,6759,(860) 567-7550
-Lyme,901144210,1996,,480 Hamburg Road,,Lyme,6371,(860) 434-7733
-Lyme,901144210,1999,,480 Hamburg Road,,Lyme,6371,(860) 434-7733
-Lyme,901144210,2002,,480 Hamburg Road,,Lyme,6371,(860) 434-7733
-Lyme,901144210,2006,,480 Hamburg Road,,Lyme,6371,(860) 434-7733
-Lyme,901144210,2011,,480 Hamburg Road,,Lyme,6371,(860) 434-7733
-Madison,900944560,1996,Town Hall,8 Campus Drive,,Madison,6443,(203) 245-5602
-Madison,900944560,1999,Town Hall,8 Campus Drive,,Madison,6443,(203) 245-5602
-Madison,900944560,2002,Town Hall,8 Campus Drive,,Madison,6443,(203) 245-5602
-Madison,900944560,2006,Town Hall,8 Campus Drive,,Madison,6443,(203) 245-5602
-Madison,900944560,2011,Town Hall,8 Campus Drive,,Madison,6443,(203) 245-5602
-Manchester,900344700,1996,,P.O. Box 191,,Manchester,6045,(860) 647-3123
-Manchester,900344700,1999,,P.O. Box 191,,Manchester,6045,(860) 647-3123
-Manchester,900344700,2002,,P.O. Box 191,,Manchester,6045,(860) 647-3123
-Manchester,900344700,2006,,P.O. Box 191,,Manchester,6045,(860) 647-3123
-Manchester,900344700,2011,,P.O. Box 191,,Manchester,6045,(860) 647-3123
-Mansfield,901344910,1996,,4 South Eagleville Road,,Mansfield,6268,(860) 429-3336
-Mansfield,901344910,1999,,4 South Eagleville Road,,Mansfield,6268,(860) 429-3336
-Mansfield,901344910,2002,,4 South Eagleville Road,,Mansfield,6268,(860) 429-3336
-Mansfield,901344910,2006,,4 South Eagleville Road,,Mansfield,6268,(860) 429-3336
-Mansfield,901344910,2011,,4 South Eagleville Road,,Mansfield,6268,(860) 429-3336
-Marlborough,900345820,1996,,P.O. Box 29,,Marlborough,6447,(860) 295-6204
-Marlborough,900345820,1999,,P.O. Box 29,,Marlborough,6447,(860) 295-6204
-Marlborough,900345820,2002,,P.O. Box 29,,Marlborough,6447,(860) 295-6204
-Marlborough,900345820,2006,,P.O. Box 29,,Marlborough,6447,(860) 295-6204
-Marlborough,900345820,2011,,P.O. Box 29,,Marlborough,6447,(860) 295-6204
-Meriden,900946520,1996,City Hall,142 East Main Street,,Meriden,6450,(203) 630-4125
-Meriden,900946520,1999,City Hall,142 East Main Street,,Meriden,6450,(203) 630-4125
-Meriden,900946520,2002,City Hall,142 East Main Street,,Meriden,6450,(203) 630-4125
-Meriden,900946520,2006,City Hall,142 East Main Street,,Meriden,6450,(203) 630-4125
-Meriden,900946520,2011,City Hall,142 East Main Street,,Meriden,6450,(203) 630-4125
-Middlebury,900946940,1996,,P.O. Box 392,,Middlebury,6762,(203) 758-2439
-Middlebury,900946940,1999,,P.O. Box 392,,Middlebury,6762,(203) 758-2439
-Middlebury,900946940,2002,,P.O. Box 392,,Middlebury,6762,(203) 758-2439
-Middlebury,900946940,2006,,P.O. Box 392,,Middlebury,6762,(203) 758-2439
-Middlebury,900946940,2011,,P.O. Box 392,,Middlebury,6762,(203) 758-2439
-Middlefield,900747080,1996,,P.O. Box 179,,Middlefield,6455,(860) 349-7114
-Middlefield,900747080,1999,,P.O. Box 179,,Middlefield,6455,(860) 349-7114
-Middlefield,900747080,2002,,P.O. Box 179,,Middlefield,6455,(860) 349-7114
-Middlefield,900747080,2006,,P.O. Box 179,,Middlefield,6455,(860) 349-7114
-Middlefield,900747080,2011,,P.O. Box 179,,Middlefield,6455,(860) 349-7114
-Middletown,900747360,1996,,P.O. Box 1300,,Middletown,6457,(860) 344-3401
-Middletown,900747360,1999,,P.O. Box 1300,,Middletown,6457,(860) 344-3401
-Middletown,900747360,2002,,P.O. Box 1300,,Middletown,6457,(860) 344-3401
-Middletown,900747360,2006,,P.O. Box 1300,,Middletown,6457,(860) 344-3401
-Middletown,900747360,2011,,P.O. Box 1300,,Middletown,6457,(860) 344-3401
-Milford,900947535,1996,City Hall,70 West River Street,,Milford,6460,(203) 783-3201
-Milford,900947535,1999,City Hall,70 West River Street,,Milford,6460,(203) 783-3201
-Milford,900947535,2002,City Hall,110 River Street,,Milford,6460,(203) 783-3201
-Milford,900947535,2006,City Hall,110 River Street,,Milford,6460,(203) 783-3201
-Milford,900947535,2011,City Hall,110 River Street,,Milford,6460,(203) 783-3201
-Monroe,900148620,1996,Town Hall,7 Fan Hill Road,,Monroe,6468,(203) 452-5421
-Monroe,900148620,1999,Town Hall,7 Fan Hill Road,,Monroe,6468,(203) 452-5421
-Monroe,900148620,2002,Town Hall,7 Fan Hill Road,,Monroe,6468,(203) 452-5421
-Monroe,900148620,2006,Town Hall,7 Fan Hill Road,,Monroe,6468,(203) 452-5421
-Monroe,900148620,2011,Town Hall,7 Fan Hill Road,,Monroe,6468,(203) 452-5421
-Montville,901148900,1996,,310 Norwich-New London Turnpike,,Uncasville,6382,(860) 848-3030
-Montville,901148900,1999,,310 Norwich-New London Turnpike,,Uncasville,6382,(860) 848-3030
-Montville,901148900,2002,,310 Norwich-New London Turnpike,,Uncasville,6382,(860) 848-3030
-Montville,901148900,2006,,310 Norwich-New London Turnpike,,Uncasville,6382,(860) 848-3030
-Montville,901148900,2011,,310 Norwich-New London Turnpike,,Uncasville,6382,(860) 848-3030
-Morris,900549460,1996,,3 East Street P.O. Box 66,,Morris,6763,(860) 567-7430
-Morris,900549460,1999,,3 East Street P.O. Box 66,,Morris,6763,(860) 567-7430
-Morris,900549460,2002,,3 East Street P.O. Box 66,,Morris,6763,(860) 567-7430
-Morris,900549460,2006,,3 East Street P.O. Box 66,,Morris,6763,(860) 567-7430
-Morris,900549460,2011,,3 East Street P.O. Box 66,,Morris,6763,(860) 567-7430
-Naugatuck,900949950,1996,,229 Church Street,,Naugatuck,6770,(203) 720-7007
-Naugatuck,900949950,1999,,229 Church Street,,Naugatuck,6770,(203) 720-7007
-Naugatuck,900949950,2002,,229 Church Street,,Naugatuck,6770,(203) 720-7007
-Naugatuck,900949950,2006,,229 Church Street,,Naugatuck,6770,(203) 720-7007
-Naugatuck,900949950,2011,,229 Church Street,,Naugatuck,6770,(203) 720-7007
-New Britain,900350440,1996,,27 West Main Street,,New Britain,6051,(860) 826-3303
-New Britain,900350440,1999,,27 West Main Street,,New Britain,6051,(860) 826-3303
-New Britain,900350440,2002,,27 West Main Street,,New Britain,6051,(860) 826-3303
-New Britain,900350440,2006,,27 West Main Street,,New Britain,6051,(860) 826-3303
-New Britain,900350440,2011,,27 West Main Street,,New Britain,6051,(860) 826-3303
-New Canaan,900150580,1996,,77 Main Street,,New Canaan,6840,(203) 972-2311
-New Canaan,900150580,1999,,77 Main Street,,New Canaan,6840,(203) 972-2311
-New Canaan,900150580,2002,,77 Main Street,,New Canaan,6840,(203) 972-2311
-New Canaan,900150580,2006,,77 Main Street,,New Canaan,6840,(203) 972-2311
-New Canaan,900150580,2011,,77 Main Street,,New Canaan,6840,(203) 594-3000
-New Fairfield,900150860,1996,,4 Brush Hill Road,,New Fairfield,6812,(203) 746-8101
-New Fairfield,900150860,1999,,4 Brush Hill Road,,New Fairfield,6812,(203) 746-8101
-New Fairfield,900150860,2002,,4 Brush Hill Road,,New Fairfield,6812,(203) 746-8101
-New Fairfield,900150860,2006,,4 Brush Hill Road,,New Fairfield,6812,(203) 746-8101
-New Fairfield,900150860,2011,,4 Brush Hill Road,,New Fairfield,6812,(203) 746-8101
-New Hartford,900551350,1996,,P.O. Box 316,,New Hartford,6057,(860) 379-3389
-New Hartford,900551350,1999,,P.O. Box 316,,New Hartford,6057,(860) 379-3389
-New Hartford,900551350,2002,,P.O. Box 316,,New Hartford,6057,(860) 379-3389
-New Hartford,900551350,2006,,P.O. Box 316,,New Hartford,6057,(860) 379-3389
-New Hartford,900551350,2011,,P.O. Box 316,,New Hartford,6057,(860) 379-3389
-New Haven,900952070,1996,City Hall,165 Church Street,,New Haven,6510,(203) 946-8200
-New Haven,900952070,1999,City Hall,165 Church Street,,New Haven,6510,(203) 946-8200
-New Haven,900952070,2002,City Hall,165 Church Street,,New Haven,6510,(203) 946-8200
-New Haven,900952070,2006,City Hall,165 Church Street,,New Haven,6510,(203) 946-8200
-New Haven,900952070,2011,City Hall,165 Church Street,,New Haven,6510,(203) 946-8200
-New London,901152350,1996,,181 State Street,,New London,6320,(860) 447-5201
-New London,901152350,1999,,181 State Street,,New London,6320,(860) 447-5201
-New London,901152350,2002,,181 State Street,,New London,6320,(860) 447-5201
-New London,901152350,2006,,181 State Street,,New London,6320,(860) 447-5201
-New London,901152350,2011,,181 State Street,,New London,6320,(860) 447-5201
-New Milford,900552630,1996,,10 Main Street,,New Milford,6776,(860) 355-6000
-New Milford,900552630,1999,,10 Main Street,,New Milford,6776,(860) 355-6000
-New Milford,900552630,2002,,10 Main Street,,New Milford,6776,(860) 355-6000
-New Milford,900552630,2006,,10 Main Street,,New Milford,6776,(860) 355-6000
-New Milford,900552630,2011,,10 Main Street,,New Milford,6776,(860) 355-6000
-Newington,900352140,1996,,131 Cedar Street,,Newington,6111,(860) 665-8510
-Newington,900352140,1999,,131 Cedar Street,,Newington,6111,(860) 665-8510
-Newington,900352140,2002,,131 Cedar Street,,Newington,6111,(860) 665-8510
-Newington,900352140,2006,,131 Cedar Street,,Newington,6111,(860) 665-8510
-Newington,900352140,2011,,131 Cedar Street,,Newington,6111,(860) 665-8510
-Newtown,900152980,1996,,45 Main Street,,Newtown,6470,(203) 270-4201
-Newtown,900152980,1999,,45 Main Street,,Newtown,6470,(203) 270-4201
-Newtown,900152980,2002,,45 Main Street,,Newtown,6470,(203) 270-4201
-Newtown,900152980,2006,,45 Main Street,,Newtown,6470,(203) 270-4201
-Newtown,900152980,2011,Municipal Center,3 Primrose St,,Newtown,6470,(203) 270-4210
-Norfolk,900553470,1996,,P. O. Box 592,,Norfolk,6058,(860) 542-5829
-Norfolk,900553470,1999,,P. O. Box 592,,Norfolk,6058,(860) 542-5829
-Norfolk,900553470,2002,,P. O. Box 592,,Norfolk,6058,(860) 542-5829
-Norfolk,900553470,2006,,P. O. Box 592,,Norfolk,6058,(860) 542-5829
-Norfolk,900553470,2011,,P. O. Box 592,,Norfolk,6058,(860) 542-5829
-North Branford,900953890,1996,Town Hall,P.O. Box 287,,North Branford,6471,(203) 315-6015
-North Branford,900953890,1999,Town Hall,P.O. Box 287,,North Branford,6471,(203) 315-6000
-North Branford,900953890,2002,Town Hall,P.O. Box 287,,North Branford,6471,(203) 315-6000
-North Branford,900953890,2006,Town Hall,P.O. Box 287,,North Branford,6471,(203) 315-6000
-North Branford,900953890,2011,Town Hall,909 Foxon Rd,,North Branford,6471,(203) 484-6000
-North Canaan,900554030,1996,,P.O. Box 876,,North Canaan,6018,(860) 824-7313
-North Canaan,900554030,1999,,P.O. Box 876,,North Canaan,6018,(860) 824-7313
-North Canaan,900554030,2002,,P.O. Box 876,,North Canaan,6018,(860) 824-7313
-North Canaan,900554030,2006,,P.O. Box 876,,North Canaan,6018,(860) 824-7313
-North Canaan,900554030,2011,,P.O. Box 876,,North Canaan,6018,(860) 824-7313
-North Haven,900954870,1996,Town Hall,18 Church Street,,North Haven,6473,(203) 239 5321 
-North Haven,900954870,1999,Town Hall,18 Church Street,,North Haven,6473,(203) 239 5321 
-North Haven,900954870,2002,Town Hall,18 Church Street,,North Haven,6473,(203) 239 5321
-North Haven,900954870,2006,Town Hall,18 Church Street,,North Haven,6473,(203) 239 5321
-North Haven,900954870,2011,Town Hall,18 Church Street,,North Haven,6473,(203) 239 5321
-North Stonington,901155500,1996,,40 Main Street,,North Stonington,6359,(860) 535-2877
-North Stonington,901155500,1999,,40 Main Street,,North Stonington,6359,(860) 535-2877
-North Stonington,901155500,2002,,40 Main Street,,North Stonington,6359,(860) 535-2877
-North Stonington,901155500,2006,,40 Main Street,,North Stonington,6359,(860) 535-2877
-North Stonington,901155500,2011,,40 Main Street,,North Stonington,6359,(860) 535-2877
-Norwalk,900156060,1996,,P.O. Box 5125,,Norwalk,6856,(203) 854-7701
-Norwalk,900156060,1999,,P.O. Box 5125,,Norwalk,6856,(203) 854-7701
-Norwalk,900156060,2002,,P.O. Box 5125,,Norwalk,6856,(203) 854-7701
-Norwalk,900156060,2006,,P.O. Box 5125,,Norwalk,6856,(203) 854-7701
-Norwalk,900156060,2011,,P.O. Box 5125,,Norwalk,6856,(203) 854-7701
-Norwich,901156270,1996,,100 Broadway,,Norwich,6360,(860) 823-3750
-Norwich,901156270,1999,,100 Broadway,,Norwich,6360,(860) 823-3750
-Norwich,901156270,2002,,100 Broadway,,Norwich,6360,(860) 823-3750
-Norwich,901156270,2006,,100 Broadway,,Norwich,6360,(860) 823-3750
-Norwich,901156270,2011,,100 Broadway,,Norwich,6360,(860) 823-3750
-Old Lyme,901157040,1996,,P.O. Box 160,,Old Lyme,6371,(860) 434-1605
-Old Lyme,901157040,1999,,P.O. Box 160,,Old Lyme,6371,(860) 434-1605
-Old Lyme,901157040,2002,,P.O. Box 160,,Old Lyme,6371,(860) 434-1605
-Old Lyme,901157040,2006,,P.O. Box 160,,Old Lyme,6371,(860) 434-1605
-Old Lyme,901157040,2011,,P.O. Box 160,,Old Lyme,6371,(860) 434-1605
-Old Saybrook,900757320,1996,,302 Main Street,,Old Saybrook,6475,(860) 395-3123
-Old Saybrook,900757320,1999,,302 Main Street,,Old Saybrook,6475,(860) 395-3123
-Old Saybrook,900757320,2002,,302 Main Street,,Old Saybrook,6475,(860) 395-3123
-Old Saybrook,900757320,2006,,302 Main Street,,Old Saybrook,6475,(860) 395-3123
-Old Saybrook,900757320,2011,,302 Main Street,,Old Saybrook,6475,(860) 395-3123
-Orange,900957600,1996,Town Hall,617 Orange Center Road,,Orange,6477,(203) 891-2122 
-Orange,900957600,1999,Town Hall,617 Orange Center Road,,Orange,6477,(203) 891-2122 
-Orange,900957600,2002,Town Hall,617 Orange Center Road,,Orange,6477,(203) 891-2122 
-Orange,900957600,2006,Town Hall,617 Orange Center Road,,Orange,6477,(203) 891-2122 
-Orange,900957600,2011,Town Hall,617 Orange Center Road,,Orange,6477,(203) 891-2122 
-Oxford,900958300,1996,Town Hall,486 Oxford Road,,Oxford,6478,(203) 888-2543
-Oxford,900958300,1999,Town Hall,486 Oxford Road,,Oxford,6478,(203) 888-2543 
-Oxford,900958300,2002,Town Hall,486 Oxford Road,,Oxford,6478,(203) 888-2543 
-Oxford,900958300,2006,Town Hall,486 Oxford Road,,Oxford,6478,(203) 888-2543 
-Oxford,900958300,2011,Town Hall,486 Oxford Road,,Oxford,6478,(203) 888-2543 
-Plainfield,901559980,1996,,8 Community Avenue,,Plainfield,6374,(860) 564-4071
-Plainfield,901559980,1999,,8 Community Avenue,,Plainfield,6374,(860) 564-4071
-Plainfield,901559980,2002,,8 Community Avenue,,Plainfield,6374,(860) 564-4071
-Plainfield,901559980,2006,,8 Community Avenue,,Plainfield,6374,(860) 564-4071
-Plainfield,901559980,2011,,8 Community Avenue,,Plainfield,6374,(860) 564-4071
-Plainville,900360120,1996,,1 Central Square,,Plainville,6062,(860) 793-0221
-Plainville,900360120,1999,,1 Central Square,,Plainville,6062,(860) 793-0221
-Plainville,900360120,2002,,1 Central Square,,Plainville,6062,(860) 793-0221
-Plainville,900360120,2006,,1 Central Square,,Plainville,6062,(860) 793-0221
-Plainville,900360120,2011,,1 Central Square,,Plainville,6062,(860) 793-0221
-Plymouth,900560750,1996,,80 Main Street,,Terryville,6786,(860) 585-4002
-Plymouth,900560750,1999,,80 Main Street,,Terryville,6786,(860) 585-4002
-Plymouth,900560750,2002,,80 Main Street,,Terryville,6786,(860) 585-4002
-Plymouth,900560750,2006,,80 Main Street,,Terryville,6786,(860) 585-4002
-Plymouth,900560750,2011,,80 Main Street,,Terryville,6786,(860) 585-4002
-Pomfret,901561030,1996,,5 Haven Road,,Pomfret Center,6259,(860) 974-0343
-Pomfret,901561030,1999,,5 Haven Road,,Pomfret Center,6259,(860) 974-0343
-Pomfret,901561030,2002,,5 Haven Road,,Pomfret Center,6259,(860) 974-0343
-Pomfret,901561030,2006,,5 Haven Road,,Pomfret Center,6259,(860) 974-0343
-Pomfret,901561030,2011,,5 Haven Road,,Pomfret Center,6259,(860) 974-0343
-Portland,900761800,1996,,265 Main Street,,Portland,6480,(860) 342-6715
-Portland,900761800,1999,,265 Main Street,,Portland,6480,(860) 342-6715
-Portland,900761800,2002,,265 Main Street,,Portland,6480,(860) 342-6715
-Portland,900761800,2006,,33 East Main Street,,Portland,6480,(860) 342-6715
-Portland,900761800,2011,,33 East Main Street,,Portland,6480,(860) 342-6715
-Preston,901162150,1996,,389 Route 2,,Preston,6365,(860) 887-5581
-Preston,901162150,1999,,389 Route 2,,Preston,6365,(860) 887-5581
-Preston,901162150,2002,,389 Route 2,,Preston,6365,(860) 887-5581
-Preston,901162150,2006,,389 Route 2,,Preston,6365,(860) 887-5581
-Preston,901162150,2011,,389 Route 2,,Preston,6365,(860) 887-5581
-Prospect,900962290,1996,,36 Center Street,,Prospect,6712,(203) 758-4461
-Prospect,900962290,1999,,36 Center Street,,Prospect,6712,(203) 758-4461
-Prospect,900962290,2002,,36 Center Street,,Prospect,6712,(203) 758-4461
-Prospect,900962290,2006,,36 Center Street,,Prospect,6712,(203) 758-4461
-Prospect,900962290,2011,,36 Center Street,,Prospect,6712,(203) 758-4461
-Putnam,901562710,1996,,126 Church Street,,Putnam,6260,(860) 963-6800
-Putnam,901562710,1999,,126 Church Street,,Putnam,6260,(860) 963-6800
-Putnam,901562710,2002,,126 Church Street,,Putnam,6260,(860) 963-6800
-Putnam,901562710,2006,,126 Church Street,,Putnam,6260,(860) 963-6800
-Putnam,901562710,2011,,126 Church Street,,Putnam,6260,(860) 963-6800
-Redding,900163480,1996,,Town Office Building P.O. Box  28,,Redding,6875,(203) 938-2002
-Redding,900163480,1999,,Town Office Building P.O. Box  28,,Redding,6875,(203) 938-2002
-Redding,900163480,2002,,Town Office Building P.O. Box  28,,Redding,6875,(203) 938-2002
-Redding,900163480,2006,,Town Office Building P.O. Box  28,,Redding,6875,(203) 938-2002
-Redding,900163480,2011,,Town Office Building P.O. Box  28,,Redding,6875,(203) 938-2002
-Ridgefield,900163970,1996,,400 Main Street,,Ridgefield,6877,(203) 431-2700
-Ridgefield,900163970,1999,,400 Main Street,,Ridgefield,6877,(203) 431-2700
-Ridgefield,900163970,2002,,400 Main Street,,Ridgefield,6877,(203) 431-2700
-Ridgefield,900163970,2006,,400 Main Street,,Ridgefield,6877,(203) 431-2700
-Ridgefield,900163970,2011,,400 Main Street,,Ridgefield,6877,(203) 431-2700
-Rocky Hill,900365370,1996,,P.O. Box 657,,Rocky Hill,6067,(860) 258-2705
-Rocky Hill,900365370,1999,,P.O. Box 657,,Rocky Hill,6067,(860) 258-2705
-Rocky Hill,900365370,2002,,P.O. Box 657,,Rocky Hill,6067,(860) 258-2705
-Rocky Hill,900365370,2006,,P.O. Box 657,,Rocky Hill,6067,(860) 258-2705
-Rocky Hill,900365370,2011,,P.O. Box 657,,Rocky Hill,6067,(860) 258-2705
-Roxbury,900565930,1996,,P.O. Box 203,,Roxbury,6783,(860) 354-9938
-Roxbury,900565930,1999,,P.O. Box 203,,Roxbury,6783,(860) 354-9938
-Roxbury,900565930,2002,,P.O. Box 203,,Roxbury,6783,(860) 354-9938
-Roxbury,900565930,2006,,P.O. Box 203,,Roxbury,6783,(860) 354-9938
-Roxbury,900565930,2011,,P.O. Box 203,,Roxbury,6783,(860) 354-9938
-Salem,901166210,1996,,270 Hartford Road,,Salem,6420,(860) 859-3873
-Salem,901166210,1999,,270 Hartford Road,,Salem,6420,(860) 859-3873
-Salem,901166210,2002,,270 Hartford Road,,Salem,6420,(860) 859-3873
-Salem,901166210,2006,,270 Hartford Road,,Salem,6420,(860) 859-3873
-Salem,901166210,2011,,270 Hartford Road,,Salem,6420,(860) 859-3873
-Salisbury,900566420,1996,,27 Main Street,,Salisbury,6068,(860) 435-5170
-Salisbury,900566420,1999,,27 Main Street,,Salisbury,6068,(860) 435-5170
-Salisbury,900566420,2002,,27 Main Street,,Salisbury,6068,(860) 435-5170
-Salisbury,900566420,2006,,27 Main Street,,Salisbury,6068,(860) 435-5170
-Salisbury,900566420,2011,,27 Main Street,,Salisbury,6068,(860) 435-5170
-Scotland,901567400,1996,,P.O. Box 122,,Scotland,6264,(860) 423-9634
-Scotland,901567400,1999,,P.O. Box 122,,Scotland,6264,(860) 423-9634
-Scotland,901567400,2002,,P.O. Box 122,,Scotland,6264,(860) 423-9634
-Scotland,901567400,2006,,P.O. Box 122,,Scotland,6264,(860) 423-9634
-Scotland,901567400,2011,,P.O. Box 122,,Scotland,6264,(860) 423-9634
-Seymour,900967610,1996,Town Hall,1 First Street,,Seymour,6483,(203) 888-2511
-Seymour,900967610,1999,Town Hall,1 First Street,,Seymour,6483,(203) 888-2511
-Seymour,900967610,2002,Town Hall,1 First Street,,Seymour,6483,(203) 888-2511
-Seymour,900967610,2006,Town Hall,1 First Street,,Seymour,6483,(203) 888-2511
-Seymour,900967610,2011,Town Hall,1 First Street,,Seymour,6483,(203) 888-2511
-Sharon,900567960,1996,,63 Main Street,,Sharon,6069,(860) 364-5789
-Sharon,900567960,1999,,63 Main Street,,Sharon,6069,(860) 364-5789
-Sharon,900567960,2002,,63 Main Street,,Sharon,6069,(860) 364-5789
-Sharon,900567960,2006,,63 Main Street,,Sharon,6069,(860) 364-5789
-Sharon,900567960,2011,,63 Main Street,,Sharon,6069,(860) 364-5789
-Shelton,900168170,1996,City Hall,54 Hill Street,,Shelton,6484,(203) 924-1555
-Shelton,900168170,1999,City Hall,54 Hill Street,,Shelton,6484,(203) 924-1555 
-Shelton,900168170,2002,City Hall,54 Hill Street,,Shelton,6484,(203) 924-1555 
-Shelton,900168170,2006,City Hall,54 Hill Street,,Shelton,6484,(203) 924-1555 
-Shelton,900168170,2011,City Hall,54 Hill Street,,Shelton,6484,(203) 924-1555 
-Sherman,900168310,1996,,P.O. Box 39,,Sherman,6784,(860) 355-1139
-Sherman,900168310,1999,,P.O. Box 39,,Sherman,6784,(860) 355-1139
-Sherman,900168310,2002,,P.O. Box 39,,Sherman,6784,(860) 355-1139
-Sherman,900168310,2006,,P.O. Box 39,,Sherman,6784,(860) 355-1139
-Sherman,900168310,2011,,P.O. Box 39,,Sherman,6784,(860) 355-1139
-Simsbury,900368940,1996,,P.O. Box 495,,Simsbury,6070,(860) 658-3230
-Simsbury,900368940,1999,,P.O. Box 495,,Simsbury,6070,(860) 658-3230
-Simsbury,900368940,2002,,P.O. Box 495,,Simsbury,6070,(860) 658-3230
-Simsbury,900368940,2006,,P.O. Box 495,,Simsbury,6070,(860) 658-3230
-Simsbury,900368940,2011,,P.O. Box 495,,Simsbury,6070,(860) 658-3230
-Somers,901369220,1996,,P.O. Box 308,,Somers,6071,(860) 763-8200
-Somers,901369220,1999,,P.O. Box 308,,Somers,6071,(860) 763-8200
-Somers,901369220,2002,,P.O. Box 308,,Somers,6071,(860) 763-8200
-Somers,901369220,2006,,P.O. Box 308,,Somers,6071,(860) 763-8200
-Somers,901369220,2011,,P.O. Box 308,,Somers,6071,(860) 763-8200
-South Windsor,900371390,1996,,1540 Sullivan Avenue,,South Windsor,6074,(860) 644-2511
-South Windsor,900371390,1999,,1540 Sullivan Avenue,,South Windsor,6074,(860) 644-2511
-South Windsor,900371390,2002,,1540 Sullivan Avenue,,South Windsor,6074,(860) 644-2511
-South Windsor,900371390,2006,,1540 Sullivan Avenue,,South Windsor,6074,(860) 644-2511
-South Windsor,900371390,2011,,1540 Sullivan Avenue,,South Windsor,6074,(860) 644-2511
-Southbury,900969640,1996,,501 Main Street South,,Southbury,6488,(203) 262-0647
-Southbury,900969640,1999,,501 Main Street South,,Southbury,6488,(203) 262-0647
-Southbury,900969640,2002,,501 Main Street South,,Southbury,6488,(203) 262-0647
-Southbury,900969640,2006,,501 Main Street South,,Southbury,6488,(203) 262-0647
-Southbury,900969640,2011,,501 Main Street South,,Southbury,6488,(203) 262-0647
-Southington,900370550,1996,,75 Main Street,,Southington,6489,(860) 276-6200
-Southington,900370550,1999,,75 Main Street,,Southington,6489,(860) 276-6200
-Southington,900370550,2002,,75 Main Street,,Southington,6489,(860) 276-6200
-Southington,900370550,2006,,75 Main Street,,Southington,6489,(860) 276-6200
-Southington,900370550,2011,,75 Main Street,,Southington,6489,(860) 276-6200
-Sprague,901171670,1996,,P.O. Box 677,,Baltic,6330,(860) 822-3000
-Sprague,901171670,1999,,P.O. Box 677,,Baltic,6330,(860) 822-3000
-Sprague,901171670,2002,,P.O. Box 677,,Baltic,6330,(860) 822-3000
-Sprague,901171670,2006,,P.O. Box 677,,Baltic,6330,(860) 822-3000
-Sprague,901171670,2011,,P.O. Box 677,,Baltic,6330,(860) 822-3000
-Stafford,901372090,1996,,1 Main Street,,Stafford Springs,6076,(860) 684-2130
-Stafford,901372090,1999,,1 Main Street,,Stafford Springs,6076,(860) 684-2130
-Stafford,901372090,2002,,1 Main Street,,Stafford Springs,6076,(860) 684-2130
-Stafford,901372090,2006,,1 Main Street,,Stafford Springs,6076,(860) 684-2130
-Stafford,901372090,2011,,1 Main Street,,Stafford Springs,6076,(860) 684-2130
-Stamford,900173070,1996,,P.O. Box 10152,,Stamford,6904,(203) 977-4150
-Stamford,900173070,1999,,P.O. Box 10152,,Stamford,6904,(203) 977-4150
-Stamford,900173070,2002,,P.O. Box 10152,,Stamford,6904,(203) 977-4150
-Stamford,900173070,2006,,P.O. Box 10152,,Stamford,6904,(203) 977-4150
-Stamford,900173070,2011,,P.O. Box 10152,,Stamford,6904,(203) 977-4150
-Sterling,901573420,1996,,P.O. Box 157,,Oneco,6373,(860) 564-2904
-Sterling,901573420,1999,,P.O. Box 157,,Oneco,6373,(860) 564-2904
-Sterling,901573420,2002,,P.O. Box 157,,Oneco,6373,(860) 564-2904
-Sterling,901573420,2006,,P.O. Box 157,,Oneco,6373,(860) 564-2904
-Sterling,901573420,2011,,P.O. Box 157,,Oneco,6373,(860) 564-2904
-Stonington,901173770,1996,,P.O. Box 352,,Stonington,6378,(860) 535-5050
-Stonington,901173770,1999,,P.O. Box 352,,Stonington,6378,(860) 535-5050
-Stonington,901173770,2002,,P.O. Box 352,,Stonington,6378,(860) 535-5050
-Stonington,901173770,2006,,P.O. Box 352,,Stonington,6378,(860) 535-5050
-Stonington,901173770,2011,,P.O. Box 352,,Stonington,6378,(860) 535-5050
-Stratford,900174190,1996,Town Hall,2725 Main Street,,Stratford,6497,(203) 385-4001
-Stratford,900174190,1999,Town Hall,2725 Main Street,,Stratford,6615,(203) 385-4001
-Stratford,900174190,2002,Town Hall,2725 Main Street,,Stratford,6615,(203) 385-4001
-Stratford,900174190,2006,Town Hall,2725 Main Street,,Stratford,6615,(203) 385-4001
-Stratford,900174190,2011,Town Hall,2725 Main Street,,Stratford,6615,(203) 385-4001
-Suffield,900374540,1996,,83 Mountain Road,,Suffield,6078,(860) 668-3838
-Suffield,900374540,1999,,83 Mountain Road,,Suffield,6078,(860) 668-3838
-Suffield,900374540,2002,,83 Mountain Road,,Suffield,6078,(860) 668-3838
-Suffield,900374540,2006,,83 Mountain Road,,Suffield,6078,(860) 668-3838
-Suffield,900374540,2011,,83 Mountain Road,,Suffield,6078,(860) 668-3838
-Thomaston,900575730,1996,,158 Main Street,,Thomaston,6787,(860) 283-4421
-Thomaston,900575730,1999,,158 Main Street,,Thomaston,6787,(860) 283-4421
-Thomaston,900575730,2002,,158 Main Street,,Thomaston,6787,(860) 283-4421
-Thomaston,900575730,2006,,158 Main Street,,Thomaston,6787,(860) 283-4421
-Thomaston,900575730,2011,,158 Main Street,,Thomaston,6787,(860) 283-4421
-Thompson,901575870,1996,,P.O. Box 899,,North Grosvenordale,6255,(860) 923-9561
-Thompson,901575870,1999,,P.O. Box 899,,North Grosvenordale,6255,(860) 923-9561
-Thompson,901575870,2002,,P.O. Box 899,,North Grosvenordale,6255,(860) 923-9561
-Thompson,901575870,2006,,P.O. Box 899,,North Grosvenordale,6255,(860) 923-9561
-Thompson,901575870,2011,,P.O. Box 899,,North Grosvenordale,6255,(860) 923-9561
-Tolland,901376290,1996,,21 Tolland Green,,Tolland,6084,(860) 871-3600
-Tolland,901376290,1999,,21 Tolland Green,,Tolland,6084,(860) 871-3600
-Tolland,901376290,2002,,21 Tolland Green,,Tolland,6084,(860) 871-3600
-Tolland,901376290,2006,,21 Tolland Green,,Tolland,6084,(860) 871-3600
-Tolland,901376290,2011,,21 Tolland Green,,Tolland,6084,(860) 871-3600
-Torrington,900576570,1996,,140 Main Street,,Torrington,6790,(860) 489-2228
-Torrington,900576570,1999,,140 Main Street,,Torrington,6790,(860) 489-2228
-Torrington,900576570,2002,,140 Main Street,,Torrington,6790,(860) 489-2228
-Torrington,900576570,2006,,140 Main Street,,Torrington,6790,(860) 489-2228
-Torrington,900576570,2011,,140 Main Street,,Torrington,6790,(860) 489-2228
-Trumbull,900177200,1996,Town Hall,5866 Main Street,,Trumbull,6611,(203) 452-5006
-Trumbull,900177200,1999,Town Hall,5866 Main Street,,Trumbull,6611,(203) 452-5006
-Trumbull,900177200,2002,Town Hall,5866 Main Street,,Trumbull,6611,(203) 452-5006
-Trumbull,900177200,2006,Town Hall,5866 Main Street,,Trumbull,6611,(203) 452-5006
-Trumbull,900177200,2011,Town Hall,5866 Main Street,,Trumbull,6611,(203) 452-5006
-Union,901377830,1996,,1024 Buckley Highway,,Union,6076,(860) 684-3812
-Union,901377830,1999,,1024 Buckley Highway,,Union,6076,(860) 684-3812
-Union,901377830,2002,,1024 Buckley Highway,,Union,6076,(860) 684-3812
-Union,901377830,2006,,1043 Buckley Highway,,Union,6076,(860) 684-3812
-Union,901377830,2011,,1043 Buckley Highway,,Union,6076,(860) 684-3812
-Vernon,901378250,1996,,14 Park Place,,Vernon,6066,(860) 872-8591 
-Vernon,901378250,1999,,14 Park Place,,Vernon,6066,(860) 872-8591 
-Vernon,901378250,2002,,14 Park Place,,Vernon,6066,(860) 872-8591 
-Vernon,901378250,2006,,14 Park Place,,Vernon,6066,(860) 872-8591 
-Vernon,901378250,2011,,14 Park Place,,Vernon,6066,(860) 872-8591 
-Voluntown,901178600,1996,,P.O. Box 96,,Voluntown,6384,(860) 376-3927
-Voluntown,901178600,1999,,P.O. Box 96,,Voluntown,6384,(860) 376-3927
-Voluntown,901178600,2002,,P.O. Box 96,,Voluntown,6384,(860) 376-3927
-Voluntown,901178600,2006,,P.O. Box 96,,Voluntown,6384,(860) 376-3927
-Voluntown,901178600,2011,,P.O. Box 96,,Voluntown,6384,(860) 376-3927
-Wallingford,900978740,1996,Town Hall,45 South Main Street,,Wallingford,6492,(203) 294-2070
-Wallingford,900978740,1999,Town Hall,45 South Main Street,,Wallingford,6492,(203) 294-2070
-Wallingford,900978740,2002,Town Hall,45 South Main Street,,Wallingford,6492,(203) 294-2070
-Wallingford,900978740,2006,Town Hall,45 South Main Street,,Wallingford,6492,(203) 294-2070
-Wallingford,900978740,2011,Town Hall,45 South Main Street,,Wallingford,6492,(203) 294-2070
-Warren,900579510,1996,,7 Sackett Hill Road,,Warren,6754,(860) 868-0090
-Warren,900579510,1999,,7 Sackett Hill Road,,Warren,6754,(860) 868-0090
-Warren,900579510,2002,,7 Sackett Hill Road,,Warren,6754,(860) 868-0090
-Warren,900579510,2006,,7 Sackett Hill Road,,Warren,6754,(860) 868-0090
-Warren,900579510,2011,,7 Sackett Hill Road,,Warren,6754,(860) 868-0090
-Washington,900579720,1996,,P.O. Box 383,,Washington Depot,6794,(860) 868-2259
-Washington,900579720,1999,,P.O. Box 383,,Washington Depot,6794,(860) 868-2259
-Washington,900579720,2002,,P.O. Box 383,,Washington Depot,6794,(860) 868-2259
-Washington,900579720,2006,,P.O. Box 383,,Washington Depot,6794,(860) 868-2259
-Washington,900579720,2011,,P.O. Box 383,,Washington Depot,6794,(860) 868-2259
-Waterbury,900980070,1996,,235 & 236 Grand Street,,Waterbury,6702,(203) 574-6716
-Waterbury,900980070,1999,,235 & 236 Grand Street,,Waterbury,6702,(203) 574-6716
-Waterbury,900980070,2002,,235 & 236 Grand Street,,Waterbury,6702,(203) 574-6716
-Waterbury,900980070,2006,,235 & 236 Grand Street,,Waterbury,6702,(203) 574-6716
-Waterbury,900980070,2011,,235 & 236 Grand Street,,Waterbury,6702,(203) 574-6716
-Waterford,901180280,1996,,15 Rope Ferry Road,,Waterford,6385,(860) 444-5834
-Waterford,901180280,1999,,15 Rope Ferry Road,,Waterford,6385,(860) 444-5834
-Waterford,901180280,2002,,15 Rope Ferry Road,,Waterford,6385,(860) 444-5834
-Waterford,901180280,2006,,15 Rope Ferry Road,,Waterford,6385,(860) 444-5834
-Waterford,901180280,2011,,15 Rope Ferry Road,,Waterford,6385,(860) 444-5834
-Watertown,900580490,1996,,37 DeForest Street,,Watertown,6795,(860) 945-5255
-Watertown,900580490,1999,,37 DeForest Street,,Watertown,6795,(860) 945-5255
-Watertown,900580490,2002,,37 DeForest Street,,Watertown,6795,(860) 945-5255
-Watertown,900580490,2006,,37 DeForest Street,,Watertown,6795,(860) 945-5255
-Watertown,900580490,2011,,37 DeForest Street,,Watertown,6795,(860) 945-5255
-West Hartford,900382590,1996,,50 South Main Street,,West Hartford,6107,(860) 523-3142
-West Hartford,900382590,1999,,50 South Main Street,,West Hartford,6107,(860) 523-3142
-West Hartford,900382590,2002,,50 South Main Street,,West Hartford,6107,(860) 523-3142
-West Hartford,900382590,2006,,50 South Main Street,,West Hartford,6107,(860) 523-3142
-West Hartford,900382590,2011,,50 South Main Street,,West Hartford,6107,(860) 561-7500
-West Haven,900982870,1996,City Hall,355 Main Street,,West Haven,6516,(203) 937-3510
-West Haven,900982870,1999,City Hall,355 Main Street,,West Haven,6516,(203) 937-3510
-West Haven,900982870,2002,City Hall,355 Main Street,,West Haven,6516,(203) 937-3510
-West Haven,900982870,2006,City Hall,355 Main Street,,West Haven,6516,(203) 937-3510
-West Haven,900982870,2011,City Hall,355 Main Street,,West Haven,6516,(203) 937-3510
-Westbrook,900781680,1996,,P.O. Box G,,Westbrook,6498,(860) 399-3040
-Westbrook,900781680,1999,,P.O. Box G,,Westbrook,6498,(860) 399-3040
-Westbrook,900781680,2002,,P.O. Box G,,Westbrook,6498,(860) 399-3040
-Westbrook,900781680,2006,,P.O. Box G,,Westbrook,6498,(860) 399-3040
-Westbrook,900781680,2011,,P.O. Box G,,Westbrook,6498,(860) 399-3040
-Weston,900183430,1996,,P.O. Box 1007,,Weston,6883,(203) 222-2656
-Weston,900183430,1999,,P.O. Box 1007,,Weston,6883,(203) 222-2656
-Weston,900183430,2002,,P.O. Box 1007,,Weston,6883,(203) 222-2656
-Weston,900183430,2006,,P.O. Box 1007,,Weston,6883,(203) 222-2656
-Weston,900183430,2011,,P.O. Box 1007,,Weston,6883,(203) 222-2656
-Westport,900183500,1996,,110 Myrtle Avenue,,Westport,6880,(203) 341-1111
-Westport,900183500,1999,,110 Myrtle Avenue,,Westport,6880,(203) 341-1111
-Westport,900183500,2002,,110 Myrtle Avenue,,Westport,6880,(203) 341-1111
-Westport,900183500,2006,,110 Myrtle Avenue,,Westport,6880,(203) 341-1111
-Westport,900183500,2011,,110 Myrtle Avenue,,Westport,6880,(203) 341-1111
-Wethersfield,900384900,1996,,505 Silas Deane Highway,,Wethersfield,6109,(860) 721-2801
-Wethersfield,900384900,1999,,505 Silas Deane Highway,,Wethersfield,6109,(860) 721-2801
-Wethersfield,900384900,2002,,505 Silas Deane Highway,,Wethersfield,6109,(860) 721-2801
-Wethersfield,900384900,2006,,505 Silas Deane Highway,,Wethersfield,6109,(860) 721-2801
-Wethersfield,900384900,2011,,505 Silas Deane Highway,,Wethersfield,6109,(860) 721-2801
-Willington,901385950,1996,,40 Old Farms Road,,Willington,6279,(860) 429-5649
-Willington,901385950,1999,,40 Old Farms Road,,Willington,6279,(860) 429-5649
-Willington,901385950,2002,,40 Old Farms Road,,Willington,6279,(860) 429-5649
-Willington,901385950,2006,,40 Old Farms Road,,Willington,6279,(860) 429-5649
-Willington,901385950,2011,,40 Old Farms Road,,Willington,6279,(860) 429-5649
-Wilton,900186370,1996,,238 Danbury Road,,Wilton,6897,(203) 834-9200
-Wilton,900186370,1999,,238 Danbury Road,,Wilton,6897,(203) 834-9200
-Wilton,900186370,2002,,238 Danbury Road,,Wilton,6897,(203) 834-9200
-Wilton,900186370,2006,,238 Danbury Road,,Wilton,6897,(203) 834-9200
-Wilton,900186370,2011,,238 Danbury Road,,Wilton,6897,(203) 834-9200
-Winchester,900586440,1996,,338 Main Street,,Winchester,6098,(860) 738-6962
-Winchester,900586440,1999,,338 Main Street,,Winchester,6098,(860) 738-6962
-Winchester,900586440,2002,,338 Main Street,,Winchester,6098,(860) 738-6962
-Winchester,900586440,2006,,338 Main Street,,Winchester,6098,(860) 738-6962
-Winchester,900586440,2011,,338 Main Street,,Winchester,6098,(860) 738-6962
-Windham,901586790,1996,,979 Main Street,,Willimantic,6226,(860) 465-3006
-Windham,901586790,1999,,979 Main Street,,Willimantic,6226,(860) 465-3006
-Windham,901586790,2002,,979 Main Street,,Willimantic,6226,(860) 465-3006
-Windham,901586790,2006,,979 Main Street,,Willimantic,6226,(860) 465-3006
-Windham,901586790,2011,,979 Main Street,,Willimantic,6226,(860) 465-3006
-Windsor,900387000,1996,,275 Broad Street,,Windsor,6095,(860) 285-1800
-Windsor,900387000,1999,,275 Broad Street,,Windsor,6095,(860) 285-1800
-Windsor,900387000,2002,,275 Broad Street,,Windsor,6095,(860) 285-1800
-Windsor,900387000,2006,,275 Broad Street,,Windsor,6095,(860) 285-1800
-Windsor,900387000,2011,,275 Broad Street,,Windsor,6095,(860) 285-1800
-Windsor Locks,900387070,1996,,50 Church Street,,Windsor Locks,6096,(860) 627-1444
-Windsor Locks,900387070,1999,,50 Church Street,,Windsor Locks,6096,(860) 627-1444
-Windsor Locks,900387070,2002,,50 Church Street,,Windsor Locks,6096,(860) 627-1444
-Windsor Locks,900387070,2006,,50 Church Street,,Windsor Locks,6096,(860) 627-1444
-Windsor Locks,900387070,2011,,50 Church Street,,Windsor Locks,6096,(860) 627-1444
-Wolcott,900987560,1996,,10 Kenea Avenue,,Wolcott,6716,(203) 879-8100
-Wolcott,900987560,1999,,10 Kenea Avenue,,Wolcott,6716,(203) 879-8100
-Wolcott,900987560,2002,,10 Kenea Avenue,,Wolcott,6716,(203) 879-8100
-Wolcott,900987560,2006,,10 Kenea Avenue,,Wolcott,6716,(203) 879-8100
-Wolcott,900987560,2011,,10 Kenea Avenue,,Wolcott,6716,(203) 879-8100
-Woodbridge,900987700,1996,Town Hall,11 Meetinghouse Lane,,Woodbridge,6525,(203) 389-3400
-Woodbridge,900987700,1999,Town Hall,11 Meetinghouse Lane,,Woodbridge,6525,(203) 389-3401
-Woodbridge,900987700,2002,Town Hall,11 Meetinghouse Lane,,Woodbridge,6525,(203) 389-3401
-Woodbridge,900987700,2006,Town Hall,11 Meetinghouse Lane,,Woodbridge,6525,(203) 389-3401
-Woodbridge,900987700,2011,Town Hall,11 Meetinghouse Lane,,Woodbridge,6525,(203) 389-3401
-Woodbury,900587910,1996,,P.O. Box 369,,Woodbury,6798,(203) 263-2141
-Woodbury,900587910,1999,,P.O. Box 369,,Woodbury,6798,(203) 263-2141
-Woodbury,900587910,2002,,P.O. Box 369,,Woodbury,6798,(203) 263-2141
-Woodbury,900587910,2006,,P.O. Box 369,,Woodbury,6798,(203) 263-2141
-Woodbury,900587910,2011,,P.O. Box 369,,Woodbury,6798,(203) 263-2141
-Woodstock,901588190,1996,,415 Route 169,,Woodstock,6281,(860) 928-0208
-Woodstock,901588190,1999,,415 Route 169,,Woodstock,6281,(860) 928-0208
-Woodstock,901588190,2002,,415 Route 169,,Woodstock,6281,(860) 928-0208
-Woodstock,901588190,2006,,415 Route 169,,Woodstock,6281,(860) 928-0208
-Woodstock,901588190,2011,,415 Route 169,,Woodstock,6281,(860) 928-0208
+"Town","FIPS","Year","Address 1","Address 2","Address 3","City","Zip","Telephone","Website"
+"Andover",901301080,1996,"","17 School Road, P.O. Box 328","","Andover",6232,"(860) 742-7305",""
+"Andover",901301080,1999,"","17 School Road, P.O. Box 328","","Andover",6232,"(860) 742-7305",""
+"Andover",901301080,2002,"","17 School Road, P.O. Box 328","","Andover",6232,"(860) 742-7305",""
+"Andover",901301080,2006,"","17 School Road, P.O. Box 328","","Andover",6232,"(860) 742-7305",""
+"Andover",901301080,2011,"","17 School Road, P.O. Box 328","","Andover",6232,"(860) 742-7305",""
+"Andover",901301080,2018,"","17 School Road","","Andover",6232,"(860) 742-7305","www.andoverconnecticut.org"
+"Ansonia",900901220,1996,"City Hall","253 Main Street","","Ansonia",6401,"(203) 736-5900",""
+"Ansonia",900901220,1999,"City Hall","253 Main Street","","Ansonia",6401,"(203) 736-5900",""
+"Ansonia",900901220,2002,"City Hall","253 Main Street","","Ansonia",6401,"(203) 736-5900",""
+"Ansonia",900901220,2006,"City Hall","253 Main Street","","Ansonia",6401,"(203) 736-5900",""
+"Ansonia",900901220,2011,"City Hall","253 Main Street","","Ansonia",6401,"(203) 736-5900",""
+"Ansonia",900901220,2018,"City Hall","253 Main Street","","Ansonia",6401,"(203) 736-5900","www.cityofansonia.com"
+"Ashford",901501430,1996,"","25 Pompey Hollow Road, Route 44","","Ashford",6278,"(860) 429-2750",""
+"Ashford",901501430,1999,"","25 Pompey Hollow Road, Route 44","","Ashford",6278,"(860) 429-2750",""
+"Ashford",901501430,2002,"","25 Pompey Hollow Road, Route 44","","Ashford",6278,"(860) 429-2750",""
+"Ashford",901501430,2006,"","25 Pompey Hollow Road, Route 44","","Ashford",6278,"(860) 429-2750",""
+"Ashford",901501430,2011,"","25 Pompey Hollow Road, Route 44","","Ashford",6278,"(860) 429-2750",""
+"Ashford",901501430,2018,"","5 Town Hall Rd.","","Ashford",6278,"(860) 487-4400","www.ashfordtownhall.org"
+"Avon",900302060,1996,"","69 West Main Street","","Avon",6001,"(860) 409-4300",""
+"Avon",900302060,1999,"","69 West Main Street","","Avon",6001,"(860) 409-4300",""
+"Avon",900302060,2002,"","69 West Main Street","","Avon",6001,"(860) 409-4300",""
+"Avon",900302060,2006,"","69 West Main Street","","Avon",6001,"(860) 409-4300",""
+"Avon",900302060,2011,"","69 West Main Street","","Avon",6001,"(860) 409-4300",""
+"Avon",900302060,2018,"","69 West Main Street","","Avon",6001,"(860) 409-4300",""
+"Barkhamsted",900502760,1996,"","P.O. Box 588","","Pleasant Valley",6063,"(860) 379-8285",""
+"Barkhamsted",900502760,1999,"","P.O. Box 588","","Pleasant Valley",6063,"(860) 379-8285",""
+"Barkhamsted",900502760,2002,"","P.O. Box 588","","Pleasant Valley",6063,"(860) 379-8285",""
+"Barkhamsted",900502760,2006,"","P.O. Box 588","","Pleasant Valley",6063,"(860) 379-8285",""
+"Barkhamsted",900502760,2011,"","P.O. Box 588","","Pleasant Valley",6063,"(860) 379-8285",""
+"Barkhamsted",900502760,2018,"","67 Ripley Hill Road","","Barkhamsted",6063,"(860) 379-8285","www.barkhamsted.us"
+"Beacon Falls",900903250,1996,"Town Hall","10 Maple Avenue","","Beacon Falls",6403,"(203) 729-4340",""
+"Beacon Falls",900903250,1999,"Town Hall","10 Maple Avenue","","Beacon Falls",6403,"(203) 729-4340",""
+"Beacon Falls",900903250,2002,"Town Hall","10 Maple Avenue","","Beacon Falls",6403,"(203) 729-4340",""
+"Beacon Falls",900903250,2006,"Town Hall","10 Maple Avenue","","Beacon Falls",6403,"(203) 729-4340",""
+"Beacon Falls",900903250,2011,"Town Hall","10 Maple Avenue","","Beacon Falls",6403,"(203) 729-4340",""
+"Beacon Falls",900903250,2018,"Town Hall","10 Maple Avenue","","Beacon Falls",6403,"(203) 729-4340","www.beaconfalls-ct.org"
+"Berlin",900304300,1996,"","240 Kensington Road","","Berlin",6037,"(860) 828-7003",""
+"Berlin",900304300,1999,"","240 Kensington Road","","Berlin",6037,"(860) 828-7003",""
+"Berlin",900304300,2002,"","240 Kensington Road","","Berlin",6037,"(860) 828-7003",""
+"Berlin",900304300,2006,"","240 Kensington Road","","Berlin",6037,"(860) 828-7003",""
+"Berlin",900304300,2011,"","240 Kensington Road","","Berlin",6037,"(860) 828-7003",""
+"Berlin",900304300,2018,"","240 Kensington Road","","Berlin",6037,"(860) 828-7003",""
+"Bethany",900904580,1996,"Town Hall","40 Peck Road","","Bethany",6524,"(203) 393-2100",""
+"Bethany",900904580,1999,"Town Hall","40 Peck Road","","Bethany",6524,"(203) 393-2100",""
+"Bethany",900904580,2002,"Town Hall","40 Peck Road","","Bethany",6524,"(203) 393-2100",""
+"Bethany",900904580,2006,"Town Hall","40 Peck Road","","Bethany",6524,"(203) 393-2100",""
+"Bethany",900904580,2011,"Town Hall","40 Peck Road","","Bethany",6524,"(203) 393-2100",""
+"Bethany",900904580,2018,"Town Hall","40 Peck Road","","Bethany",6524,"(203) 393-2100",""
+"Bethel",900104720,1996,"","5 Library Place","","Bethel",6801,"(203) 794-8501",""
+"Bethel",900104720,1999,"","5 Library Place","","Bethel",6801,"(203) 794-8501",""
+"Bethel",900104720,2002,"Clifford J. Hurgin Municipal Center","1 School Street","","Bethel",6801,"(203) 794-8501",""
+"Bethel",900104720,2006,"Clifford J. Hurgin Municipal Center","1 School Street","","Bethel",6801,"(203) 794-8501",""
+"Bethel",900104720,2011,"Clifford J. Hurgin Municipal Center","1 School Street","","Bethel",6801,"(203) 794-8501",""
+"Bethel",900104720,2018,"Clifford J. Hurgin Municipal Center","1 School Street","","Bethel",6801,"(203) 794-8501",""
+"Bethlehem",900504930,1996,"","P.O. Box 160","","Bethlehem",6751,"(203) 266-7677",""
+"Bethlehem",900504930,1999,"","P.O. Box 160","","Bethlehem",6751,"(203) 266-7677",""
+"Bethlehem",900504930,2002,"","P.O. Box 160","","Bethlehem",6751,"(203) 266-7677",""
+"Bethlehem",900504930,2006,"","P.O. Box 160","","Bethlehem",6751,"(203) 266-7677",""
+"Bethlehem",900504930,2011,"","P.O. Box 160","","Bethlehem",6751,"(203) 266-7677",""
+"Bethlehem",900504930,2018,"","P.O. Box 160","","Bethlehem",6751,"(203) 266-7677",""
+"Bloomfield",900305910,1996,"","P.O. Box 337","","Bloomfield",6002,"(860) 769-3501",""
+"Bloomfield",900305910,1999,"","P.O. Box 337","","Bloomfield",6002,"(860) 769-3501",""
+"Bloomfield",900305910,2002,"","P.O. Box 337","","Bloomfield",6002,"(860) 769-3501",""
+"Bloomfield",900305910,2006,"","P.O. Box 337","","Bloomfield",6002,"(860) 769-3501",""
+"Bloomfield",900305910,2011,"","P.O. Box 337","","Bloomfield",6002,"(860) 769-3501",""
+"Bloomfield",900305910,2018,"","800 Bloomfield Avenue","","Bloomfield",6002,"(860) 769-3504","www.bloomfieldct.org"
+"Bolton",901306260,1996,"","222 Bolton Center Road","","Bolton",6043,"(860) 649-8066",""
+"Bolton",901306260,1999,"","222 Bolton Center Road","","Bolton",6043,"(860) 649-8066",""
+"Bolton",901306260,2002,"","222 Bolton Center Road","","Bolton",6043,"(860) 649-8066",""
+"Bolton",901306260,2006,"","222 Bolton Center Road","","Bolton",6043,"(860) 649-8066",""
+"Bolton",901306260,2011,"","222 Bolton Center Road","","Bolton",6043,"(860) 649-8066",""
+"Bolton",901306260,2018,"","222 Bolton Center Road","","Bolton",6043,"(860) 649-8066",""
+"Bozrah",901106820,1996,"","P.O. Box 158","","Bozrah",6334,"(860) 889-2689",""
+"Bozrah",901106820,1999,"","P.O. Box 158","","Bozrah",6334,"(860) 889-2689",""
+"Bozrah",901106820,2002,"","P.O. Box 158","","Bozrah",6334,"(860) 889-2689",""
+"Bozrah",901106820,2006,"","1 River Rd","","Bozrah",6334,"(860) 889-2689",""
+"Bozrah",901106820,2011,"","1 River Rd","","Bozrah",6334,"(860) 889-2689",""
+"Bozrah",901106820,2018,"","1 River Rd","","Bozrah",6334,"(860) 889-2689",""
+"Branford",900907310,1996,"Town Hall","P.O. Box 150","","Branford",6405,"(203) 488-8394",""
+"Branford",900907310,1999,"Town Hall","1019 Main Street","(or) P.O. Box 150","Branford",6405,"(203) 488-8394",""
+"Branford",900907310,2002,"Town Hall","1019 Main Street","(or) P.O. Box 150","Branford",6405,"(203) 488-8394",""
+"Branford",900907310,2006,"Town Hall","1019 Main Street","(or) P.O. Box 150","Branford",6405,"(203) 488-8394",""
+"Branford",900907310,2011,"Town Hall","1019 Main Street","(or) P.O. Box 150","Branford",6405,"(203) 488-8394",""
+"Branford",900907310,2018,"Town Hall","1019 Main Street","(or) P.O. Box 150","Branford",6405,"(203) 488-8394",""
+"Bridgeport",900108070,1996,"City Hall","45 Lyon Terrace","","Bridgeport",6604,"(203) 576-7201",""
+"Bridgeport",900108070,1999,"City Hall","45 Lyon Terrace","","Bridgeport",6604,"(203) 576-7201",""
+"Bridgeport",900108070,2002,"City Hall","45 Lyon Terrace","","Bridgeport",6604,"(203) 576-7201",""
+"Bridgeport",900108070,2006,"City Hall","45 Lyon Terrace","","Bridgeport",6604,"(203) 576-7201",""
+"Bridgeport",900108070,2011,"City Hall","45 Lyon Terrace","","Bridgeport",6604,"(203) 576-7201",""
+"Bridgeport",900108070,2018,"City Hall","45 Lyon Terrace","","Bridgeport",6604,"(203) 576-7201",""
+"Bridgewater",900508210,1996,"","P.O. Box 216","","Bridgewater",6752,"(860) 354-5250",""
+"Bridgewater",900508210,1999,"","P.O. Box 216","","Bridgewater",6752,"(860) 354-5250",""
+"Bridgewater",900508210,2002,"","P.O. Box 216","","Bridgewater",6752,"(860) 354-5250",""
+"Bridgewater",900508210,2006,"","P.O. Box 216","","Bridgewater",6752,"(860) 354-5250",""
+"Bridgewater",900508210,2011,"","P.O. Box 216","","Bridgewater",6752,"(860) 354-5250",""
+"Bridgewater",900508210,2018,"","P.O. Box 171","","Bridgewater",6752,"(860) 355-9379","www.bridgewatertownhall.org"
+"Bristol",900308490,1996,"","111 North Main Street","","Bristol",6010,"(860) 584-7612",""
+"Bristol",900308490,1999,"","111 North Main Street","","Bristol",6010,"(860) 584-7612",""
+"Bristol",900308490,2002,"","111 North Main Street","","Bristol",6010,"(860) 584-7612",""
+"Bristol",900308490,2006,"","111 North Main Street","","Bristol",6010,"(860) 584-7612",""
+"Bristol",900308490,2011,"","111 North Main Street","","Bristol",6010,"(860) 584-7612",""
+"Bristol",900308490,2018,"","111 North Main Street","","Bristol",6010,"(860) 584-7612",""
+"Brookfield",900108980,1996,"","P.O. Box 5106","","Brookfield",6804,"(203) 775-7300",""
+"Brookfield",900108980,1999,"","P.O. Box 5106","","Brookfield",6804,"(203) 775-7300",""
+"Brookfield",900108980,2002,"","P.O. Box 5106","","Brookfield",6804,"(203) 775-7300",""
+"Brookfield",900108980,2006,"","P.O. Box 5106","","Brookfield",6804,"(203) 775-7300",""
+"Brookfield",900108980,2011,"","P.O. Box 5106","","Brookfield",6804,"(203) 775-7300",""
+"Brookfield",900108980,2018,"","100 Pocono Road","","Brookfield",6804,"(203) 775-5235","www.brookfieldct.gov"
+"Brooklyn",901509190,1996,"","4 Wolf Den Road","","Brooklyn",6234,"(860) 779-3411",""
+"Brooklyn",901509190,1999,"","4 Wolf Den Road","","Brooklyn",6234,"(860) 779-3411",""
+"Brooklyn",901509190,2002,"","4 Wolf Den Road","","Brooklyn",6234,"(860) 779-3411",""
+"Brooklyn",901509190,2006,"","4 Wolf Den Road","","Brooklyn",6234,"(860) 779-3411",""
+"Brooklyn",901509190,2011,"","4 Wolf Den Road","","Brooklyn",6234,"(860) 779-3411",""
+"Brooklyn",901509190,2018,"","4 Wolf Den Road","","Brooklyn",6234,"(860) 779-3411",""
+"Burlington",900310100,1996,"","200 Spielman Highway","","Burlington",6013,"(860) 673-6789",""
+"Burlington",900310100,1999,"","200 Spielman Highway","","Burlington",6013,"(860) 673-6789",""
+"Burlington",900310100,2002,"","200 Spielman Highway","","Burlington",6013,"(860) 673-6789",""
+"Burlington",900310100,2006,"","200 Spielman Highway","","Burlington",6013,"(860) 673-6789",""
+"Burlington",900310100,2011,"","200 Spielman Highway","","Burlington",6013,"(860) 673-6789",""
+"Burlington",900310100,2018,"","200 Spielman Highway","","Burlington",6013,"(860) 673-6789",""
+"Canaan",900510940,1996,"","P.O. Box 47,  Falls Village","","Canaan",6031,"(860) 824-0707",""
+"Canaan",900510940,1999,"","P.O. Box 47,  Falls Village","","Canaan",6031,"(860) 824-0707",""
+"Canaan",900510940,2002,"","P.O. Box 47,  Falls Village","","Canaan",6031,"(860) 824-0707",""
+"Canaan",900510940,2006,"","P.O. Box 47,  Falls Village","","Canaan",6031,"(860) 824-0707",""
+"Canaan",900510940,2011,"","P.O. Box 47,  Falls Village","","Canaan",6031,"(860) 824-0707",""
+"Canaan",900510940,2018,"","P.O. Box 47,  Falls Village","","Canaan",6031,"(860) 824-0707",""
+"Canterbury",901512130,1996,"","P.O. Box 26","","Canterbury",6331,"(860) 546-9693",""
+"Canterbury",901512130,1999,"","P.O. Box 26","","Canterbury",6331,"(860) 546-9693",""
+"Canterbury",901512130,2002,"","P.O. Box 26","","Canterbury",6331,"(860) 546-9693",""
+"Canterbury",901512130,2006,"","P.O. Box 26","","Canterbury",6331,"(860) 546-9693",""
+"Canterbury",901512130,2011,"","P.O. Box 26","","Canterbury",6331,"(860) 546-9693",""
+"Canterbury",901512130,2018,"","P.O. Box 26","","Canterbury",6331,"(860) 546-9693",""
+"Canton",900312270,1996,"","P.O. Box 168","","Canton",6022,"(860) 693-7847",""
+"Canton",900312270,1999,"","P.O. Box 168","","Canton",6022,"(860) 693-7847",""
+"Canton",900312270,2002,"","P.O. Box 168","","Canton",6022,"(860) 693-7847",""
+"Canton",900312270,2006,"","P.O. Box 168","","Canton",6022,"(860) 693-7847",""
+"Canton",900312270,2011,"","P.O. Box 168","","Canton",6022,"(860) 693-7847",""
+"Canton",900312270,2018,"Town Hall","4 Market Street","P.O. Box 168","Collinsville",6022,"(860) 693-7847","www.townofcantonct.org/  "
+"Chaplin",901513810,1996,"","P. O. Box 286","","Chaplin",6235,"(860) 455-0073",""
+"Chaplin",901513810,1999,"","P. O. Box 286","","Chaplin",6235,"(860) 455-0073",""
+"Chaplin",901513810,2002,"","P. O. Box 286","","Chaplin",6235,"(860) 455-0073",""
+"Chaplin",901513810,2006,"","P. O. Box 286","","Chaplin",6235,"(860) 455-0073",""
+"Chaplin",901513810,2011,"","P. O. Box 286","","Chaplin",6235,"(860) 455-0073",""
+"Chaplin",901513810,2018,"","495 Phoenixville Road","","Chaplin",6235,"(860) 455-0073","www.chaplinct.org"
+"Cheshire",900914160,1996,"","84 South Main Street","","Cheshire",6410,"(203) 271-6660",""
+"Cheshire",900914160,1999,"","84 South Main Street","","Cheshire",6410,"(203) 271-6660",""
+"Cheshire",900914160,2002,"","84 South Main Street","","Cheshire",6410,"(203) 271-6660",""
+"Cheshire",900914160,2006,"","84 South Main Street","","Cheshire",6410,"(203) 271-6660",""
+"Cheshire",900914160,2011,"","84 South Main Street","","Cheshire",6410,"(203) 271-6660",""
+"Cheshire",900914160,2018,"","84 South Main Street","","Cheshire",6410,"(203) 271-6660","www.cheshirect.org"
+"Chester",900714300,1996,"","P.O. Box 218","","Chester",6412,"(860) 526-0013",""
+"Chester",900714300,1999,"","P.O. Box 218","","Chester",6412,"(860) 526-0013",""
+"Chester",900714300,2002,"","P.O. Box 218","","Chester",6412,"(860) 526-0013",""
+"Chester",900714300,2006,"","P.O. Box 218","","Chester",6412,"(860) 526-0013",""
+"Chester",900714300,2011,"","P.O. Box 218","","Chester",6412,"(860) 526-0013",""
+"Chester",900714300,2018,"","P.O. Box 218","","Chester",6412,"(860) 526-0013",""
+"Clinton",900715350,1996,"","54 East Main Street","","Clinton",6413,"(860) 669-9333",""
+"Clinton",900715350,1999,"","54 East Main Street","","Clinton",6413,"(860) 669-9333",""
+"Clinton",900715350,2002,"","54 East Main Street","","Clinton",6413,"(860) 669-9333",""
+"Clinton",900715350,2006,"","54 East Main Street","","Clinton",6413,"(860) 669-9333",""
+"Clinton",900715350,2011,"","54 East Main Street","","Clinton",6413,"(860) 669-9333",""
+"Clinton",900715350,2018,"","54 East Main Street","","Clinton",6413,"(860) 669-9333",""
+"Colchester",901115910,1996,"","127 Norwich Avenue","","Colchester",6415,"(860) 537-7220",""
+"Colchester",901115910,1999,"","127 Norwich Avenue","","Colchester",6415,"(860) 537-7220",""
+"Colchester",901115910,2002,"","127 Norwich Avenue","","Colchester",6415,"(860) 537-7220",""
+"Colchester",901115910,2006,"","127 Norwich Avenue","","Colchester",6415,"(860) 537-7220",""
+"Colchester",901115910,2011,"","127 Norwich Avenue","","Colchester",6415,"(860) 537-7220",""
+"Colchester",901115910,2018,"","127 Norwich Avenue","","Colchester",6415,"(860) 537-7220","www.colchesterct.gov"
+"Colebrook",900516050,1996,"","P.O. Box 5","","Colebrook",6021,"(860) 379-3359",""
+"Colebrook",900516050,1999,"","P.O. Box 5","","Colebrook",6021,"(860) 379-3359",""
+"Colebrook",900516050,2002,"","P.O. Box 5","","Colebrook",6021,"(860) 379-3359",""
+"Colebrook",900516050,2006,"","P.O. Box 5","","Colebrook",6021,"(860) 379-3359",""
+"Colebrook",900516050,2011,"","P.O. Box 5","","Colebrook",6021,"(860) 379-3359",""
+"Colebrook",900516050,2018,"","P.O. Box 5","","Colebrook",6021,"(860) 379-3359",""
+"Columbia",901316400,1996,"","323 Jonathan Trumbull Highway","","Columbia",6237,"(860) 228-0110",""
+"Columbia",901316400,1999,"","323 Jonathan Trumbull Highway","","Columbia",6237,"(860) 228-0110",""
+"Columbia",901316400,2002,"","323 Jonathan Trumbull Highway","","Columbia",6237,"(860) 228-0110",""
+"Columbia",901316400,2006,"","323 Jonathan Trumbull Highway","","Columbia",6237,"(860) 228-0110",""
+"Columbia",901316400,2011,"","323 Jonathan Trumbull Highway","","Columbia",6237,"(860) 228-0110",""
+"Columbia",901316400,2018,"","323 Jonathan Trumbull Highway","","Columbia",6237,"(860) 228-0110",""
+"Cornwall",900517240,1996,"","P.O. Box 205","","Cornwall",6753,"(860) 672-4959",""
+"Cornwall",900517240,1999,"","P.O. Box 205","","Cornwall",6753,"(860) 672-4959",""
+"Cornwall",900517240,2002,"","P.O. Box 205","","Cornwall",6753,"(860) 672-4959",""
+"Cornwall",900517240,2006,"","P.O. Box 205","","Cornwall",6753,"(860) 672-4959",""
+"Cornwall",900517240,2011,"","P.O. Box 205","","Cornwall",6753,"(860) 672-4959",""
+"Cornwall",900517240,2018,"","P.O. Box 97","","Cornwall",6753,"(860) 672-4959","www.cornwallct.org/"
+"Coventry",901317800,1996,"","P.O. Box 189","","Coventry",6238,"(860) 742-6324",""
+"Coventry",901317800,1999,"","P.O. Box 189","","Coventry",6238,"(860) 742-6324",""
+"Coventry",901317800,2002,"","P.O. Box 189","","Coventry",6238,"(860) 742-6324",""
+"Coventry",901317800,2006,"","P.O. Box 189","","Coventry",6238,"(860) 742-6324",""
+"Coventry",901317800,2011,"","P.O. Box 189","","Coventry",6238,"(860) 742-6324",""
+"Coventry",901317800,2018,"","1712 Main Street","","Coventry",6238,"(860) 742-6324","www.CoventryCT.org"
+"Cromwell",900718080,1996,"","41 West Street","","Cromwell",6416,"(860) 632-3410",""
+"Cromwell",900718080,1999,"","41 West Street","","Cromwell",6416,"(860) 632-3410",""
+"Cromwell",900718080,2002,"","41 West Street","","Cromwell",6416,"(860) 632-3410",""
+"Cromwell",900718080,2006,"","41 West Street","","Cromwell",6416,"(860) 632-3410",""
+"Cromwell",900718080,2011,"","41 West Street","","Cromwell",6416,"(860) 632-3410",""
+"Cromwell",900718080,2018,"","41 West Street","","Cromwell",6416,"(860) 632-3410",""
+"Danbury",900118500,1996,"","155 Deer Hill Avenue","","Danbury",6810,"(203) 797-4511",""
+"Danbury",900118500,1999,"","155 Deer Hill Avenue","","Danbury",6810,"(203) 797-4511",""
+"Danbury",900118500,2002,"","155 Deer Hill Avenue","","Danbury",6810,"(203) 797-4511",""
+"Danbury",900118500,2006,"","155 Deer Hill Avenue","","Danbury",6810,"(203) 797-4511",""
+"Danbury",900118500,2011,"","155 Deer Hill Avenue","","Danbury",6810,"(203) 797-4511",""
+"Danbury",900118500,2018,"","155 Deer Hill Avenue","","Danbury",6810,"(203) 797-4511","www.danbury-ct.gov"
+"Darien",900118850,1996,"","2 Renshaw Road","","Darien",6820,"(203) 656-7338",""
+"Darien",900118850,1999,"","2 Renshaw Road","","Darien",6820,"(203) 656-7338",""
+"Darien",900118850,2002,"","2 Renshaw Road","","Darien",6820,"(203) 656-7338",""
+"Darien",900118850,2006,"","2 Renshaw Road","","Darien",6820,"(203) 656-7338",""
+"Darien",900118850,2011,"","2 Renshaw Road","","Darien",6820,"(203) 656-7338",""
+"Darien",900118850,2018,"","2 Renshaw Road","","Darien",6820,"(203) 656-7338",""
+"Deep River",900719130,1996,"","174 Main Street","","Deep River",6417,"(860) 526-6020",""
+"Deep River",900719130,1999,"","174 Main Street","","Deep River",6417,"(860) 526-6020",""
+"Deep River",900719130,2002,"","174 Main Street","","Deep River",6417,"(860) 526-6020",""
+"Deep River",900719130,2006,"","174 Main Street","","Deep River",6417,"(860) 526-6020",""
+"Deep River",900719130,2011,"","174 Main Street","","Deep River",6417,"(860) 526-6020",""
+"Deep River",900719130,2018,"","174 Main Street","","Deep River",6417,"(860) 526-6020","www.deepriverct.us"
+"Derby",900919550,1996,"City Hall","35 Fifth Street","","Derby",6418,"(203) 736-1450",""
+"Derby",900919550,1999,"City Hall","35 Fifth Street","","Derby",6418,"(203) 736-1450",""
+"Derby",900919550,2002,"City Hall","35 Fifth Street","","Derby",6418,"(203) 736-1450",""
+"Derby",900919550,2006,"City Hall","35 Fifth Street","","Derby",6418,"(203) 736-1450",""
+"Derby",900919550,2011,"City Hall","35 Fifth Street","","Derby",6418,"(203) 736-1450",""
+"Derby",900919550,2018,"City Hall","1 Elizabeth Street","","Derby",6418,"(203) 736-1450","www.derbyct.gov"
+"Durham",900720810,1996,"","P.O. Box 428","","Durham",6422,"(860) 349-3452",""
+"Durham",900720810,1999,"","P.O. Box 428","","Durham",6422,"(860) 349-3452",""
+"Durham",900720810,2002,"","P.O. Box 428","","Durham",6422,"(860) 349-3452",""
+"Durham",900720810,2006,"","P.O. Box 428","","Durham",6422,"(860) 349-3452",""
+"Durham",900720810,2011,"","P.O. Box 428","","Durham",6422,"(860) 349-3452",""
+"Durham",900720810,2018,"","30 Town House Road","P.O. Box 428","Durham",6422,"(860) 349-3452","www.townofdurhamct.org"
+"Eastford",901521860,1996,"","P.O. Box 273","","Eastford",6242,"(860) 974-0133",""
+"Eastford",901521860,1999,"","P.O. Box 273","","Eastford",6242,"(860) 974-0133",""
+"Eastford",901521860,2002,"","P.O. Box 273","","Eastford",6242,"(860) 974-0133",""
+"Eastford",901521860,2006,"","P.O. Box 273","","Eastford",6242,"(860) 974-0133",""
+"Eastford",901521860,2011,"","P.O. Box 273","","Eastford",6242,"(860) 974-0133",""
+"Eastford",901521860,2018,"","P.O. Box 273","","Eastford",6242,"(860) 974-0133",""
+"East Granby",900322070,1996,"","P.O. Box 1858","","East Granby",6026,"(860) 653-2576",""
+"East Granby",900322070,1999,"","P.O. Box 1858","","East Granby",6026,"(860) 653-2576",""
+"East Granby",900322070,2002,"","P.O. Box 1858","","East Granby",6026,"(860) 653-2576",""
+"East Granby",900322070,2006,"","P.O. Box 1858","","East Granby",6026,"(860) 653-2576",""
+"East Granby",900322070,2011,"","P.O. Box 1858","","East Granby",6026,"(860) 653-2576",""
+"East Granby",900322070,2018,"","P.O. Box 1858","","East Granby",6026,"(860) 653-2576","www.eastgranbyct.org"
+"East Haddam",900722280,1996,"","P. O. Box K","","East Haddam",6423,"(860) 873-5020",""
+"East Haddam",900722280,1999,"","P. O. Box K","","East Haddam",6423,"(860) 873-5020",""
+"East Haddam",900722280,2002,"","P. O. Box K","","East Haddam",6423,"(860) 873-5020",""
+"East Haddam",900722280,2006,"","P. O. Box K","","East Haddam",6423,"(860) 873-5020",""
+"East Haddam",900722280,2011,"","P. O. Box K","","East Haddam",6423,"(860) 873-5020",""
+"East Haddam",900722280,2018,"","1 Plains Road","P.O. Box 385","Moodus",6469,"(860) 873-5020","www.easthaddam.org"
+"East Hampton",900722490,1996,"","20 East High Street","","East Hampton",6424,"(860) 267-4468",""
+"East Hampton",900722490,1999,"","20 East High Street","","East Hampton",6424,"(860) 267-4468",""
+"East Hampton",900722490,2002,"","20 East High Street","","East Hampton",6424,"(860) 267-4468",""
+"East Hampton",900722490,2006,"","20 East High Street","","East Hampton",6424,"(860) 267-4468",""
+"East Hampton",900722490,2011,"","20 East High Street","","East Hampton",6424,"(860) 267-4468",""
+"East Hampton",900722490,2018,"","20 East High Street","","East Hampton",6424,"(860) 267-4468",""
+"East Hartford",900322630,1996,"","740 Main Street","","East Hartford",6108,"(860 291-7200",""
+"East Hartford",900322630,1999,"","740 Main Street","","East Hartford",6108,"(860 291-7200",""
+"East Hartford",900322630,2002,"","740 Main Street","","East Hartford",6108,"(860 291-7200",""
+"East Hartford",900322630,2006,"","740 Main Street","","East Hartford",6108,"(860 291-7300",""
+"East Hartford",900322630,2011,"","740 Main Street","","East Hartford",6108,"(860 291-7300",""
+"East Hartford",900322630,2018,"","740 Main Street","","East Hartford",6108,"(860) 291-7300",""
+"East Haven",900922910,1996,"Town Hall","250 Main Street","","East Haven",6512,"(203) 468-3204",""
+"East Haven",900922910,1999,"Town Hall","250 Main Street","","East Haven",6512,"(203) 468-3204",""
+"East Haven",900922910,2002,"Town Hall","250 Main Street","","East Haven",6512,"(203) 468-3204",""
+"East Haven",900922910,2006,"Town Hall","250 Main Street","","East Haven",6512,"(203) 468-3204",""
+"East Haven",900922910,2011,"Town Hall","250 Main Street","","East Haven",6512,"(203) 468-3204",""
+"East Haven",900922910,2018,"Town Hall","250 Main Street","","East Haven",6512,"(203) 468-3204","www.townofeasthavenct.org"
+"East Lyme",901123400,1996,"","P. O. Box 519, Niantic","","East Lyme",6357,"(860) 739-6931",""
+"East Lyme",901123400,1999,"","P. O. Box 519, Niantic","","East Lyme",6357,"(860) 739-6931",""
+"East Lyme",901123400,2002,"","P. O. Box 519, Niantic","","East Lyme",6357,"(860) 739-6931",""
+"East Lyme",901123400,2006,"","P. O. Box 519, Niantic","","East Lyme",6357,"(860) 739-6931",""
+"East Lyme",901123400,2011,"","P. O. Box 519, Niantic","","East Lyme",6357,"(860) 739-6931",""
+"East Lyme",901123400,2018,"","108 Pennsylvania Ave","","East Lyme",6357,"(860) 739-6931","www.eltownhall.com"
+"Easton",900123890,1996,"Town Hall","225 Center Road","","Easton",6612,"(203) 268-6291",""
+"Easton",900123890,1999,"Town Hall","225 Center Road","","Easton",6612,"(203) 268-6291",""
+"Easton",900123890,2002,"Town Hall","225 Center Road","","Easton",6612,"(203) 268-6291",""
+"Easton",900123890,2006,"Town Hall","225 Center Road","","Easton",6612,"(203) 268-6291",""
+"Easton",900123890,2011,"Town Hall","225 Center Road","","Easton",6612,"(203) 268-6291",""
+"Easton",900123890,2018,"Town Hall","225 Center Road","","Easton",6612,"(203) 268-6291","www.eastonct.gov"
+"East Windsor",900324800,1996,"","11 Rye Street","","Broad Brook",6016,"(860) 623-8122",""
+"East Windsor",900324800,1999,"","11 Rye Street","","Broad Brook",6016,"(860) 623-8122",""
+"East Windsor",900324800,2002,"","11 Rye Street","","Broad Brook",6016,"(860) 623-8122",""
+"East Windsor",900324800,2006,"","11 Rye Street","","Broad Brook",6016,"(860) 623-8122",""
+"East Windsor",900324800,2011,"","11 Rye Street","","Broad Brook",6016,"(860) 623-8122",""
+"East Windsor",900324800,2018,"","11 Rye Street","","Broad Brook",6016,"(860) 623-8122",""
+"Ellington",901325360,1996,"","P.O. Box 187","","Ellington",6029,"(860) 875-0787",""
+"Ellington",901325360,1999,"","P.O. Box 187","","Ellington",6029,"(860) 875-0787",""
+"Ellington",901325360,2002,"","P.O. Box 187","","Ellington",6029,"(860) 870-3100",""
+"Ellington",901325360,2006,"","P.O. Box 187","","Ellington",6029,"(860) 870-3100",""
+"Ellington",901325360,2011,"","P.O. Box 187","","Ellington",6029,"(860) 870-3100",""
+"Ellington",901325360,2018,"","P.O. Box 187","","Ellington",6029,"(860) 870-3100",""
+"Enfield",900325990,1996,"","820 Enfield Street","","Enfield",6082,"(860) 253-6350",""
+"Enfield",900325990,1999,"","820 Enfield Street","","Enfield",6082,"(860) 253-6350",""
+"Enfield",900325990,2002,"","820 Enfield Street","","Enfield",6082,"(860) 253-6350",""
+"Enfield",900325990,2006,"","820 Enfield Street","","Enfield",6082,"(860) 253-6350",""
+"Enfield",900325990,2011,"","820 Enfield Street","","Enfield",6082,"(860) 253-6350",""
+"Enfield",900325990,2018,"","820 Enfield Street","","Enfield",6082,"(860) 253-6350",""
+"Essex",900726270,1996,"","P.O. Box 98","","Essex",6426,"(860) 767-4340",""
+"Essex",900726270,1999,"","P.O. Box 98","","Essex",6426,"(860) 767-4340",""
+"Essex",900726270,2002,"","P.O. Box 98","","Essex",6426,"(860) 767-4340",""
+"Essex",900726270,2006,"","P.O. Box 98","","Essex",6426,"(860) 767-4340",""
+"Essex",900726270,2011,"","P.O. Box 98","","Essex",6426,"(860) 767-4340",""
+"Essex",900726270,2018,"","29 West Avenue","","Essex",6426,"(860) 767-4340","www.essexct.gov"
+"Fairfield",900126620,1996,"Town Hall","611 Old Post Road","","Fairfield",6430,"(203) 256-3030",""
+"Fairfield",900126620,1999,"Town Hall","611 Old Post Road","","Fairfield",6430,"(203) 256-3030",""
+"Fairfield",900126620,2002,"Town Hall","611 Old Post Road","","Fairfield",6430,"(203) 256-3030",""
+"Fairfield",900126620,2006,"Town Hall","611 Old Post Road","","Fairfield",6430,"(203) 256-3030",""
+"Fairfield",900126620,2011,"Town Hall","611 Old Post Road","","Fairfield",6430,"(203) 256-3030",""
+"Fairfield",900126620,2018,"Town Hall","611 Old Post Road","","Fairfield",6430,"(203) 256-3030",""
+"Farmington",900327600,1996,"","1 Monteith Drive","","Farmington",6032,"(860) 673-8219",""
+"Farmington",900327600,1999,"","1 Monteith Drive","","Farmington",6032,"(860) 673-8219",""
+"Farmington",900327600,2002,"","1 Monteith Drive","","Farmington",6032,"(860) 673-8219",""
+"Farmington",900327600,2006,"","1 Monteith Drive","","Farmington",6032,"(860) 675-2350",""
+"Farmington",900327600,2011,"","1 Monteith Drive","","Farmington",6032,"(860) 675-2350",""
+"Farmington",900327600,2018,"","1 Monteith Drive","","Farmington",6032,"(860) 675-2350","www.farmington-ct.org"
+"Franklin",901129910,1996,"","7 Meetinghouse Hill","","Franklin",6254,"(860) 642-6055",""
+"Franklin",901129910,1999,"","7 Meetinghouse Hill","","Franklin",6254,"(860) 642-6055",""
+"Franklin",901129910,2002,"","7 Meetinghouse Hill","","Franklin",6254,"(860) 642-6055",""
+"Franklin",901129910,2006,"","7 Meetinghouse Hill","","Franklin",6254,"(860) 642-6055",""
+"Franklin",901129910,2011,"","7 Meetinghouse Hill","","Franklin",6254,"(860) 642-6055",""
+"Franklin",901129910,2018,"","7 Meetinghouse Hill","","Franklin",6254,"(860) 642-6055",""
+"Glastonbury",900331240,1996,"","2155 Main Street","","Glastonbury",6033,"(860) 652-7500",""
+"Glastonbury",900331240,1999,"","2155 Main Street","","Glastonbury",6033,"(860) 652-7500",""
+"Glastonbury",900331240,2002,"","2155 Main Street","","Glastonbury",6033,"(860) 652-7500",""
+"Glastonbury",900331240,2006,"","2155 Main Street","","Glastonbury",6033,"(860) 652-7500",""
+"Glastonbury",900331240,2011,"","2155 Main Street","","Glastonbury",6033,"(860) 652-7500",""
+"Glastonbury",900331240,2018,"","2155 Main Street","","Glastonbury",6033,"(860) 652-7500",""
+"Goshen",900532290,1996,"","P.O. Box 187","","Goshen",6756,"(860) 491-2308",""
+"Goshen",900532290,1999,"","P.O. Box 187","","Goshen",6756,"(860) 491-2308",""
+"Goshen",900532290,2002,"","P.O. Box 187","","Goshen",6756,"(860) 491-2308",""
+"Goshen",900532290,2006,"","P.O. Box 187","","Goshen",6756,"(860) 491-2308",""
+"Goshen",900532290,2011,"","P.O. Box 187","","Goshen",6756,"(860) 491-2308",""
+"Goshen",900532290,2018,"","42 North Street","","Goshen",6756,"(860) 491-2308","www.goshenct.gov"
+"Granby",900332640,1996,"","15 North Granby Road","","Granby",6035,"(860) 653-8950",""
+"Granby",900332640,1999,"","15 North Granby Road","","Granby",6035,"(860) 653-8950",""
+"Granby",900332640,2002,"","15 North Granby Road","","Granby",6035,"(860) 653-8950",""
+"Granby",900332640,2006,"","15 North Granby Road","","Granby",6035,"(860) 653-8950",""
+"Granby",900332640,2011,"","15 North Granby Road","","Granby",6035,"(860) 653-8950",""
+"Granby",900332640,2018,"","15 North Granby Road","","Granby",6035,"(860) 653-8950",""
+"Greenwich",900133620,1996,"","P.O. Box 2540","","Greenwich",6830,"(203) 622-7710",""
+"Greenwich",900133620,1999,"","P.O. Box 2540","","Greenwich",6830,"(203) 622-7710",""
+"Greenwich",900133620,2002,"","P.O. Box 2540","","Greenwich",6830,"(203) 622-7710",""
+"Greenwich",900133620,2006,"","P.O. Box 2540","","Greenwich",6830,"(203) 622-7710",""
+"Greenwich",900133620,2011,"","P.O. Box 2540","","Greenwich",6830,"(203) 622-7710",""
+"Greenwich",900133620,2018,"","P.O. Box 2540","","Greenwich",6830,"(203) 622-7710","www.greenwichct.org"
+"Griswold",901133900,1996,"","32 School Street","","Jewett City",6351,"(860) 376-7061",""
+"Griswold",901133900,1999,"","32 School Street","","Jewett City",6351,"(860) 376-7061",""
+"Griswold",901133900,2002,"","32 School Street","","Jewett City",6351,"(860) 376-7061",""
+"Griswold",901133900,2006,"","32 School Street","","Jewett City",6351,"(860) 376-7061",""
+"Griswold",901133900,2011,"","32 School Street","","Jewett City",6351,"(860) 376-7061",""
+"Griswold",901133900,2018,"","32 School Street","","Jewett City",6351,"(860) 376-7061","www.griswold-ct.org"
+"Groton",901134250,1996,"","45 Fort Hill Road","","Groton",6340,"(860) 441-6630",""
+"Groton",901134250,1999,"","45 Fort Hill Road","","Groton",6340,"(860) 441-6630",""
+"Groton",901134250,2002,"","45 Fort Hill Road","","Groton",6340,"(860) 441-6630",""
+"Groton",901134250,2006,"","45 Fort Hill Road","","Groton",6340,"(860) 441-6630",""
+"Groton",901134250,2011,"","45 Fort Hill Road","","Groton",6340,"(860) 441-6630",""
+"Groton",901134250,2018,"","45 Fort Hill Road","","Groton",6340,"(860) 441-6630","www.groton-ct.gov"
+"Guilford",900934950,1996,"Town Hall","31 Park Street","","Guilford",6437,"(203) 453-8015",""
+"Guilford",900934950,1999,"Town Hall","31 Park Street","","Guilford",6437,"(203) 453-8015",""
+"Guilford",900934950,2002,"Town Hall","31 Park Street","","Guilford",6437,"(203) 453-8015",""
+"Guilford",900934950,2006,"Town Hall","31 Park Street","","Guilford",6437,"(203) 453-8015",""
+"Guilford",900934950,2011,"Town Hall","31 Park Street","","Guilford",6437,"(203) 453-8015",""
+"Guilford",900934950,2018,"Town Hall","31 Park Street","","Guilford",6437,"(203) 453-8015",""
+"Haddam",900735230,1996,"","30 Field Park Drive","","Haddam",6438,"(860) 345-8531",""
+"Haddam",900735230,1999,"","30 Field Park Drive","","Haddam",6438,"(860) 345-8531",""
+"Haddam",900735230,2002,"","30 Field Park Drive","","Haddam",6438,"(860) 345-8531",""
+"Haddam",900735230,2006,"","30 Field Park Drive","","Haddam",6438,"(860) 345-8531",""
+"Haddam",900735230,2011,"","30 Field Park Drive","","Haddam",6438,"(860) 345-8531",""
+"Haddam",900735230,2018,"","30 Field Park Drive","","Haddam",6438,"(860) 345-8531",""
+"Hamden",900935650,1996,"Town Hall","2372 Whitney Avenue","","Hamden",6518,"(203) 287-2650",""
+"Hamden",900935650,1999,"Town Hall","2372 Whitney Avenue","","Hamden",6518,"(203) 287-2650",""
+"Hamden",900935650,2002,"Hamden Gov't Center","2750 Dixwell Avenue","","Hamden",6518,"(203) 287-7100",""
+"Hamden",900935650,2006,"Hamden Gov't Center","2750 Dixwell Avenue","","Hamden",6518,"(203) 287-7100",""
+"Hamden",900935650,2011,"Hamden Gov't Center","2750 Dixwell Avenue","","Hamden",6518,"(203) 287-7100",""
+"Hamden",900935650,2018,"Hamden Gov't Center","2750 Dixwell Avenue","","Hamden",6518,"(203) 287-7100",""
+"Hampton",901536000,1996,"","P.O. Box 143","","Hampton",6247,"(860) 455-9132 ",""
+"Hampton",901536000,1999,"","P.O. Box 143","","Hampton",6247,"(860) 455-9132 ",""
+"Hampton",901536000,2002,"","P.O. Box 143","","Hampton",6247,"(860) 455-9132 ",""
+"Hampton",901536000,2006,"","P.O. Box 143","","Hampton",6247,"(860) 455-9132 ",""
+"Hampton",901536000,2011,"","P.O. Box 143","","Hampton",6247,"(860) 455-9132 ",""
+"Hampton",901536000,2018,"","P.O. Box 143","","Hampton",6247,"(860) 455-9132 ",""
+"Hartford",900337070,1996,"","550 Main Street","","Hartford",6103,"(860) 543-8500",""
+"Hartford",900337070,1999,"","550 Main Street","","Hartford",6103,"(860) 543-8500",""
+"Hartford",900337070,2002,"","550 Main Street","","Hartford",6103,"(860) 543-8500",""
+"Hartford",900337070,2006,"","550 Main Street","","Hartford",6103,"(860) 543-8500",""
+"Hartford",900337070,2011,"","550 Main Street","","Hartford",6103,"(860) 543-8500",""
+"Hartford",900337070,2018,"","550 Main Street","","Hartford",6103,"(860) 757-9311","www.hartford.gov"
+"Hartland",900337140,1996,"","22 South Road","","East Hartland",6027,"(860) 653-6800",""
+"Hartland",900337140,1999,"","22 South Road","","East Hartland",6027,"(860) 653-6800",""
+"Hartland",900337140,2002,"","22 South Road","","East Hartland",6027,"(860) 653-6800",""
+"Hartland",900337140,2006,"","22 South Road","","East Hartland",6027,"(860) 653-6800",""
+"Hartland",900337140,2011,"","22 South Road","","East Hartland",6027,"(860) 653-6800",""
+"Hartland",900337140,2018,"","22 South Road","","East Hartland",6027,"(860) 653-6800",""
+"Harwinton",900537280,1996,"","100 Bentley Drive","","Harwinton",6791,"(860) 485-9051",""
+"Harwinton",900537280,1999,"","100 Bentley Drive","","Harwinton",6791,"(860) 485-9051",""
+"Harwinton",900537280,2002,"","100 Bentley Drive","","Harwinton",6791,"(860) 485-9051",""
+"Harwinton",900537280,2006,"","100 Bentley Drive","","Harwinton",6791,"(860) 485-9051",""
+"Harwinton",900537280,2011,"","100 Bentley Drive","","Harwinton",6791,"(860) 485-9051",""
+"Harwinton",900537280,2018,"","100 Bentley Drive","","Harwinton",6791,"(860) 485-9051",""
+"Hebron",901337910,1996,"","P.O. Box 156","","Hebron",6248,"(860) 228-5971 ",""
+"Hebron",901337910,1999,"","P.O. Box 156","","Hebron",6248,"(860) 228-5971 ",""
+"Hebron",901337910,2002,"","P.O. Box 156","","Hebron",6248,"(860) 228-5971 ",""
+"Hebron",901337910,2006,"","P.O. Box 156","","Hebron",6248,"(860) 228-5971 ",""
+"Hebron",901337910,2011,"","P.O. Box 156","","Hebron",6248,"(860) 228-5971 ",""
+"Hebron",901337910,2018,"","15 Gilead Street","","Hebron",6248,"(860) 228-5971 ","www.hebronct.com"
+"Kent",900540290,1996,"","P.O. Box 678","","Kent",6757,"(860) 927-4627",""
+"Kent",900540290,1999,"","P.O. Box 678","","Kent",6757,"(860) 927-4627",""
+"Kent",900540290,2002,"","P.O. Box 678","","Kent",6757,"(860) 927-4627",""
+"Kent",900540290,2006,"","P.O. Box 678","","Kent",6757,"(860) 927-4627",""
+"Kent",900540290,2011,"","P.O. Box 678","","Kent",6757,"(860) 927-4627",""
+"Kent",900540290,2018,"","P.O. Box 678","","Kent",6757,"(860) 927-4627",""
+"Killingly",901540500,1996,"","P.O. Box 6000","","Danielson",6239,"(860) 779-5334",""
+"Killingly",901540500,1999,"","P.O. Box 6000","","Danielson",6239,"(860) 779-5334",""
+"Killingly",901540500,2002,"","P.O. Box 6000","","Danielson",6239,"(860) 779-5334",""
+"Killingly",901540500,2006,"","P.O. Box 6000","","Danielson",6239,"(860) 779-5334",""
+"Killingly",901540500,2011,"","P.O. Box 6000","","Danielson",6239,"(860) 779-5334",""
+"Killingly",901540500,2018,"","172 Main Street","","Killingly",6239,"(860) 779-5334","www.killinglyct.gov"
+"Killingworth",900740710,1996,"","323 Route 81","","Killingworth",6419,"(860) 663-1765",""
+"Killingworth",900740710,1999,"","323 Route 81","","Killingworth",6419,"(860) 663-1765",""
+"Killingworth",900740710,2002,"","323 Route 81","","Killingworth",6419,"(860) 663-1765",""
+"Killingworth",900740710,2006,"","323 Route 81","","Killingworth",6419,"(860) 663-1765",""
+"Killingworth",900740710,2011,"","323 Route 81","","Killingworth",6419,"(860) 663-1765",""
+"Killingworth",900740710,2018,"","323 Route 81","","Killingworth",6419,"(860) 663-1765",""
+"Lebanon",901142390,1996,"","579 Exeter Road","","Lebanon",6249,"(860) 642-6100",""
+"Lebanon",901142390,1999,"","579 Exeter Road","","Lebanon",6249,"(860) 642-6100",""
+"Lebanon",901142390,2002,"","579 Exeter Road","","Lebanon",6249,"(860) 642-6100",""
+"Lebanon",901142390,2006,"","579 Exeter Road","","Lebanon",6249,"(860) 642-6100",""
+"Lebanon",901142390,2011,"","579 Exeter Road","","Lebanon",6249,"(860) 642-6100",""
+"Lebanon",901142390,2018,"","579 Exeter Road","","Lebanon",6249,"(860) 642-2006","www.lebanonct.gov"
+"Ledyard",901142600,1996,"","741 Colonel Street","","Ledyard",6339,"(860) 464-8740 ",""
+"Ledyard",901142600,1999,"","741 Colonel Street","","Ledyard",6339,"(860) 464-8740 ",""
+"Ledyard",901142600,2002,"","741 Colonel Street","","Ledyard",6339,"(860) 464-8740 ",""
+"Ledyard",901142600,2006,"","741 Colonel Street","","Ledyard",6339,"(860) 464-8740 ",""
+"Ledyard",901142600,2011,"","741 Colonel Street","","Ledyard",6339,"(860) 464-8740 ",""
+"Ledyard",901142600,2018,"","741 Colonel Ledyard Hwy","","Ledyard",6339,"(860) 464-8740 ","www.ledyardct.org"
+"Lisbon",901143230,1996,"","1 Newent Road","","Lisbon",6351,"(860) 376-3400",""
+"Lisbon",901143230,1999,"","1 Newent Road","","Lisbon",6351,"(860) 376-3400",""
+"Lisbon",901143230,2002,"","1 Newent Road","","Lisbon",6351,"(860) 376-3400",""
+"Lisbon",901143230,2006,"","1 Newent Road","","Lisbon",6351,"(860) 376-3400",""
+"Lisbon",901143230,2011,"","1 Newent Road","","Lisbon",6351,"(860) 376-3400",""
+"Lisbon",901143230,2018,"","1 Newent Road","","Lisbon",6351,"(860) 376-3400",""
+"Litchfield",900543370,1996,"","P.O. Box 488","","Litchfield",6759,"(860) 567-7550",""
+"Litchfield",900543370,1999,"","P.O. Box 488","","Litchfield",6759,"(860) 567-7550",""
+"Litchfield",900543370,2002,"","P.O. Box 488","","Litchfield",6759,"(860) 567-7550",""
+"Litchfield",900543370,2006,"","P.O. Box 488","","Litchfield",6759,"(860) 567-7550",""
+"Litchfield",900543370,2011,"","P.O. Box 488","","Litchfield",6759,"(860) 567-7550",""
+"Litchfield",900543370,2018,"","P.O. Box 488","","Litchfield",6759,"(860) 567-7550","www.townoflitchfield.org"
+"Lyme",901144210,1996,"","480 Hamburg Road","","Lyme",6371,"(860) 434-7733",""
+"Lyme",901144210,1999,"","480 Hamburg Road","","Lyme",6371,"(860) 434-7733",""
+"Lyme",901144210,2002,"","480 Hamburg Road","","Lyme",6371,"(860) 434-7733",""
+"Lyme",901144210,2006,"","480 Hamburg Road","","Lyme",6371,"(860) 434-7733",""
+"Lyme",901144210,2011,"","480 Hamburg Road","","Lyme",6371,"(860) 434-7733",""
+"Lyme",901144210,2018,"","480 Hamburg Road","","Lyme",6371,"(860) 434-7733","www.townlyme.org"
+"Madison",900944560,1996,"Town Hall","8 Campus Drive","","Madison",6443,"(203) 245-5602",""
+"Madison",900944560,1999,"Town Hall","8 Campus Drive","","Madison",6443,"(203) 245-5602",""
+"Madison",900944560,2002,"Town Hall","8 Campus Drive","","Madison",6443,"(203) 245-5602",""
+"Madison",900944560,2006,"Town Hall","8 Campus Drive","","Madison",6443,"(203) 245-5602",""
+"Madison",900944560,2011,"Town Hall","8 Campus Drive","","Madison",6443,"(203) 245-5602",""
+"Madison",900944560,2018,"Town Hall","8 Campus Drive","","Madison",6443,"(203) 245-5602",""
+"Manchester",900344700,1996,"","P.O. Box 191","","Manchester",6045,"(860) 647-3123",""
+"Manchester",900344700,1999,"","P.O. Box 191","","Manchester",6045,"(860) 647-3123",""
+"Manchester",900344700,2002,"","P.O. Box 191","","Manchester",6045,"(860) 647-3123",""
+"Manchester",900344700,2006,"","P.O. Box 191","","Manchester",6045,"(860) 647-3123",""
+"Manchester",900344700,2011,"","P.O. Box 191","","Manchester",6045,"(860) 647-3123",""
+"Manchester",900344700,2018,"","P.O. Box 191","","Manchester",6045,"(860) 647-3123","www.townofmanchester.org"
+"Mansfield",901344910,1996,"","4 South Eagleville Road","","Mansfield",6268,"(860) 429-3336",""
+"Mansfield",901344910,1999,"","4 South Eagleville Road","","Mansfield",6268,"(860) 429-3336",""
+"Mansfield",901344910,2002,"","4 South Eagleville Road","","Mansfield",6268,"(860) 429-3336",""
+"Mansfield",901344910,2006,"","4 South Eagleville Road","","Mansfield",6268,"(860) 429-3336",""
+"Mansfield",901344910,2011,"","4 South Eagleville Road","","Mansfield",6268,"(860) 429-3336",""
+"Mansfield",901344910,2018,"","4 South Eagleville Road","","Mansfield",6268,"(860) 429-3336","www.mansfieldct.gov"
+"Marlborough",900345820,1996,"","P.O. Box 29","","Marlborough",6447,"(860) 295-6204",""
+"Marlborough",900345820,1999,"","P.O. Box 29","","Marlborough",6447,"(860) 295-6204",""
+"Marlborough",900345820,2002,"","P.O. Box 29","","Marlborough",6447,"(860) 295-6204",""
+"Marlborough",900345820,2006,"","P.O. Box 29","","Marlborough",6447,"(860) 295-6204",""
+"Marlborough",900345820,2011,"","P.O. Box 29","","Marlborough",6447,"(860) 295-6204",""
+"Marlborough",900345820,2018,"","P.O. Box 29","","Marlborough",6447,"(860) 295-6204",""
+"Meriden",900946520,1996,"City Hall","142 East Main Street","","Meriden",6450,"(203) 630-4125",""
+"Meriden",900946520,1999,"City Hall","142 East Main Street","","Meriden",6450,"(203) 630-4125",""
+"Meriden",900946520,2002,"City Hall","142 East Main Street","","Meriden",6450,"(203) 630-4125",""
+"Meriden",900946520,2006,"City Hall","142 East Main Street","","Meriden",6450,"(203) 630-4125",""
+"Meriden",900946520,2011,"City Hall","142 East Main Street","","Meriden",6450,"(203) 630-4125",""
+"Meriden",900946520,2018,"City Hall","142 East Main Street","","Meriden",6450,"(203) 630-4125","www.meridenct.gov"
+"Middlebury",900946940,1996,"","P.O. Box 392","","Middlebury",6762,"(203) 758-2439",""
+"Middlebury",900946940,1999,"","P.O. Box 392","","Middlebury",6762,"(203) 758-2439",""
+"Middlebury",900946940,2002,"","P.O. Box 392","","Middlebury",6762,"(203) 758-2439",""
+"Middlebury",900946940,2006,"","P.O. Box 392","","Middlebury",6762,"(203) 758-2439",""
+"Middlebury",900946940,2011,"","P.O. Box 392","","Middlebury",6762,"(203) 758-2439",""
+"Middlebury",900946940,2018,"","1212 Whittemore Road","","Middlebury",6762,"(203) 758-2439","www.middlebury-ct.org"
+"Middlefield",900747080,1996,"","P.O. Box 179","","Middlefield",6455,"(860) 349-7114",""
+"Middlefield",900747080,1999,"","P.O. Box 179","","Middlefield",6455,"(860) 349-7114",""
+"Middlefield",900747080,2002,"","P.O. Box 179","","Middlefield",6455,"(860) 349-7114",""
+"Middlefield",900747080,2006,"","P.O. Box 179","","Middlefield",6455,"(860) 349-7114",""
+"Middlefield",900747080,2011,"","P.O. Box 179","","Middlefield",6455,"(860) 349-7114",""
+"Middlefield",900747080,2018,"","P.O. Box 179","","Middlefield",6455,"(860) 349-7114",""
+"Middletown",900747360,1996,"","P.O. Box 1300","","Middletown",6457,"(860) 344-3401",""
+"Middletown",900747360,1999,"","P.O. Box 1300","","Middletown",6457,"(860) 344-3401",""
+"Middletown",900747360,2002,"","P.O. Box 1300","","Middletown",6457,"(860) 344-3401",""
+"Middletown",900747360,2006,"","P.O. Box 1300","","Middletown",6457,"(860) 344-3401",""
+"Middletown",900747360,2011,"","P.O. Box 1300","","Middletown",6457,"(860) 344-3401",""
+"Middletown",900747360,2018,"","P.O. Box 1300","","Middletown",6457,"(860) 344-3401",""
+"Milford",900947535,1996,"City Hall","70 West River Street","","Milford",6460,"(203) 783-3201",""
+"Milford",900947535,1999,"City Hall","70 West River Street","","Milford",6460,"(203) 783-3201",""
+"Milford",900947535,2002,"City Hall","110 River Street","","Milford",6460,"(203) 783-3201",""
+"Milford",900947535,2006,"City Hall","110 River Street","","Milford",6460,"(203) 783-3201",""
+"Milford",900947535,2011,"City Hall","110 River Street","","Milford",6460,"(203) 783-3201",""
+"Milford",900947535,2018,"City Hall","70 West River St.","","Milford",6460,"(203) 783-3215","www.ci.milford.ct.us"
+"Monroe",900148620,1996,"Town Hall","7 Fan Hill Road","","Monroe",6468,"(203) 452-5421",""
+"Monroe",900148620,1999,"Town Hall","7 Fan Hill Road","","Monroe",6468,"(203) 452-5421",""
+"Monroe",900148620,2002,"Town Hall","7 Fan Hill Road","","Monroe",6468,"(203) 452-5421",""
+"Monroe",900148620,2006,"Town Hall","7 Fan Hill Road","","Monroe",6468,"(203) 452-5421",""
+"Monroe",900148620,2011,"Town Hall","7 Fan Hill Road","","Monroe",6468,"(203) 452-5421",""
+"Monroe",900148620,2018,"Town Hall","7 Fan Hill Road","","Monroe",6468,"(203) 452-5421","www.monroect.org"
+"Montville",901148900,1996,"","310 Norwich-New London Turnpike","","Uncasville",6382,"(860) 848-3030",""
+"Montville",901148900,1999,"","310 Norwich-New London Turnpike","","Uncasville",6382,"(860) 848-3030",""
+"Montville",901148900,2002,"","310 Norwich-New London Turnpike","","Uncasville",6382,"(860) 848-3030",""
+"Montville",901148900,2006,"","310 Norwich-New London Turnpike","","Uncasville",6382,"(860) 848-3030",""
+"Montville",901148900,2011,"","310 Norwich-New London Turnpike","","Uncasville",6382,"(860) 848-3030",""
+"Montville",901148900,2018,"","310 Norwich-New London Turnpike","","Uncasville",6382,"(860) 848-3030",""
+"Morris",900549460,1996,"","3 East Street P.O. Box 66","","Morris",6763,"(860) 567-7430",""
+"Morris",900549460,1999,"","3 East Street P.O. Box 66","","Morris",6763,"(860) 567-7430",""
+"Morris",900549460,2002,"","3 East Street P.O. Box 66","","Morris",6763,"(860) 567-7430",""
+"Morris",900549460,2006,"","3 East Street P.O. Box 66","","Morris",6763,"(860) 567-7430",""
+"Morris",900549460,2011,"","3 East Street P.O. Box 66","","Morris",6763,"(860) 567-7430",""
+"Morris",900549460,2018,"","3 East Street P.O. Box 66","","Morris",6763,"(860) 567-7430",""
+"Naugatuck",900949950,1996,"","229 Church Street","","Naugatuck",6770,"(203) 720-7007",""
+"Naugatuck",900949950,1999,"","229 Church Street","","Naugatuck",6770,"(203) 720-7007",""
+"Naugatuck",900949950,2002,"","229 Church Street","","Naugatuck",6770,"(203) 720-7007",""
+"Naugatuck",900949950,2006,"","229 Church Street","","Naugatuck",6770,"(203) 720-7007",""
+"Naugatuck",900949950,2011,"","229 Church Street","","Naugatuck",6770,"(203) 720-7007",""
+"Naugatuck",900949950,2018,"","229 Church Street","","Naugatuck",6770,"(203) 720-7007",""
+"New Britain",900350440,1996,"","27 West Main Street","","New Britain",6051,"(860) 826-3303",""
+"New Britain",900350440,1999,"","27 West Main Street","","New Britain",6051,"(860) 826-3303",""
+"New Britain",900350440,2002,"","27 West Main Street","","New Britain",6051,"(860) 826-3303",""
+"New Britain",900350440,2006,"","27 West Main Street","","New Britain",6051,"(860) 826-3303",""
+"New Britain",900350440,2011,"","27 West Main Street","","New Britain",6051,"(860) 826-3303",""
+"New Britain",900350440,2018,"","27 West Main Street","","New Britain",6051,"(860) 826-3303","www.newbritainct.gov"
+"New Canaan",900150580,1996,"","77 Main Street","","New Canaan",6840,"(203) 972-2311",""
+"New Canaan",900150580,1999,"","77 Main Street","","New Canaan",6840,"(203) 972-2311",""
+"New Canaan",900150580,2002,"","77 Main Street","","New Canaan",6840,"(203) 972-2311",""
+"New Canaan",900150580,2006,"","77 Main Street","","New Canaan",6840,"(203) 972-2311",""
+"New Canaan",900150580,2011,"","77 Main Street","","New Canaan",6840,"(203) 594-3000",""
+"New Canaan",900150580,2018,"","77 Main Street","","New Canaan",6840,"(203) 594-3000","www.newcanaan.info"
+"New Fairfield",900150860,1996,"","4 Brush Hill Road","","New Fairfield",6812,"(203) 746-8101",""
+"New Fairfield",900150860,1999,"","4 Brush Hill Road","","New Fairfield",6812,"(203) 746-8101",""
+"New Fairfield",900150860,2002,"","4 Brush Hill Road","","New Fairfield",6812,"(203) 746-8101",""
+"New Fairfield",900150860,2006,"","4 Brush Hill Road","","New Fairfield",6812,"(203) 746-8101",""
+"New Fairfield",900150860,2011,"","4 Brush Hill Road","","New Fairfield",6812,"(203) 746-8101",""
+"New Fairfield",900150860,2018,"","4 Brush Hill Road","","New Fairfield",6812,"(203) 746-8101",""
+"New Hartford",900551350,1996,"","P.O. Box 316","","New Hartford",6057,"(860) 379-3389",""
+"New Hartford",900551350,1999,"","P.O. Box 316","","New Hartford",6057,"(860) 379-3389",""
+"New Hartford",900551350,2002,"","P.O. Box 316","","New Hartford",6057,"(860) 379-3389",""
+"New Hartford",900551350,2006,"","P.O. Box 316","","New Hartford",6057,"(860) 379-3389",""
+"New Hartford",900551350,2011,"","P.O. Box 316","","New Hartford",6057,"(860) 379-3389",""
+"New Hartford",900551350,2018,"","P.O. Box 316","","New Hartford",6057,"(860) 379-3389",""
+"New Haven",900952070,1996,"City Hall","165 Church Street","","New Haven",6510,"(203) 946-8200",""
+"New Haven",900952070,1999,"City Hall","165 Church Street","","New Haven",6510,"(203) 946-8200",""
+"New Haven",900952070,2002,"City Hall","165 Church Street","","New Haven",6510,"(203) 946-8200",""
+"New Haven",900952070,2006,"City Hall","165 Church Street","","New Haven",6510,"(203) 946-8200",""
+"New Haven",900952070,2011,"City Hall","165 Church Street","","New Haven",6510,"(203) 946-8200",""
+"New Haven",900952070,2018,"City Hall","165 Church Street","","New Haven",6510,"(203) 946-8200",""
+"Newington",900352140,1996,"","131 Cedar Street","","Newington",6111,"(860) 665-8510",""
+"Newington",900352140,1999,"","131 Cedar Street","","Newington",6111,"(860) 665-8510",""
+"Newington",900352140,2002,"","131 Cedar Street","","Newington",6111,"(860) 665-8510",""
+"Newington",900352140,2006,"","131 Cedar Street","","Newington",6111,"(860) 665-8510",""
+"Newington",900352140,2011,"","131 Cedar Street","","Newington",6111,"(860) 665-8510",""
+"Newington",900352140,2018,"","131 Cedar Street","","Newington",6111,"(860) 665-8510","www.newingtonct.gov"
+"New London",901152350,1996,"","181 State Street","","New London",6320,"(860) 447-5201",""
+"New London",901152350,1999,"","181 State Street","","New London",6320,"(860) 447-5201",""
+"New London",901152350,2002,"","181 State Street","","New London",6320,"(860) 447-5201",""
+"New London",901152350,2006,"","181 State Street","","New London",6320,"(860) 447-5201",""
+"New London",901152350,2011,"","181 State Street","","New London",6320,"(860) 447-5201",""
+"New London",901152350,2018,"","181 State Street","","New London",6320,"(860) 447-5201",""
+"New Milford",900552630,1996,"","10 Main Street","","New Milford",6776,"(860) 355-6000",""
+"New Milford",900552630,1999,"","10 Main Street","","New Milford",6776,"(860) 355-6000",""
+"New Milford",900552630,2002,"","10 Main Street","","New Milford",6776,"(860) 355-6000",""
+"New Milford",900552630,2006,"","10 Main Street","","New Milford",6776,"(860) 355-6000",""
+"New Milford",900552630,2011,"","10 Main Street","","New Milford",6776,"(860) 355-6000",""
+"New Milford",900552630,2018,"","10 Main Street","","New Milford",6776,"(860) 355-6000","www.newmilford.org"
+"Newtown",900152980,1996,"","45 Main Street","","Newtown",6470,"(203) 270-4201",""
+"Newtown",900152980,1999,"","45 Main Street","","Newtown",6470,"(203) 270-4201",""
+"Newtown",900152980,2002,"","45 Main Street","","Newtown",6470,"(203) 270-4201",""
+"Newtown",900152980,2006,"","45 Main Street","","Newtown",6470,"(203) 270-4201",""
+"Newtown",900152980,2011,"Municipal Center","3 Primrose St","","Newtown",6470,"(203) 270-4210",""
+"Newtown",900152980,2018,"Municipal Center","3 Primrose St","","Newtown",6470,"(203) 270-4210","www.newtown-ct.gov"
+"Norfolk",900553470,1996,"","P. O. Box 592","","Norfolk",6058,"(860) 542-5829",""
+"Norfolk",900553470,1999,"","P. O. Box 592","","Norfolk",6058,"(860) 542-5829",""
+"Norfolk",900553470,2002,"","P. O. Box 592","","Norfolk",6058,"(860) 542-5829",""
+"Norfolk",900553470,2006,"","P. O. Box 592","","Norfolk",6058,"(860) 542-5829",""
+"Norfolk",900553470,2011,"","P. O. Box 592","","Norfolk",6058,"(860) 542-5829",""
+"Norfolk",900553470,2018,"Town Hall","19 Maple Avenue","P. O. Box 592","Norfolk",6058,"(860) 542-5829","www.norfolkct.org"
+"North Branford",900953890,1996,"Town Hall","P.O. Box 287","","North Branford",6471,"(203) 315-6015",""
+"North Branford",900953890,1999,"Town Hall","P.O. Box 287","","North Branford",6471,"(203) 315-6000",""
+"North Branford",900953890,2002,"Town Hall","P.O. Box 287","","North Branford",6471,"(203) 315-6000",""
+"North Branford",900953890,2006,"Town Hall","P.O. Box 287","","North Branford",6471,"(203) 315-6000",""
+"North Branford",900953890,2011,"Town Hall","909 Foxon Rd","","North Branford",6471,"(203) 484-6000",""
+"North Branford",900953890,2018,"Town Hall","909 Foxon Rd","","North Branford",6471,"(203) 484-6000",""
+"North Canaan",900554030,1996,"","P.O. Box 876","","North Canaan",6018,"(860) 824-7313",""
+"North Canaan",900554030,1999,"","P.O. Box 876","","North Canaan",6018,"(860) 824-7313",""
+"North Canaan",900554030,2002,"","P.O. Box 876","","North Canaan",6018,"(860) 824-7313",""
+"North Canaan",900554030,2006,"","P.O. Box 876","","North Canaan",6018,"(860) 824-7313",""
+"North Canaan",900554030,2011,"","P.O. Box 876","","North Canaan",6018,"(860) 824-7313",""
+"North Canaan",900554030,2018,"","100 Pease Street","","North Canaan",6018,"(860) 824-7313","www.northcanaan.org"
+"North Haven",900954870,1996,"Town Hall","18 Church Street","","North Haven",6473,"(203) 239 5321 ",""
+"North Haven",900954870,1999,"Town Hall","18 Church Street","","North Haven",6473,"(203) 239 5321 ",""
+"North Haven",900954870,2002,"Town Hall","18 Church Street","","North Haven",6473,"(203) 239 5321",""
+"North Haven",900954870,2006,"Town Hall","18 Church Street","","North Haven",6473,"(203) 239 5321",""
+"North Haven",900954870,2011,"Town Hall","18 Church Street","","North Haven",6473,"(203) 239 5321",""
+"North Haven",900954870,2018,"Town Hall","18 Church Street","","North Haven",6473,"(203) 239 5321",""
+"North Stonington",901155500,1996,"","40 Main Street","","North Stonington",6359,"(860) 535-2877",""
+"North Stonington",901155500,1999,"","40 Main Street","","North Stonington",6359,"(860) 535-2877",""
+"North Stonington",901155500,2002,"","40 Main Street","","North Stonington",6359,"(860) 535-2877",""
+"North Stonington",901155500,2006,"","40 Main Street","","North Stonington",6359,"(860) 535-2877",""
+"North Stonington",901155500,2011,"","40 Main Street","","North Stonington",6359,"(860) 535-2877",""
+"North Stonington",901155500,2018,"","40 Main Street","","North Stonington",6359,"(860) 535-2877",""
+"Norwalk",900156060,1996,"","P.O. Box 5125","","Norwalk",6856,"(203) 854-7701",""
+"Norwalk",900156060,1999,"","P.O. Box 5125","","Norwalk",6856,"(203) 854-7701",""
+"Norwalk",900156060,2002,"","P.O. Box 5125","","Norwalk",6856,"(203) 854-7701",""
+"Norwalk",900156060,2006,"","P.O. Box 5125","","Norwalk",6856,"(203) 854-7701",""
+"Norwalk",900156060,2011,"","P.O. Box 5125","","Norwalk",6856,"(203) 854-7701",""
+"Norwalk",900156060,2018,"","P.O. Box 5125","","Norwalk",6856,"(203) 854-7701",""
+"Norwich",901156270,1996,"","100 Broadway","","Norwich",6360,"(860) 823-3750",""
+"Norwich",901156270,1999,"","100 Broadway","","Norwich",6360,"(860) 823-3750",""
+"Norwich",901156270,2002,"","100 Broadway","","Norwich",6360,"(860) 823-3750",""
+"Norwich",901156270,2006,"","100 Broadway","","Norwich",6360,"(860) 823-3750",""
+"Norwich",901156270,2011,"","100 Broadway","","Norwich",6360,"(860) 823-3750",""
+"Norwich",901156270,2018,"","100 Broadway","","Norwich",6360,"(860) 823-3717","www.norwichct.org"
+"Old Lyme",901157040,1996,"","P.O. Box 160","","Old Lyme",6371,"(860) 434-1605",""
+"Old Lyme",901157040,1999,"","P.O. Box 160","","Old Lyme",6371,"(860) 434-1605",""
+"Old Lyme",901157040,2002,"","P.O. Box 160","","Old Lyme",6371,"(860) 434-1605",""
+"Old Lyme",901157040,2006,"","P.O. Box 160","","Old Lyme",6371,"(860) 434-1605",""
+"Old Lyme",901157040,2011,"","P.O. Box 160","","Old Lyme",6371,"(860) 434-1605",""
+"Old Lyme",901157040,2018,"Memorial Town Hall","52 Lyme Street","","Old Lyme",6371,"(860) 434-1605","www.oldlyme-ct.gov"
+"Old Saybrook",900757320,1996,"","302 Main Street","","Old Saybrook",6475,"(860) 395-3123",""
+"Old Saybrook",900757320,1999,"","302 Main Street","","Old Saybrook",6475,"(860) 395-3123",""
+"Old Saybrook",900757320,2002,"","302 Main Street","","Old Saybrook",6475,"(860) 395-3123",""
+"Old Saybrook",900757320,2006,"","302 Main Street","","Old Saybrook",6475,"(860) 395-3123",""
+"Old Saybrook",900757320,2011,"","302 Main Street","","Old Saybrook",6475,"(860) 395-3123",""
+"Old Saybrook",900757320,2018,"","302 Main Street","","Old Saybrook",6475,"(860) 395-3123",""
+"Orange",900957600,1996,"Town Hall","617 Orange Center Road","","Orange",6477,"(203) 891-2122 ",""
+"Orange",900957600,1999,"Town Hall","617 Orange Center Road","","Orange",6477,"(203) 891-2122 ",""
+"Orange",900957600,2002,"Town Hall","617 Orange Center Road","","Orange",6477,"(203) 891-2122 ",""
+"Orange",900957600,2006,"Town Hall","617 Orange Center Road","","Orange",6477,"(203) 891-2122 ",""
+"Orange",900957600,2011,"Town Hall","617 Orange Center Road","","Orange",6477,"(203) 891-2122 ",""
+"Orange",900957600,2018,"Town Hall","617 Orange Center Road","","Orange",6477,"(203) 891-4700","www.orange-ct.gov"
+"Oxford",900958300,1996,"Town Hall","486 Oxford Road","","Oxford",6478,"(203) 888-2543",""
+"Oxford",900958300,1999,"Town Hall","486 Oxford Road","","Oxford",6478,"(203) 888-2543 ",""
+"Oxford",900958300,2002,"Town Hall","486 Oxford Road","","Oxford",6478,"(203) 888-2543 ",""
+"Oxford",900958300,2006,"Town Hall","486 Oxford Road","","Oxford",6478,"(203) 888-2543 ",""
+"Oxford",900958300,2011,"Town Hall","486 Oxford Road","","Oxford",6478,"(203) 888-2543 ",""
+"Oxford",900958300,2018,"Town Hall","486 Oxford Road","","Oxford",6478,"(203) 888-2543 ","www.oxford-ct.gov"
+"Plainfield",901559980,1996,"","8 Community Avenue","","Plainfield",6374,"(860) 564-4071",""
+"Plainfield",901559980,1999,"","8 Community Avenue","","Plainfield",6374,"(860) 564-4071",""
+"Plainfield",901559980,2002,"","8 Community Avenue","","Plainfield",6374,"(860) 564-4071",""
+"Plainfield",901559980,2006,"","8 Community Avenue","","Plainfield",6374,"(860) 564-4071",""
+"Plainfield",901559980,2011,"","8 Community Avenue","","Plainfield",6374,"(860) 564-4071",""
+"Plainfield",901559980,2018,"","8 Community Avenue","","Plainfield",6374,"(860) 230-3001","www.plainfieldct.org"
+"Plainville",900360120,1996,"","1 Central Square","","Plainville",6062,"(860) 793-0221",""
+"Plainville",900360120,1999,"","1 Central Square","","Plainville",6062,"(860) 793-0221",""
+"Plainville",900360120,2002,"","1 Central Square","","Plainville",6062,"(860) 793-0221",""
+"Plainville",900360120,2006,"","1 Central Square","","Plainville",6062,"(860) 793-0221",""
+"Plainville",900360120,2011,"","1 Central Square","","Plainville",6062,"(860) 793-0221",""
+"Plainville",900360120,2018,"","1 Central Square","","Plainville",6062,"(860) 793-0221","www.plainvillect.com"
+"Plymouth",900560750,1996,"","80 Main Street","","Terryville",6786,"(860) 585-4002",""
+"Plymouth",900560750,1999,"","80 Main Street","","Terryville",6786,"(860) 585-4002",""
+"Plymouth",900560750,2002,"","80 Main Street","","Terryville",6786,"(860) 585-4002",""
+"Plymouth",900560750,2006,"","80 Main Street","","Terryville",6786,"(860) 585-4002",""
+"Plymouth",900560750,2011,"","80 Main Street","","Terryville",6786,"(860) 585-4002",""
+"Plymouth",900560750,2018,"","80 Main Street","","Terryville",6786,"(860) 585-4002",""
+"Pomfret",901561030,1996,"","5 Haven Road","","Pomfret Center",6259,"(860) 974-0343",""
+"Pomfret",901561030,1999,"","5 Haven Road","","Pomfret Center",6259,"(860) 974-0343",""
+"Pomfret",901561030,2002,"","5 Haven Road","","Pomfret Center",6259,"(860) 974-0343",""
+"Pomfret",901561030,2006,"","5 Haven Road","","Pomfret Center",6259,"(860) 974-0343",""
+"Pomfret",901561030,2011,"","5 Haven Road","","Pomfret Center",6259,"(860) 974-0343",""
+"Pomfret",901561030,2018,"","5 Haven Road","","Pomfret Center",6259,"(860) 974-1674","www.pomfretct.gov"
+"Portland",900761800,1996,"","265 Main Street","","Portland",6480,"(860) 342-6715",""
+"Portland",900761800,1999,"","265 Main Street","","Portland",6480,"(860) 342-6715",""
+"Portland",900761800,2002,"","265 Main Street","","Portland",6480,"(860) 342-6715",""
+"Portland",900761800,2006,"","33 East Main Street","","Portland",6480,"(860) 342-6715",""
+"Portland",900761800,2011,"","33 East Main Street","","Portland",6480,"(860) 342-6715",""
+"Portland",900761800,2018,"","33 East Main Street","PO Box 71","Portland",6480,"(860) 342-6715","www.portlandct.org"
+"Preston",901162150,1996,"","389 Route 2","","Preston",6365,"(860) 887-5581",""
+"Preston",901162150,1999,"","389 Route 2","","Preston",6365,"(860) 887-5581",""
+"Preston",901162150,2002,"","389 Route 2","","Preston",6365,"(860) 887-5581",""
+"Preston",901162150,2006,"","389 Route 2","","Preston",6365,"(860) 887-5581",""
+"Preston",901162150,2011,"","389 Route 2","","Preston",6365,"(860) 887-5581",""
+"Preston",901162150,2018,"","389 Route 2","","Preston",6365,"(860) 887-5581",""
+"Prospect",900962290,1996,"","36 Center Street","","Prospect",6712,"(203) 758-4461",""
+"Prospect",900962290,1999,"","36 Center Street","","Prospect",6712,"(203) 758-4461",""
+"Prospect",900962290,2002,"","36 Center Street","","Prospect",6712,"(203) 758-4461",""
+"Prospect",900962290,2006,"","36 Center Street","","Prospect",6712,"(203) 758-4461",""
+"Prospect",900962290,2011,"","36 Center Street","","Prospect",6712,"(203) 758-4461",""
+"Prospect",900962290,2018,"","36 Center Street","","Prospect",6712,"(203) 758-4461",""
+"Putnam",901562710,1996,"","126 Church Street","","Putnam",6260,"(860) 963-6800",""
+"Putnam",901562710,1999,"","126 Church Street","","Putnam",6260,"(860) 963-6800",""
+"Putnam",901562710,2002,"","126 Church Street","","Putnam",6260,"(860) 963-6800",""
+"Putnam",901562710,2006,"","126 Church Street","","Putnam",6260,"(860) 963-6800",""
+"Putnam",901562710,2011,"","126 Church Street","","Putnam",6260,"(860) 963-6800",""
+"Putnam",901562710,2018,"","126 Church Street","","Putnam",6260,"(860) 963-6800",""
+"Redding",900163480,1996,"","Town Office Building P.O. Box  28","","Redding",6875,"(203) 938-2002",""
+"Redding",900163480,1999,"","Town Office Building P.O. Box  28","","Redding",6875,"(203) 938-2002",""
+"Redding",900163480,2002,"","Town Office Building P.O. Box  28","","Redding",6875,"(203) 938-2002",""
+"Redding",900163480,2006,"","Town Office Building P.O. Box  28","","Redding",6875,"(203) 938-2002",""
+"Redding",900163480,2011,"","Town Office Building P.O. Box  28","","Redding",6875,"(203) 938-2002",""
+"Redding",900163480,2018,"","Town Office Building P.O. Box  28","","Redding",6875,"(203) 938-2002",""
+"Ridgefield",900163970,1996,"","400 Main Street","","Ridgefield",6877,"(203) 431-2700",""
+"Ridgefield",900163970,1999,"","400 Main Street","","Ridgefield",6877,"(203) 431-2700",""
+"Ridgefield",900163970,2002,"","400 Main Street","","Ridgefield",6877,"(203) 431-2700",""
+"Ridgefield",900163970,2006,"","400 Main Street","","Ridgefield",6877,"(203) 431-2700",""
+"Ridgefield",900163970,2011,"","400 Main Street","","Ridgefield",6877,"(203) 431-2700",""
+"Ridgefield",900163970,2018,"","400 Main Street","","Ridgefield",6877,"(203) 431-2700",""
+"Rocky Hill",900365370,1996,"","P.O. Box 657","","Rocky Hill",6067,"(860) 258-2705",""
+"Rocky Hill",900365370,1999,"","P.O. Box 657","","Rocky Hill",6067,"(860) 258-2705",""
+"Rocky Hill",900365370,2002,"","P.O. Box 657","","Rocky Hill",6067,"(860) 258-2705",""
+"Rocky Hill",900365370,2006,"","P.O. Box 657","","Rocky Hill",6067,"(860) 258-2705",""
+"Rocky Hill",900365370,2011,"","P.O. Box 657","","Rocky Hill",6067,"(860) 258-2705",""
+"Rocky Hill",900365370,2018,"","761 Old Main Street","","Rocky Hill",6067,"(860) 258-2705","www.rockyhillct.gov"
+"Roxbury",900565930,1996,"","P.O. Box 203","","Roxbury",6783,"(860) 354-9938",""
+"Roxbury",900565930,1999,"","P.O. Box 203","","Roxbury",6783,"(860) 354-9938",""
+"Roxbury",900565930,2002,"","P.O. Box 203","","Roxbury",6783,"(860) 354-9938",""
+"Roxbury",900565930,2006,"","P.O. Box 203","","Roxbury",6783,"(860) 354-9938",""
+"Roxbury",900565930,2011,"","P.O. Box 203","","Roxbury",6783,"(860) 354-9938",""
+"Roxbury",900565930,2018,"","P.O. Box 203","","Roxbury",6783,"(860) 354-9938",""
+"Salem",901166210,1996,"","270 Hartford Road","","Salem",6420,"(860) 859-3873",""
+"Salem",901166210,1999,"","270 Hartford Road","","Salem",6420,"(860) 859-3873",""
+"Salem",901166210,2002,"","270 Hartford Road","","Salem",6420,"(860) 859-3873",""
+"Salem",901166210,2006,"","270 Hartford Road","","Salem",6420,"(860) 859-3873",""
+"Salem",901166210,2011,"","270 Hartford Road","","Salem",6420,"(860) 859-3873",""
+"Salem",901166210,2018,"","270 Hartford Road","","Salem",6420,"(860) 859-3873","www.salemct.gov"
+"Salisbury",900566420,1996,"","27 Main Street","","Salisbury",6068,"(860) 435-5170",""
+"Salisbury",900566420,1999,"","27 Main Street","","Salisbury",6068,"(860) 435-5170",""
+"Salisbury",900566420,2002,"","27 Main Street","","Salisbury",6068,"(860) 435-5170",""
+"Salisbury",900566420,2006,"","27 Main Street","","Salisbury",6068,"(860) 435-5170",""
+"Salisbury",900566420,2011,"","27 Main Street","","Salisbury",6068,"(860) 435-5170",""
+"Salisbury",900566420,2018,"","27 Main Street","","Salisbury",6068,"(860) 435-5170",""
+"Scotland",901567400,1996,"","P.O. Box 122","","Scotland",6264,"(860) 423-9634",""
+"Scotland",901567400,1999,"","P.O. Box 122","","Scotland",6264,"(860) 423-9634",""
+"Scotland",901567400,2002,"","P.O. Box 122","","Scotland",6264,"(860) 423-9634",""
+"Scotland",901567400,2006,"","P.O. Box 122","","Scotland",6264,"(860) 423-9634",""
+"Scotland",901567400,2011,"","P.O. Box 122","","Scotland",6264,"(860) 423-9634",""
+"Scotland",901567400,2018,"","9 Devotion Rd","P.O. Box 122","Scotland",6264,"(860) 423-9634","www.scotlandct.org"
+"Seymour",900967610,1996,"Town Hall","1 First Street","","Seymour",6483,"(203) 888-2511",""
+"Seymour",900967610,1999,"Town Hall","1 First Street","","Seymour",6483,"(203) 888-2511",""
+"Seymour",900967610,2002,"Town Hall","1 First Street","","Seymour",6483,"(203) 888-2511",""
+"Seymour",900967610,2006,"Town Hall","1 First Street","","Seymour",6483,"(203) 888-2511",""
+"Seymour",900967610,2011,"Town Hall","1 First Street","","Seymour",6483,"(203) 888-2511",""
+"Seymour",900967610,2018,"Town Hall","1 First Street","","Seymour",6483,"(203) 888-2511",""
+"Sharon",900567960,1996,"","63 Main Street","","Sharon",6069,"(860) 364-5789",""
+"Sharon",900567960,1999,"","63 Main Street","","Sharon",6069,"(860) 364-5789",""
+"Sharon",900567960,2002,"","63 Main Street","","Sharon",6069,"(860) 364-5789",""
+"Sharon",900567960,2006,"","63 Main Street","","Sharon",6069,"(860) 364-5789",""
+"Sharon",900567960,2011,"","63 Main Street","","Sharon",6069,"(860) 364-5789",""
+"Sharon",900567960,2018,"","63 Main Street","","Sharon",6069,"(860) 364-5789",""
+"Shelton",900168170,1996,"City Hall","54 Hill Street","","Shelton",6484,"(203) 924-1555",""
+"Shelton",900168170,1999,"City Hall","54 Hill Street","","Shelton",6484,"(203) 924-1555 ",""
+"Shelton",900168170,2002,"City Hall","54 Hill Street","","Shelton",6484,"(203) 924-1555 ",""
+"Shelton",900168170,2006,"City Hall","54 Hill Street","","Shelton",6484,"(203) 924-1555 ",""
+"Shelton",900168170,2011,"City Hall","54 Hill Street","","Shelton",6484,"(203) 924-1555 ",""
+"Shelton",900168170,2018,"City Hall","54 Hill Street","","Shelton",6484,"(203) 924-1555 ",""
+"Sherman",900168310,1996,"","P.O. Box 39","","Sherman",6784,"(860) 355-1139",""
+"Sherman",900168310,1999,"","P.O. Box 39","","Sherman",6784,"(860) 355-1139",""
+"Sherman",900168310,2002,"","P.O. Box 39","","Sherman",6784,"(860) 355-1139",""
+"Sherman",900168310,2006,"","P.O. Box 39","","Sherman",6784,"(860) 355-1139",""
+"Sherman",900168310,2011,"","P.O. Box 39","","Sherman",6784,"(860) 355-1139",""
+"Sherman",900168310,2018,"","P.O. Box 39","","Sherman",6784,"(860) 355-1139",""
+"Simsbury",900368940,1996,"","P.O. Box 495","","Simsbury",6070,"(860) 658-3230",""
+"Simsbury",900368940,1999,"","P.O. Box 495","","Simsbury",6070,"(860) 658-3230",""
+"Simsbury",900368940,2002,"","P.O. Box 495","","Simsbury",6070,"(860) 658-3230",""
+"Simsbury",900368940,2006,"","P.O. Box 495","","Simsbury",6070,"(860) 658-3230",""
+"Simsbury",900368940,2011,"","P.O. Box 495","","Simsbury",6070,"(860) 658-3230",""
+"Simsbury",900368940,2018,"","P.O. Box 495","","Simsbury",6070,"(860) 658-3230",""
+"Somers",901369220,1996,"","P.O. Box 308","","Somers",6071,"(860) 763-8200",""
+"Somers",901369220,1999,"","P.O. Box 308","","Somers",6071,"(860) 763-8200",""
+"Somers",901369220,2002,"","P.O. Box 308","","Somers",6071,"(860) 763-8200",""
+"Somers",901369220,2006,"","P.O. Box 308","","Somers",6071,"(860) 763-8200",""
+"Somers",901369220,2011,"","P.O. Box 308","","Somers",6071,"(860) 763-8200",""
+"Somers",901369220,2018,"","600 Main Street","","Somers",6071,"(860) 763-8200","www.somersct.gov"
+"Southbury",900969640,1996,"","501 Main Street South","","Southbury",6488,"(203) 262-0647",""
+"Southbury",900969640,1999,"","501 Main Street South","","Southbury",6488,"(203) 262-0647",""
+"Southbury",900969640,2002,"","501 Main Street South","","Southbury",6488,"(203) 262-0647",""
+"Southbury",900969640,2006,"","501 Main Street South","","Southbury",6488,"(203) 262-0647",""
+"Southbury",900969640,2011,"","501 Main Street South","","Southbury",6488,"(203) 262-0647",""
+"Southbury",900969640,2018,"","501 Main Street South","","Southbury",6488,"(203) 262-0647",""
+"Southington",900370550,1996,"","75 Main Street","","Southington",6489,"(860) 276-6200",""
+"Southington",900370550,1999,"","75 Main Street","","Southington",6489,"(860) 276-6200",""
+"Southington",900370550,2002,"","75 Main Street","","Southington",6489,"(860) 276-6200",""
+"Southington",900370550,2006,"","75 Main Street","","Southington",6489,"(860) 276-6200",""
+"Southington",900370550,2011,"","75 Main Street","","Southington",6489,"(860) 276-6200",""
+"Southington",900370550,2018,"","75 Main Street","","Southington",6489,"(860) 276-6200",""
+"South Windsor",900371390,1996,"","1540 Sullivan Avenue","","South Windsor",6074,"(860) 644-2511",""
+"South Windsor",900371390,1999,"","1540 Sullivan Avenue","","South Windsor",6074,"(860) 644-2511",""
+"South Windsor",900371390,2002,"","1540 Sullivan Avenue","","South Windsor",6074,"(860) 644-2511",""
+"South Windsor",900371390,2006,"","1540 Sullivan Avenue","","South Windsor",6074,"(860) 644-2511",""
+"South Windsor",900371390,2011,"","1540 Sullivan Avenue","","South Windsor",6074,"(860) 644-2511",""
+"South Windsor",900371390,2018,"","1540 Sullivan Avenue","","South Windsor",6074,"(860) 644-2511","www.SouthWindsor.org"
+"Sprague",901171670,1996,"","P.O. Box 677","","Baltic",6330,"(860) 822-3000",""
+"Sprague",901171670,1999,"","P.O. Box 677","","Baltic",6330,"(860) 822-3000",""
+"Sprague",901171670,2002,"","P.O. Box 677","","Baltic",6330,"(860) 822-3000",""
+"Sprague",901171670,2006,"","P.O. Box 677","","Baltic",6330,"(860) 822-3000",""
+"Sprague",901171670,2011,"","P.O. Box 677","","Baltic",6330,"(860) 822-3000",""
+"Sprague",901171670,2018,"","P.O. Box 677","","Baltic",6330,"(860) 822-3000",""
+"Stafford",901372090,1996,"","1 Main Street","","Stafford Springs",6076,"(860) 684-2130",""
+"Stafford",901372090,1999,"","1 Main Street","","Stafford Springs",6076,"(860) 684-2130",""
+"Stafford",901372090,2002,"","1 Main Street","","Stafford Springs",6076,"(860) 684-2130",""
+"Stafford",901372090,2006,"","1 Main Street","","Stafford Springs",6076,"(860) 684-2130",""
+"Stafford",901372090,2011,"","1 Main Street","","Stafford Springs",6076,"(860) 684-2130",""
+"Stafford",901372090,2018,"","1 Main Street","","Stafford Springs",6076,"(860) 684-1777","www.staffordct.org"
+"Stamford",900173070,1996,"","P.O. Box 10152","","Stamford",6904,"(203) 977-4150",""
+"Stamford",900173070,1999,"","P.O. Box 10152","","Stamford",6904,"(203) 977-4150",""
+"Stamford",900173070,2002,"","P.O. Box 10152","","Stamford",6904,"(203) 977-4150",""
+"Stamford",900173070,2006,"","P.O. Box 10152","","Stamford",6904,"(203) 977-4150",""
+"Stamford",900173070,2011,"","P.O. Box 10152","","Stamford",6904,"(203) 977-4150",""
+"Stamford",900173070,2018,"","888 Washington Blvd","","Stamford",6904,"(203) 977-4140","www.stamfordct.gov"
+"Sterling",901573420,1996,"","P.O. Box 157","","Oneco",6373,"(860) 564-2904",""
+"Sterling",901573420,1999,"","P.O. Box 157","","Oneco",6373,"(860) 564-2904",""
+"Sterling",901573420,2002,"","P.O. Box 157","","Oneco",6373,"(860) 564-2904",""
+"Sterling",901573420,2006,"","P.O. Box 157","","Oneco",6373,"(860) 564-2904",""
+"Sterling",901573420,2011,"","P.O. Box 157","","Oneco",6373,"(860) 564-2904",""
+"Sterling",901573420,2018,"","P.O. Box 157","","Oneco",6373,"(860) 564-4428","www.sterlingct.us"
+"Stonington",901173770,1996,"","P.O. Box 352","","Stonington",6378,"(860) 535-5050",""
+"Stonington",901173770,1999,"","P.O. Box 352","","Stonington",6378,"(860) 535-5050",""
+"Stonington",901173770,2002,"","P.O. Box 352","","Stonington",6378,"(860) 535-5050",""
+"Stonington",901173770,2006,"","P.O. Box 352","","Stonington",6378,"(860) 535-5050",""
+"Stonington",901173770,2011,"","P.O. Box 352","","Stonington",6378,"(860) 535-5050",""
+"Stonington",901173770,2018,"","152 Elm Street","","Stonington",6378,"(860) 535-5050","www.stonington-ct.gov"
+"Stratford",900174190,1996,"Town Hall","2725 Main Street","","Stratford",6497,"(203) 385-4001",""
+"Stratford",900174190,1999,"Town Hall","2725 Main Street","","Stratford",6615,"(203) 385-4001",""
+"Stratford",900174190,2002,"Town Hall","2725 Main Street","","Stratford",6615,"(203) 385-4001",""
+"Stratford",900174190,2006,"Town Hall","2725 Main Street","","Stratford",6615,"(203) 385-4001",""
+"Stratford",900174190,2011,"Town Hall","2725 Main Street","","Stratford",6615,"(203) 385-4001",""
+"Stratford",900174190,2018,"Town Hall","2725 Main Street","","Stratford",6615,"(203) 385-4001",""
+"Suffield",900374540,1996,"","83 Mountain Road","","Suffield",6078,"(860) 668-3838",""
+"Suffield",900374540,1999,"","83 Mountain Road","","Suffield",6078,"(860) 668-3838",""
+"Suffield",900374540,2002,"","83 Mountain Road","","Suffield",6078,"(860) 668-3838",""
+"Suffield",900374540,2006,"","83 Mountain Road","","Suffield",6078,"(860) 668-3838",""
+"Suffield",900374540,2011,"","83 Mountain Road","","Suffield",6078,"(860) 668-3838",""
+"Suffield",900374540,2018,"","83 Mountain Road","","Suffield",6078,"(860) 668-3838","www.suffieldct.gov"
+"Thomaston",900575730,1996,"","158 Main Street","","Thomaston",6787,"(860) 283-4421",""
+"Thomaston",900575730,1999,"","158 Main Street","","Thomaston",6787,"(860) 283-4421",""
+"Thomaston",900575730,2002,"","158 Main Street","","Thomaston",6787,"(860) 283-4421",""
+"Thomaston",900575730,2006,"","158 Main Street","","Thomaston",6787,"(860) 283-4421",""
+"Thomaston",900575730,2011,"","158 Main Street","","Thomaston",6787,"(860) 283-4421",""
+"Thomaston",900575730,2018,"","158 Main Street","","Thomaston",6787,"(860) 283-0305","www.thomastonct.org"
+"Thompson",901575870,1996,"","P.O. Box 899","","North Grosvenordale",6255,"(860) 923-9561",""
+"Thompson",901575870,1999,"","P.O. Box 899","","North Grosvenordale",6255,"(860) 923-9561",""
+"Thompson",901575870,2002,"","P.O. Box 899","","North Grosvenordale",6255,"(860) 923-9561",""
+"Thompson",901575870,2006,"","P.O. Box 899","","North Grosvenordale",6255,"(860) 923-9561",""
+"Thompson",901575870,2011,"","P.O. Box 899","","North Grosvenordale",6255,"(860) 923-9561",""
+"Thompson",901575870,2018,"","P.O. Box 899","","North Grosvenordale",6255,"(860) 923-9561",""
+"Tolland",901376290,1996,"","21 Tolland Green","","Tolland",6084,"(860) 871-3600",""
+"Tolland",901376290,1999,"","21 Tolland Green","","Tolland",6084,"(860) 871-3600",""
+"Tolland",901376290,2002,"","21 Tolland Green","","Tolland",6084,"(860) 871-3600",""
+"Tolland",901376290,2006,"","21 Tolland Green","","Tolland",6084,"(860) 871-3600",""
+"Tolland",901376290,2011,"","21 Tolland Green","","Tolland",6084,"(860) 871-3600",""
+"Tolland",901376290,2018,"","21 Tolland Green","","Tolland",6084,"(860) 871-3600",""
+"Torrington",900576570,1996,"","140 Main Street","","Torrington",6790,"(860) 489-2228",""
+"Torrington",900576570,1999,"","140 Main Street","","Torrington",6790,"(860) 489-2228",""
+"Torrington",900576570,2002,"","140 Main Street","","Torrington",6790,"(860) 489-2228",""
+"Torrington",900576570,2006,"","140 Main Street","","Torrington",6790,"(860) 489-2228",""
+"Torrington",900576570,2011,"","140 Main Street","","Torrington",6790,"(860) 489-2228",""
+"Torrington",900576570,2018,"","140 Main Street","","Torrington",6790,"(860) 489-2228",""
+"Trumbull",900177200,1996,"Town Hall","5866 Main Street","","Trumbull",6611,"(203) 452-5006",""
+"Trumbull",900177200,1999,"Town Hall","5866 Main Street","","Trumbull",6611,"(203) 452-5006",""
+"Trumbull",900177200,2002,"Town Hall","5866 Main Street","","Trumbull",6611,"(203) 452-5006",""
+"Trumbull",900177200,2006,"Town Hall","5866 Main Street","","Trumbull",6611,"(203) 452-5006",""
+"Trumbull",900177200,2011,"Town Hall","5866 Main Street","","Trumbull",6611,"(203) 452-5006",""
+"Trumbull",900177200,2018,"Town Hall","5866 Main Street","","Trumbull",6611,"(203) 452-5006","www.trumbull-ct.gov"
+"Union",901377830,1996,"","1024 Buckley Highway","","Union",6076,"(860) 684-3812",""
+"Union",901377830,1999,"","1024 Buckley Highway","","Union",6076,"(860) 684-3812",""
+"Union",901377830,2002,"","1024 Buckley Highway","","Union",6076,"(860) 684-3812",""
+"Union",901377830,2006,"","1043 Buckley Highway","","Union",6076,"(860) 684-3812",""
+"Union",901377830,2011,"","1043 Buckley Highway","","Union",6076,"(860) 684-3812",""
+"Union",901377830,2018,"","1043 Buckley Highway","","Union",6076,"(860) 684-3812","www.unionconnecticut.org"
+"Vernon",901378250,1996,"","14 Park Place","","Vernon",6066,"(860) 872-8591 ",""
+"Vernon",901378250,1999,"","14 Park Place","","Vernon",6066,"(860) 872-8591 ",""
+"Vernon",901378250,2002,"","14 Park Place","","Vernon",6066,"(860) 872-8591 ",""
+"Vernon",901378250,2006,"","14 Park Place","","Vernon",6066,"(860) 872-8591 ",""
+"Vernon",901378250,2011,"","14 Park Place","","Vernon",6066,"(860) 872-8591 ",""
+"Vernon",901378250,2018,"","14 Park Place","","Vernon",6066,"(860) 870-3600","www.vernon-ct.gov"
+"Voluntown",901178600,1996,"","P.O. Box 96","","Voluntown",6384,"(860) 376-3927",""
+"Voluntown",901178600,1999,"","P.O. Box 96","","Voluntown",6384,"(860) 376-3927",""
+"Voluntown",901178600,2002,"","P.O. Box 96","","Voluntown",6384,"(860) 376-3927",""
+"Voluntown",901178600,2006,"","P.O. Box 96","","Voluntown",6384,"(860) 376-3927",""
+"Voluntown",901178600,2011,"","P.O. Box 96","","Voluntown",6384,"(860) 376-3927",""
+"Voluntown",901178600,2018,"","115 Main Street","P.O. Box 96","Voluntown",6384,"(860) 376-3927","www.voluntown.gov"
+"Wallingford",900978740,1996,"Town Hall","45 South Main Street","","Wallingford",6492,"(203) 294-2070",""
+"Wallingford",900978740,1999,"Town Hall","45 South Main Street","","Wallingford",6492,"(203) 294-2070",""
+"Wallingford",900978740,2002,"Town Hall","45 South Main Street","","Wallingford",6492,"(203) 294-2070",""
+"Wallingford",900978740,2006,"Town Hall","45 South Main Street","","Wallingford",6492,"(203) 294-2070",""
+"Wallingford",900978740,2011,"Town Hall","45 South Main Street","","Wallingford",6492,"(203) 294-2070",""
+"Wallingford",900978740,2018,"Town Hall","45 South Main Street","","Wallingford",6492,"(203) 294-2070","www.town.wallingford.ct.us"
+"Warren",900579510,1996,"","7 Sackett Hill Road","","Warren",6754,"(860) 868-0090",""
+"Warren",900579510,1999,"","7 Sackett Hill Road","","Warren",6754,"(860) 868-0090",""
+"Warren",900579510,2002,"","7 Sackett Hill Road","","Warren",6754,"(860) 868-0090",""
+"Warren",900579510,2006,"","7 Sackett Hill Road","","Warren",6754,"(860) 868-0090",""
+"Warren",900579510,2011,"","7 Sackett Hill Road","","Warren",6754,"(860) 868-0090",""
+"Warren",900579510,2018,"","7 Sackett Hill Road","","Warren",6754,"(860) 868-0090",""
+"Washington",900579720,1996,"","P.O. Box 383","","Washington Depot",6794,"(860) 868-2259",""
+"Washington",900579720,1999,"","P.O. Box 383","","Washington Depot",6794,"(860) 868-2259",""
+"Washington",900579720,2002,"","P.O. Box 383","","Washington Depot",6794,"(860) 868-2259",""
+"Washington",900579720,2006,"","P.O. Box 383","","Washington Depot",6794,"(860) 868-2259",""
+"Washington",900579720,2011,"","P.O. Box 383","","Washington Depot",6794,"(860) 868-2259",""
+"Washington",900579720,2018,"","2 Bryan Plaza","P.O. Box 383","Washington Depot",6794,"(860) 868-2259","www.washingtonct.org"
+"Waterbury",900980070,1996,"","235 & 236 Grand Street","","Waterbury",6702,"(203) 574-6716",""
+"Waterbury",900980070,1999,"","235 & 236 Grand Street","","Waterbury",6702,"(203) 574-6716",""
+"Waterbury",900980070,2002,"","235 & 236 Grand Street","","Waterbury",6702,"(203) 574-6716",""
+"Waterbury",900980070,2006,"","235 & 236 Grand Street","","Waterbury",6702,"(203) 574-6716",""
+"Waterbury",900980070,2011,"","235 & 236 Grand Street","","Waterbury",6702,"(203) 574-6716",""
+"Waterbury",900980070,2018,"","235 & 236 Grand Street","","Waterbury",6702,"(203) 574-6716",""
+"Waterford",901180280,1996,"","15 Rope Ferry Road","","Waterford",6385,"(860) 444-5834",""
+"Waterford",901180280,1999,"","15 Rope Ferry Road","","Waterford",6385,"(860) 444-5834",""
+"Waterford",901180280,2002,"","15 Rope Ferry Road","","Waterford",6385,"(860) 444-5834",""
+"Waterford",901180280,2006,"","15 Rope Ferry Road","","Waterford",6385,"(860) 444-5834",""
+"Waterford",901180280,2011,"","15 Rope Ferry Road","","Waterford",6385,"(860) 444-5834",""
+"Waterford",901180280,2018,"","15 Rope Ferry Road","","Waterford",6385,"(860) 444-5834",""
+"Watertown",900580490,1996,"","37 DeForest Street","","Watertown",6795,"(860) 945-5255",""
+"Watertown",900580490,1999,"","37 DeForest Street","","Watertown",6795,"(860) 945-5255",""
+"Watertown",900580490,2002,"","37 DeForest Street","","Watertown",6795,"(860) 945-5255",""
+"Watertown",900580490,2006,"","37 DeForest Street","","Watertown",6795,"(860) 945-5255",""
+"Watertown",900580490,2011,"","37 DeForest Street","","Watertown",6795,"(860) 945-5255",""
+"Watertown",900580490,2018,"","37 DeForest Street","","Watertown",6795,"(860) 945-5255",""
+"Westbrook",900781680,1996,"","P.O. Box G","","Westbrook",6498,"(860) 399-3040",""
+"Westbrook",900781680,1999,"","P.O. Box G","","Westbrook",6498,"(860) 399-3040",""
+"Westbrook",900781680,2002,"","P.O. Box G","","Westbrook",6498,"(860) 399-3040",""
+"Westbrook",900781680,2006,"","P.O. Box G","","Westbrook",6498,"(860) 399-3040",""
+"Westbrook",900781680,2011,"","P.O. Box G","","Westbrook",6498,"(860) 399-3040",""
+"Westbrook",900781680,2018,"","866 Boston Post Road","","Westbrook",6498,"(860) 399-3016","www.westbrookct.us"
+"West Hartford",900382590,1996,"","50 South Main Street","","West Hartford",6107,"(860) 523-3142",""
+"West Hartford",900382590,1999,"","50 South Main Street","","West Hartford",6107,"(860) 523-3142",""
+"West Hartford",900382590,2002,"","50 South Main Street","","West Hartford",6107,"(860) 523-3142",""
+"West Hartford",900382590,2006,"","50 South Main Street","","West Hartford",6107,"(860) 523-3142",""
+"West Hartford",900382590,2011,"","50 South Main Street","","West Hartford",6107,"(860) 561-7500",""
+"West Hartford",900382590,2018,"","50 South Main Street","","West Hartford",6107,"(860) 561-7500","www.westhartfordct.gov"
+"West Haven",900982870,1996,"City Hall","355 Main Street","","West Haven",6516,"(203) 937-3510",""
+"West Haven",900982870,1999,"City Hall","355 Main Street","","West Haven",6516,"(203) 937-3510",""
+"West Haven",900982870,2002,"City Hall","355 Main Street","","West Haven",6516,"(203) 937-3510",""
+"West Haven",900982870,2006,"City Hall","355 Main Street","","West Haven",6516,"(203) 937-3510",""
+"West Haven",900982870,2011,"City Hall","355 Main Street","","West Haven",6516,"(203) 937-3510",""
+"West Haven",900982870,2018,"City Hall","355 Main Street","","West Haven",6516,"(203) 937-3510",""
+"Weston",900183430,1996,"","P.O. Box 1007","","Weston",6883,"(203) 222-2656",""
+"Weston",900183430,1999,"","P.O. Box 1007","","Weston",6883,"(203) 222-2656",""
+"Weston",900183430,2002,"","P.O. Box 1007","","Weston",6883,"(203) 222-2656",""
+"Weston",900183430,2006,"","P.O. Box 1007","","Weston",6883,"(203) 222-2656",""
+"Weston",900183430,2011,"","P.O. Box 1007","","Weston",6883,"(203) 222-2656",""
+"Weston",900183430,2018,"","56 Norfield Road","","Weston",6883,"(203) 222-2656","www.westonct.gov"
+"Westport",900183500,1996,"","110 Myrtle Avenue","","Westport",6880,"(203) 341-1111",""
+"Westport",900183500,1999,"","110 Myrtle Avenue","","Westport",6880,"(203) 341-1111",""
+"Westport",900183500,2002,"","110 Myrtle Avenue","","Westport",6880,"(203) 341-1111",""
+"Westport",900183500,2006,"","110 Myrtle Avenue","","Westport",6880,"(203) 341-1111",""
+"Westport",900183500,2011,"","110 Myrtle Avenue","","Westport",6880,"(203) 341-1111",""
+"Westport",900183500,2018,"","110 Myrtle Avenue","","Westport",6880,"(203) 341-1111","www.westportct.gov"
+"Wethersfield",900384900,1996,"","505 Silas Deane Highway","","Wethersfield",6109,"(860) 721-2801",""
+"Wethersfield",900384900,1999,"","505 Silas Deane Highway","","Wethersfield",6109,"(860) 721-2801",""
+"Wethersfield",900384900,2002,"","505 Silas Deane Highway","","Wethersfield",6109,"(860) 721-2801",""
+"Wethersfield",900384900,2006,"","505 Silas Deane Highway","","Wethersfield",6109,"(860) 721-2801",""
+"Wethersfield",900384900,2011,"","505 Silas Deane Highway","","Wethersfield",6109,"(860) 721-2801",""
+"Wethersfield",900384900,2018,"","505 Silas Deane Highway","","Wethersfield",6109,"(860) 721-2801",""
+"Willington",901385950,1996,"","40 Old Farms Road","","Willington",6279,"(860) 429-5649",""
+"Willington",901385950,1999,"","40 Old Farms Road","","Willington",6279,"(860) 429-5649",""
+"Willington",901385950,2002,"","40 Old Farms Road","","Willington",6279,"(860) 429-5649",""
+"Willington",901385950,2006,"","40 Old Farms Road","","Willington",6279,"(860) 429-5649",""
+"Willington",901385950,2011,"","40 Old Farms Road","","Willington",6279,"(860) 429-5649",""
+"Willington",901385950,2018,"","40 Old Farms Road","","Willington",6279,"(860) 487-3100","www.willingtonct.org"
+"Wilton",900186370,1996,"","238 Danbury Road","","Wilton",6897,"(203) 834-9200",""
+"Wilton",900186370,1999,"","238 Danbury Road","","Wilton",6897,"(203) 834-9200",""
+"Wilton",900186370,2002,"","238 Danbury Road","","Wilton",6897,"(203) 834-9200",""
+"Wilton",900186370,2006,"","238 Danbury Road","","Wilton",6897,"(203) 834-9200",""
+"Wilton",900186370,2011,"","238 Danbury Road","","Wilton",6897,"(203) 834-9200",""
+"Wilton",900186370,2018,"","238 Danbury Road","","Wilton",6897,"(203) 834-9200",""
+"Winchester",900586440,1996,"","338 Main Street","","Winchester",6098,"(860) 738-6962",""
+"Winchester",900586440,1999,"","338 Main Street","","Winchester",6098,"(860) 738-6962",""
+"Winchester",900586440,2002,"","338 Main Street","","Winchester",6098,"(860) 738-6962",""
+"Winchester",900586440,2006,"","338 Main Street","","Winchester",6098,"(860) 738-6962",""
+"Winchester",900586440,2011,"","338 Main Street","","Winchester",6098,"(860) 738-6962",""
+"Winchester",900586440,2018,"","338 Main Street","","Winchester",6098,"(860) 738-6962",""
+"Windham",901586790,1996,"","979 Main Street","","Willimantic",6226,"(860) 465-3006",""
+"Windham",901586790,1999,"","979 Main Street","","Willimantic",6226,"(860) 465-3006",""
+"Windham",901586790,2002,"","979 Main Street","","Willimantic",6226,"(860) 465-3006",""
+"Windham",901586790,2006,"","979 Main Street","","Willimantic",6226,"(860) 465-3006",""
+"Windham",901586790,2011,"","979 Main Street","","Willimantic",6226,"(860) 465-3006",""
+"Windham",901586790,2018,"","979 Main Street","","Willimantic",6226,"(860) 465-3006",""
+"Windsor",900387000,1996,"","275 Broad Street","","Windsor",6095,"(860) 285-1800",""
+"Windsor",900387000,1999,"","275 Broad Street","","Windsor",6095,"(860) 285-1800",""
+"Windsor",900387000,2002,"","275 Broad Street","","Windsor",6095,"(860) 285-1800",""
+"Windsor",900387000,2006,"","275 Broad Street","","Windsor",6095,"(860) 285-1800",""
+"Windsor",900387000,2011,"","275 Broad Street","","Windsor",6095,"(860) 285-1800",""
+"Windsor",900387000,2018,"","275 Broad Street","","Windsor",6095,"(860) 285-1877","www.townofwindsorct.com"
+"Windsor Locks",900387070,1996,"","50 Church Street","","Windsor Locks",6096,"(860) 627-1444",""
+"Windsor Locks",900387070,1999,"","50 Church Street","","Windsor Locks",6096,"(860) 627-1444",""
+"Windsor Locks",900387070,2002,"","50 Church Street","","Windsor Locks",6096,"(860) 627-1444",""
+"Windsor Locks",900387070,2006,"","50 Church Street","","Windsor Locks",6096,"(860) 627-1444",""
+"Windsor Locks",900387070,2011,"","50 Church Street","","Windsor Locks",6096,"(860) 627-1444",""
+"Windsor Locks",900387070,2018,"","50 Church Street","","Windsor Locks",6096,"(860) 627-1444",""
+"Wolcott",900987560,1996,"","10 Kenea Avenue","","Wolcott",6716,"(203) 879-8100",""
+"Wolcott",900987560,1999,"","10 Kenea Avenue","","Wolcott",6716,"(203) 879-8100",""
+"Wolcott",900987560,2002,"","10 Kenea Avenue","","Wolcott",6716,"(203) 879-8100",""
+"Wolcott",900987560,2006,"","10 Kenea Avenue","","Wolcott",6716,"(203) 879-8100",""
+"Wolcott",900987560,2011,"","10 Kenea Avenue","","Wolcott",6716,"(203) 879-8100",""
+"Wolcott",900987560,2018,"","10 Kenea Avenue","","Wolcott",6716,"(203) 879-8100",""
+"Woodbridge",900987700,1996,"Town Hall","11 Meetinghouse Lane","","Woodbridge",6525,"(203) 389-3400",""
+"Woodbridge",900987700,1999,"Town Hall","11 Meetinghouse Lane","","Woodbridge",6525,"(203) 389-3401",""
+"Woodbridge",900987700,2002,"Town Hall","11 Meetinghouse Lane","","Woodbridge",6525,"(203) 389-3401",""
+"Woodbridge",900987700,2006,"Town Hall","11 Meetinghouse Lane","","Woodbridge",6525,"(203) 389-3401",""
+"Woodbridge",900987700,2011,"Town Hall","11 Meetinghouse Lane","","Woodbridge",6525,"(203) 389-3401",""
+"Woodbridge",900987700,2018,"Town Hall","11 Meetinghouse Lane","","Woodbridge",6525,"(203) 389-3401",""
+"Woodbury",900587910,1996,"","P.O. Box 369","","Woodbury",6798,"(203) 263-2141",""
+"Woodbury",900587910,1999,"","P.O. Box 369","","Woodbury",6798,"(203) 263-2141",""
+"Woodbury",900587910,2002,"","P.O. Box 369","","Woodbury",6798,"(203) 263-2141",""
+"Woodbury",900587910,2006,"","P.O. Box 369","","Woodbury",6798,"(203) 263-2141",""
+"Woodbury",900587910,2011,"","P.O. Box 369","","Woodbury",6798,"(203) 263-2141",""
+"Woodbury",900587910,2018,"","281 Main Street South","","Woodbury",6798,"(203) 263-2141","www.woodburyct.org"
+"Woodstock",901588190,1996,"","415 Route 169","","Woodstock",6281,"(860) 928-0208",""
+"Woodstock",901588190,1999,"","415 Route 169","","Woodstock",6281,"(860) 928-0208",""
+"Woodstock",901588190,2002,"","415 Route 169","","Woodstock",6281,"(860) 928-0208",""
+"Woodstock",901588190,2006,"","415 Route 169","","Woodstock",6281,"(860) 928-0208",""
+"Woodstock",901588190,2011,"","415 Route 169","","Woodstock",6281,"(860) 928-0208",""
+"Woodstock",901588190,2018,"","415 Route 169","","Woodstock",6281,"(860) 928-6929","www.woodstockct.gov"
