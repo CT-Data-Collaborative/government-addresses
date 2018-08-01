@@ -26,11 +26,13 @@ gov_addresses$Website <- ""
 gov_addresses <- rbind(gov_addresses, gov_addresses18)
 
 #arrange by Town
-gov_addresses <- gov_addresses %>% arrange(Town)
+gov_addresses_no_web <- gov_addresses %>% 
+  select(-Website) %>% 
+  arrange(Town)
 
 #Write to file
 write.table(
-  gov_addresses,
+  gov_addresses_no_web,
   file.path(getwd(), "data", "government-addresses.csv"),
   sep = ",",
   row.names = F
